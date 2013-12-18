@@ -1,0 +1,7899 @@
+*****
+001
+Bulbasaur
+http://www.serebii.net/xy/pokemon/001.png
+grass
+poison
+X -- Lumiose City - Professor Sycamore
+Y -- Lumiose City - Professor Sycamore
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+002
+Ivysaur
+http://www.serebii.net/xy/pokemon/002.png
+grass
+poison
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+003
+Venusaur
+http://www.serebii.net/xy/pokemon/003.png
+grass
+poison
+X -- Evolve Ivysaur
+Y -- Evolve Ivysaur
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+004
+Charmander
+http://www.serebii.net/xy/pokemon/004.png
+fire
+
+X -- Lumiose City - Professor Sycamore
+Y -- Lumiose City - Professor Sycamore
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+005
+Charmeleon
+http://www.serebii.net/xy/pokemon/005.png
+fire
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+006
+Charizard
+http://www.serebii.net/xy/pokemon/006.png
+fire
+flying
+X -- Evolve Charmeleon
+Y -- Evolve Charmeleon
+1 0.5 2 2 0.25 1 0.5 1 0 1 1 0.25 4 1 1 1 0.5 0.5 
+false
+false
+*****
+007
+Squirtle
+http://www.serebii.net/xy/pokemon/007.png
+water
+
+X -- Lumiose City - Professor Sycamore
+Y -- Lumiose City - Professor Sycamore
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+008
+Wartortle
+http://www.serebii.net/xy/pokemon/008.png
+water
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+009
+Blastoise
+http://www.serebii.net/xy/pokemon/009.png
+water
+
+X -- Evolve Wartortle
+Y -- Evolve Wartortle
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+010
+Caterpie
+http://www.serebii.net/xy/pokemon/010.png
+bug
+
+X -- Santalune Fores
+Y -- Route 2, Santalune Forest
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+011
+Metapod
+http://www.serebii.net/xy/pokemon/011.png
+bug
+
+X -- Evolve Caterpie
+Y -- Santalune Forest
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+012
+Butterfree
+http://www.serebii.net/xy/pokemon/012.png
+bug
+flying
+X -- Evolve Metapod, Friend Safari
+Y -- Evolve Metapod, Friend Safari
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+013
+Weedle
+http://www.serebii.net/xy/pokemon/013.png
+bug
+poison
+X -- Route 2, Santalune Forest
+Y -- Santalune Forest
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+014
+Kakuna
+http://www.serebii.net/xy/pokemon/014.png
+bug
+poison
+X -- Santalune Forest, Friend Safari
+Y -- Evolve Weedle, Friend Safari
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+015
+Beedrill
+http://www.serebii.net/xy/pokemon/015.png
+bug
+poison
+X -- Evolve Kakuna
+Y -- Evolve Kakuna
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+016
+Pidgey
+http://www.serebii.net/xy/pokemon/016.png
+normal
+flying
+X -- Route 2, Route 3, Friend Safari
+Y -- Route 2, Route 3, Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+017
+Pidgeotto
+http://www.serebii.net/xy/pokemon/017.png
+normal
+flying
+X -- Evolve Pidgey
+Y -- Evolve Pidgey
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+018
+Pidgeot
+http://www.serebii.net/xy/pokemon/018.png
+normal
+flying
+X -- Evolve Pidgeotto
+Y -- Evolve Pidgeotto
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+019
+Rattata
+http://www.serebii.net/xy/pokemon/019.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+020
+Raticate
+http://www.serebii.net/xy/pokemon/020.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+021
+Spearow
+http://www.serebii.net/xy/pokemon/021.png
+normal
+flying
+X -- Breed Fearow, Friend Safari
+Y -- Breed Fearow, Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+022
+Fearow
+http://www.serebii.net/xy/pokemon/022.png
+normal
+flying
+X -- Route 18. Victory Road
+Y -- Route 18. Victory Road
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+023
+Ekans
+http://www.serebii.net/xy/pokemon/023.png
+poison
+
+X -- Route 14, Route 19
+Y -- Route 14,  Route 19
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+024
+Arbok
+http://www.serebii.net/xy/pokemon/024.png
+poison
+
+X -- Route 19
+Y -- Route 19
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+025
+Pikachu
+http://www.serebii.net/xy/pokemon/025.png
+electric
+
+X -- Route 3, Santalune Forest, Friend Safari
+Y -- Route 3, Santalune Forest, Friend Safari
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+026
+Raichu
+http://www.serebii.net/xy/pokemon/026.png
+electric
+
+X -- Evolve Pikachu
+Y -- Evolve Pikachu
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+027
+Sandshrew
+http://www.serebii.net/xy/pokemon/027.png
+ground
+
+X -- Breed Sandslash, Friend Safari
+Y -- Breed Sandslash, Friend Safari
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+028
+Sandslash
+http://www.serebii.net/xy/pokemon/028.png
+ground
+
+X -- Route 18, Terminus Cave
+Y -- 
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+029
+Nidoran♀
+http://www.serebii.net/xy/pokemon/029.png
+poison
+
+X -- Route 11
+Y -- Route 11
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+030
+Nidorina
+http://www.serebii.net/xy/pokemon/030.png
+poison
+
+X -- Route 11
+Y -- Route 11
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+031
+Nidoqueen
+http://www.serebii.net/xy/pokemon/031.png
+poison
+ground
+X -- Evolve Nidorina
+Y -- Evolve Nidorina
+1 1 2 0 1 2 0.5 0.25 2 1 2 0.5 0.5 1 1 1 1 0.5 
+false
+false
+*****
+032
+Nidoran♂
+http://www.serebii.net/xy/pokemon/032.png
+poison
+
+X -- Route 11
+Y -- Route 11
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+033
+Nidorino
+http://www.serebii.net/xy/pokemon/033.png
+poison
+
+X -- Route 11
+Y -- Route 11
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+034
+Nidoking
+http://www.serebii.net/xy/pokemon/034.png
+poison
+ground
+X -- Evolve Nidorino
+Y -- Evolve Nidorino
+1 1 2 0 1 2 0.5 0.25 2 1 2 0.5 0.5 1 1 1 1 0.5 
+false
+false
+*****
+035
+Clefairy
+http://www.serebii.net/xy/pokemon/035.png
+fairy
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+036
+Clefable
+http://www.serebii.net/xy/pokemon/036.png
+fairy
+
+X -- Evolve Clefairy
+Y -- Evolve Clefairy
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+037
+Vulpix
+http://www.serebii.net/xy/pokemon/037.png
+fire
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+038
+Ninetales
+http://www.serebii.net/xy/pokemon/038.png
+fire
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+039
+Jigglypuff
+http://www.serebii.net/xy/pokemon/039.png
+normal
+fairy
+X -- Route 20, Pokémon Village, Friend Safari
+Y -- Route 20, Pokémon Village, Friend Safari
+1 1 1 1 1 1 1 2 1 1 1 0.5 1 0 0 0.5 2 1 
+false
+false
+*****
+040
+Wigglytuff
+http://www.serebii.net/xy/pokemon/040.png
+normal
+fairy
+X -- Evolve Jigglypuff
+Y -- Evolve Jigglypuff
+1 1 1 1 1 1 1 2 1 1 1 0.5 1 0 0 0.5 2 1 
+false
+false
+*****
+041
+Zubat
+http://www.serebii.net/xy/pokemon/041.png
+poison
+flying
+X -- Connecting Cave
+Y -- Connecting Cave
+1 1 1 2 0.25 2 0.25 0.5 0 1 2 0.25 2 1 1 1 1 0.5 
+false
+false
+*****
+042
+Golbat
+http://www.serebii.net/xy/pokemon/042.png
+poison
+flying
+X -- Evolve Zubat
+Y -- Evolve Zubat
+1 1 1 2 0.25 2 0.25 0.5 0 1 2 0.25 2 1 1 1 1 0.5 
+false
+false
+*****
+043
+Oddish
+http://www.serebii.net/xy/pokemon/043.png
+grass
+poison
+X -- Route 6, Friend Safari
+Y -- Route 6, Friend Safari
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+044
+Gloom
+http://www.serebii.net/xy/pokemon/044.png
+grass
+poison
+X -- Evolve Oddish, Friend Safari
+Y -- Evolve Oddish, Friend Safari
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+045
+Vileplume
+http://www.serebii.net/xy/pokemon/045.png
+grass
+poison
+X -- Evolve Gloom
+Y -- Evolve Gloom
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+046
+Paras
+http://www.serebii.net/xy/pokemon/046.png
+bug
+grass
+X -- Friend Safari
+Y -- Friend Safari
+1 4 0.5 0.5 0.25 2 0.5 2 0.25 4 1 2 2 1 1 1 1 1 
+false
+false
+*****
+047
+Parasect
+http://www.serebii.net/xy/pokemon/047.png
+bug
+grass
+X -- Evolve Paras
+Y -- Evolve Paras
+1 4 0.5 0.5 0.25 2 0.5 2 0.25 4 1 2 2 1 1 1 1 1 
+false
+false
+*****
+048
+Venonat
+http://www.serebii.net/xy/pokemon/048.png
+bug
+poison
+X -- Breed Venomoth
+Y -- Breed Venomoth
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+049
+Venomoth
+http://www.serebii.net/xy/pokemon/049.png
+bug
+poison
+X -- Friend Safari
+Y -- Friend Safari
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+050
+Diglett
+http://www.serebii.net/xy/pokemon/050.png
+ground
+
+X -- Breed Dugtrio
+Y -- Breed Dugtrio
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+051
+Dugtrio
+http://www.serebii.net/xy/pokemon/051.png
+ground
+
+X -- Route 13, Friend Safari
+Y -- Route 13, Friend Safari
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+052
+Meowth
+http://www.serebii.net/xy/pokemon/052.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+053
+Persian
+http://www.serebii.net/xy/pokemon/053.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+054
+Psyduck
+http://www.serebii.net/xy/pokemon/054.png
+water
+
+X -- Route 7, Route 22
+Y -- Route 7, Route 22
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+055
+Golduck
+http://www.serebii.net/xy/pokemon/055.png
+water
+
+X -- Evolve Psyduck
+Y -- Evolve Psyduck
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+056
+Mankey
+http://www.serebii.net/xy/pokemon/056.png
+fighting
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+057
+Primeape
+http://www.serebii.net/xy/pokemon/057.png
+fighting
+
+X -- Evolve Mankey
+Y -- Evolve Mankey
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+058
+Growlithe
+http://www.serebii.net/xy/pokemon/058.png
+fire
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+059
+Arcanine
+http://www.serebii.net/xy/pokemon/059.png
+fire
+
+X -- Evolve Growlithe
+Y -- Evolve Growlithe
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+060
+Poliwag
+http://www.serebii.net/xy/pokemon/060.png
+water
+
+X -- Route 14, Route 15, Route 16, Route 19, Route 21, Pokémon Village
+Y -- Route 14, Route 15, Route 16, Route 19, Route 21, Pokémon Village
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+061
+Poliwhirl
+http://www.serebii.net/xy/pokemon/061.png
+water
+
+X -- Route 14, Route 15, Route 16, Route 19, Route 21, Pokémon Village, Friend Safari
+Y -- Route 14, Route 15, Route 16, Route 19, Route 21, Pokémon Village, Friend Safari
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+062
+Poliwrath
+http://www.serebii.net/xy/pokemon/062.png
+water
+fighting
+X -- Victory Road
+Y -- Victory Road
+1 0.5 0.5 2 2 0.5 1 1 1 2 2 0.5 0.5 1 1 0.5 0.5 2 
+false
+false
+*****
+063
+Abra
+http://www.serebii.net/xy/pokemon/063.png
+psychic
+
+X -- Route 5, Friend Safari
+Y -- Route 5, Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+064
+Kadabra
+http://www.serebii.net/xy/pokemon/064.png
+psychic
+
+X -- Evolve Abra
+Y -- Evolve Abra
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+065
+Alakazam
+http://www.serebii.net/xy/pokemon/065.png
+psychic
+
+X -- Evolve Kadabra
+Y -- Evolve Kadabra
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+066
+Machop
+http://www.serebii.net/xy/pokemon/066.png
+fighting
+
+X -- Glittering Cave
+Y -- Glittering Cave
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+067
+Machoke
+http://www.serebii.net/xy/pokemon/067.png
+fighting
+
+X -- Evolve Machop, Friend Safari
+Y -- Evolve Machop, Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+068
+Machamp
+http://www.serebii.net/xy/pokemon/068.png
+fighting
+
+X -- Evolve Machoke
+Y -- Evolve Machoke
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+069
+Bellsprout
+http://www.serebii.net/xy/pokemon/069.png
+grass
+poison
+X -- Route 14
+Y -- Route 14
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+070
+Weepinbell
+http://www.serebii.net/xy/pokemon/070.png
+grass
+poison
+X -- Route 14, 16, 19
+Y -- Route 14, 16, 19
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+071
+Victreebel
+http://www.serebii.net/xy/pokemon/071.png
+grass
+poison
+X -- Evolve Weepinbell
+Y -- Evolve Weepinbell
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+072
+Tentacool
+http://www.serebii.net/xy/pokemon/072.png
+water
+poison
+X -- Route 8, 12, Ambrette Town, Azure Bay, Cyllage City
+Y -- Route 8, 12, Ambrette Town, Azure Bay, Cyllage City
+1 0.5 0.5 2 1 0.5 0.5 0.5 2 1 2 0.5 1 1 1 1 0.5 0.5 
+false
+false
+*****
+073
+Tentacruel
+http://www.serebii.net/xy/pokemon/073.png
+water
+poison
+X -- Evolve Tentacool
+Y -- Evolve Tentacool
+1 0.5 0.5 2 1 0.5 0.5 0.5 2 1 2 0.5 1 1 1 1 0.5 0.5 
+false
+false
+*****
+074
+Geodude
+http://www.serebii.net/xy/pokemon/074.png
+rock
+ground
+X -- Route 18, Terminus Cave, Victory Road
+Y -- Route 18, Terminus Cave, Victory Road
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+075
+Graveler
+http://www.serebii.net/xy/pokemon/075.png
+rock
+ground
+X -- Route 13, Route 18, Terminus Cave, Victory Road
+Y -- Route 13, Route 18, Terminus Cave, Victory Road
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+076
+Golem
+http://www.serebii.net/xy/pokemon/076.png
+rock
+ground
+X -- Evolve Graveler
+Y -- Evolve Graveler
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+077
+Ponyta
+http://www.serebii.net/xy/pokemon/077.png
+fire
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+078
+Rapidash
+http://www.serebii.net/xy/pokemon/078.png
+fire
+
+X -- Evolve Ponyta
+Y -- Evolve Ponyta
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+079
+Slowpoke
+http://www.serebii.net/xy/pokemon/079.png
+water
+psychic
+X -- Route 12
+Y -- Route 12
+1 0.5 0.5 2 2 0.5 0.5 1 1 1 0.5 2 1 2 1 2 0.5 1 
+false
+false
+*****
+080
+Slowbro
+http://www.serebii.net/xy/pokemon/080.png
+water
+psychic
+X -- Evolve Slowpoke
+Y -- Evolve Slowpoke
+1 0.5 0.5 2 2 0.5 0.5 1 1 1 0.5 2 1 2 1 2 0.5 1 
+false
+false
+*****
+081
+Magnemite
+http://www.serebii.net/xy/pokemon/081.png
+electric
+steel
+X -- Breed Magneton
+Y -- Breed Magneton
+0.5 2 1 0.5 0.5 0.5 2 0 4 0.25 0.5 0.5 0.5 1 0.5 1 0.25 0.5 
+false
+false
+*****
+082
+Magneton
+http://www.serebii.net/xy/pokemon/082.png
+electric
+steel
+X -- Lost Hotel, Friend Safari
+Y -- Lost Hotel, Friend Safari
+0.5 2 1 0.5 0.5 0.5 2 0 4 0.25 0.5 0.5 0.5 1 0.5 1 0.25 0.5 
+false
+false
+*****
+083
+Farfetch'd
+http://www.serebii.net/xy/pokemon/083.png
+normal
+flying
+X -- Route 22, Friend Safari
+Y -- Route 22, Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+084
+Doduo
+http://www.serebii.net/xy/pokemon/084.png
+normal
+flying
+X -- Route 5, Friend Safari
+Y -- Route 5, Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+085
+Dodrio
+http://www.serebii.net/xy/pokemon/085.png
+normal
+flying
+X -- Evolve Doduo
+Y -- Evolve Doduo
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+086
+Seel
+http://www.serebii.net/xy/pokemon/086.png
+water
+
+X -- Breed Dewgong
+Y -- Breed Dewgong
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+087
+Dewgong
+http://www.serebii.net/xy/pokemon/087.png
+water
+ice
+X -- Friend Safari
+Y -- Friend Safari
+1 1 0.5 2 2 0.25 2 1 1 1 1 1 2 1 1 1 1 1 
+false
+false
+*****
+088
+Grimer
+http://www.serebii.net/xy/pokemon/088.png
+poison
+
+X -- Breed Muk
+Y -- Breed Muk
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+089
+Muk
+http://www.serebii.net/xy/pokemon/089.png
+poison
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+090
+Shellder
+http://www.serebii.net/xy/pokemon/090.png
+water
+
+X -- Trade from Y
+Y -- Route 8 - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+091
+Cloyster
+http://www.serebii.net/xy/pokemon/091.png
+water
+ice
+X -- Trade from Y, Friend Safari
+Y -- Route 8 - Fish, Friend Safari
+1 1 0.5 2 2 0.25 2 1 1 1 1 1 2 1 1 1 1 1 
+false
+false
+*****
+092
+Gastly
+http://www.serebii.net/xy/pokemon/092.png
+ghost
+poison
+X -- Breed Haunter
+Y -- Breed Haunter
+0 1 1 1 0.5 1 0 0.25 2 1 2 0.25 1 2 1 2 1 0.5 
+false
+false
+*****
+093
+Haunter
+http://www.serebii.net/xy/pokemon/093.png
+ghost
+poison
+X -- Route 14, Route 19, Victory Road, Frost Cavern
+Y -- Route 14, Route 19, Victory Road, Frost Cavern
+0 1 1 1 0.5 1 0 0.25 2 1 2 0.25 1 2 1 2 1 0.5 
+false
+false
+*****
+094
+Gengar
+http://www.serebii.net/xy/pokemon/094.png
+ghost
+poison
+X -- Evolve Haunter
+Y -- Evolve Haunter
+0 1 1 1 0.5 1 0 0.25 2 1 2 0.25 1 2 1 2 1 0.5 
+false
+false
+*****
+095
+Onix
+http://www.serebii.net/xy/pokemon/095.png
+rock
+ground
+X -- Glittering Cave, Friend Safari
+Y -- Glittering Cave, Friend Safari
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+096
+Drowzee
+http://www.serebii.net/xy/pokemon/096.png
+psychic
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+097
+Hypno
+http://www.serebii.net/xy/pokemon/097.png
+psychic
+
+X -- Evolve Drowzee
+Y -- Evolve Drowzee
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+098
+Krabby
+http://www.serebii.net/xy/pokemon/098.png
+water
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+099
+Kingler
+http://www.serebii.net/xy/pokemon/099.png
+water
+
+X -- Evolve Krabby
+Y -- Evolve Krabby
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+100
+Voltorb
+http://www.serebii.net/xy/pokemon/100.png
+electric
+
+X -- Breed Electrode
+Y -- Breed Electrode
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+101
+Electrode
+http://www.serebii.net/xy/pokemon/101.png
+electric
+
+X -- Lost Hotel, Friend Safari
+Y -- Lost Hotel, Friend Safari
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+102
+Exeggcute
+http://www.serebii.net/xy/pokemon/102.png
+grass
+psychic
+X -- Route 12
+Y -- Route 12
+1 2 0.5 0.5 0.5 2 0.5 2 0.5 2 0.5 4 1 2 1 2 1 1 
+false
+false
+*****
+103
+Exeggutor
+http://www.serebii.net/xy/pokemon/103.png
+grass
+psychic
+X -- Evolve Exeggcute
+Y -- Evolve Exeggcute
+1 2 0.5 0.5 0.5 2 0.5 2 0.5 2 0.5 4 1 2 1 2 1 1 
+false
+false
+*****
+104
+Cubone
+http://www.serebii.net/xy/pokemon/104.png
+ground
+
+X -- Glittering Cave, Friend Safari
+Y -- Glittering Cave, Friend Safari
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+105
+Marowak
+http://www.serebii.net/xy/pokemon/105.png
+ground
+
+X -- Evolve Cubone, Friend Safari
+Y -- Evolve Cubone, Friend Safari
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+106
+Hitmonlee
+http://www.serebii.net/xy/pokemon/106.png
+fighting
+
+X -- Evolve Tyrogue
+Y -- Evolve Tyrogue
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+107
+Hitmonchan
+http://www.serebii.net/xy/pokemon/107.png
+fighting
+
+X -- Evolve Tyrogue
+Y -- Evolve Tyrogue
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+108
+Lickitung
+http://www.serebii.net/xy/pokemon/108.png
+normal
+
+X -- Victory Road
+Y -- Victory Road
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+109
+Koffing
+http://www.serebii.net/xy/pokemon/109.png
+poison
+
+X -- 
+Y -- 
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+110
+Weezing
+http://www.serebii.net/xy/pokemon/110.png
+poison
+
+X -- 
+Y -- 
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+111
+Rhyhorn
+http://www.serebii.net/xy/pokemon/111.png
+ground
+rock
+X -- Glittering Cave
+Y -- Glittering Cave
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+112
+Rhydon
+http://www.serebii.net/xy/pokemon/112.png
+ground
+rock
+X -- Evolve Rhyhorn, Friend Safari
+Y -- Evolve Rhyhorn, Friend Safari
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+113
+Chansey
+http://www.serebii.net/xy/pokemon/113.png
+normal
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+114
+Tangela
+http://www.serebii.net/xy/pokemon/114.png
+grass
+
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+115
+Kangaskhan
+http://www.serebii.net/xy/pokemon/115.png
+normal
+
+X -- Glittering Cave
+Y -- Glittering Cave
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+116
+Horsea
+http://www.serebii.net/xy/pokemon/116.png
+water
+
+X -- Ambrette Town, Cyllage City - Fish
+Y -- Ambrette Town, Cyllage City - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+117
+Seadra
+http://www.serebii.net/xy/pokemon/117.png
+water
+
+X -- Ambrette Town, Cyllage City - Fish
+Y -- Ambrette Town, Cyllage City - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+118
+Goldeen
+http://www.serebii.net/xy/pokemon/118.png
+water
+
+X -- Route 3, Route 22
+Y -- Route 3, Route 22
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+119
+Seaking
+http://www.serebii.net/xy/pokemon/119.png
+water
+
+X -- Route 3, Route 22
+Y -- Route 3, Route 22
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+120
+Staryu
+http://www.serebii.net/xy/pokemon/120.png
+water
+
+X -- Route 8 - Fish
+Y -- Trade from X
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+121
+Starmie
+http://www.serebii.net/xy/pokemon/121.png
+water
+psychic
+X -- Route 8 - Fish
+Y -- Trade from X
+1 0.5 0.5 2 2 0.5 0.5 1 1 1 0.5 2 1 2 1 2 0.5 1 
+false
+false
+*****
+122
+Mr.
+http://www.serebii.net/xy/pokemon/122.png
+psychic
+fairy
+X -- Reflection Cave
+Y -- Reflection Cave
+1 1 1 1 1 1 0.25 2 1 1 0.5 1 1 2 0 1 2 1 
+false
+false
+*****
+123
+Scyther
+http://www.serebii.net/xy/pokemon/123.png
+bug
+flying
+X -- Route 21
+Y -- Route 21
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+124
+Jynx
+http://www.serebii.net/xy/pokemon/124.png
+ice
+psychic
+X -- Frost Cavern
+Y -- Frost Cavern
+1 2 1 1 1 0.5 1 1 1 1 0.5 2 2 2 1 2 2 1 
+false
+false
+*****
+125
+Electabuzz
+http://www.serebii.net/xy/pokemon/125.png
+electric
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+126
+Magmar
+http://www.serebii.net/xy/pokemon/126.png
+fire
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+127
+Pinsir
+http://www.serebii.net/xy/pokemon/127.png
+bug
+
+X -- Route 12, Friend Safari
+Y -- Trade from X, Friend Safari
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+128
+Tauros
+http://www.serebii.net/xy/pokemon/128.png
+normal
+
+X -- Route 12
+Y -- Route 12
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+129
+Magikarp
+http://www.serebii.net/xy/pokemon/129.png
+water
+
+X -- Route 3, Route 22
+Y -- Route 3, Route 22
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+130
+Gyarados
+http://www.serebii.net/xy/pokemon/130.png
+water
+flying
+X -- Route 3, Route 22, Friend Safari
+Y -- Route 3, Route 22, Friend Safari
+1 0.5 0.5 4 1 1 0.5 1 0 1 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+131
+Lapras
+http://www.serebii.net/xy/pokemon/131.png
+water
+ice
+X -- Route 12, Azure Bay, Friend Safari
+Y -- Route 12, Azure Bay, Friend Safari
+1 1 0.5 2 2 0.25 2 1 1 1 1 1 2 1 1 1 1 1 
+false
+false
+*****
+132
+Ditto
+http://www.serebii.net/xy/pokemon/132.png
+normal
+
+X -- Pokémon Village, Friend Safari
+Y -- Pokémon Village, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+133
+Eevee
+http://www.serebii.net/xy/pokemon/133.png
+normal
+
+X -- Route 10, Friend Safari
+Y -- Route 10, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+134
+Vaporeon
+http://www.serebii.net/xy/pokemon/134.png
+water
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+135
+Jolteon
+http://www.serebii.net/xy/pokemon/135.png
+electric
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+136
+Flareon
+http://www.serebii.net/xy/pokemon/136.png
+fire
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+137
+Porygon
+http://www.serebii.net/xy/pokemon/137.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+138
+Omanyte
+http://www.serebii.net/xy/pokemon/138.png
+rock
+water
+X -- Revive Helix Fossil
+Y -- Revive Helix Fossil
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+139
+Omastar
+http://www.serebii.net/xy/pokemon/139.png
+rock
+water
+X -- Evolve Omanyte
+Y -- Evolve Omanyte
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+140
+Kabuto
+http://www.serebii.net/xy/pokemon/140.png
+rock
+water
+X -- Revive Dome Fossil
+Y -- Revive Dome Fossil
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+141
+Kabutops
+http://www.serebii.net/xy/pokemon/141.png
+rock
+water
+X -- Evolve Kabuto
+Y -- Evolve Kabuto
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+142
+Aerodactyl
+http://www.serebii.net/xy/pokemon/142.png
+rock
+flying
+X -- Revive Old Amber
+Y -- Revive Old Amber
+0.5 0.5 2 2 1 2 1 0.5 0 0.5 1 0.5 2 1 1 1 2 1 
+false
+false
+*****
+143
+Snorlax
+http://www.serebii.net/xy/pokemon/143.png
+normal
+
+X -- Route 7 - Interact
+Y -- Route 7 - Interact
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+144
+Articuno
+http://www.serebii.net/xy/pokemon/144.png
+ice
+flying
+X -- Roaming Kalos
+Y -- Roaming Kalos
+1 2 1 2 0.5 1 1 1 0 1 1 0.5 4 1 1 1 2 1 
+false
+false
+*****
+145
+Zapdos
+http://www.serebii.net/xy/pokemon/145.png
+electric
+flying
+X -- Roaming Kalos
+Y -- Roaming Kalos
+1 1 1 1 0.5 2 0.5 1 0 0.5 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+146
+Moltres
+http://www.serebii.net/xy/pokemon/146.png
+fire
+flying
+X -- Roaming Kalos
+Y -- Roaming Kalos
+1 0.5 2 2 0.25 1 0.5 1 0 1 1 0.25 4 1 1 1 0.5 0.5 
+false
+false
+*****
+147
+Dratini
+http://www.serebii.net/xy/pokemon/147.png
+dragon
+
+X -- Route 21
+Y -- Route 21
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+148
+Dragonair
+http://www.serebii.net/xy/pokemon/148.png
+dragon
+
+X -- Route 21, Friend Safari
+Y -- Route 21, Friend Safari
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+149
+Dragonite
+http://www.serebii.net/xy/pokemon/149.png
+dragon
+flying
+X -- Evolve Dragonair
+Y -- Evolve Dragonair
+1 0.5 0.5 1 0.25 4 0.5 1 0 1 1 0.5 2 1 2 1 1 2 
+false
+false
+*****
+150
+Mewtwo
+http://www.serebii.net/xy/pokemon/150.png
+psychic
+
+X -- Pokémon Village
+Y -- Pokémon Village
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+151
+Mew
+http://www.serebii.net/xy/pokemon/151.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+152
+Chikorita
+http://www.serebii.net/xy/pokemon/152.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+153
+Bayleef
+http://www.serebii.net/xy/pokemon/153.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+154
+Meganium
+http://www.serebii.net/xy/pokemon/154.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+155
+Cyndaquil
+http://www.serebii.net/xy/pokemon/155.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+156
+Quilava
+http://www.serebii.net/xy/pokemon/156.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+157
+Typhlosion
+http://www.serebii.net/xy/pokemon/157.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+158
+Totodile
+http://www.serebii.net/xy/pokemon/158.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+159
+Croconaw
+http://www.serebii.net/xy/pokemon/159.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+160
+Feraligatr
+http://www.serebii.net/xy/pokemon/160.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+161
+Sentret
+http://www.serebii.net/xy/pokemon/161.png
+normal
+
+X -- Route 6
+Y -- Route 6
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+162
+Furret
+http://www.serebii.net/xy/pokemon/162.png
+normal
+
+X -- Evolve Sentret
+Y -- Evolve Sentret
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+163
+Hoothoot
+http://www.serebii.net/xy/pokemon/163.png
+normal
+flying
+X -- Pokémon Village, Friend Safari
+Y -- Pokémon Village, Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+164
+Noctowl
+http://www.serebii.net/xy/pokemon/164.png
+normal
+flying
+X -- Route 20, Pokémon Village
+Y -- Route 20, Pokémon Village
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+165
+Ledyba
+http://www.serebii.net/xy/pokemon/165.png
+bug
+flying
+X -- Route 4, Friend Safari
+Y -- Route 4, Friend Safari
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+166
+Ledian
+http://www.serebii.net/xy/pokemon/166.png
+bug
+flying
+X -- Evolve Ledyba
+Y -- Evolve Ledyba
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+167
+Spinarak
+http://www.serebii.net/xy/pokemon/167.png
+bug
+poison
+X -- Breed Ariados
+Y -- Breed Ariados
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+168
+Ariados
+http://www.serebii.net/xy/pokemon/168.png
+bug
+poison
+X -- Terminus Cave, Victory Road, Friend Safari
+Y -- Terminus Cave, Victory Road, Friend Safari
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+169
+Crobat
+http://www.serebii.net/xy/pokemon/169.png
+poison
+flying
+X -- Evolve Golbat
+Y -- Evolve Golbat
+1 1 1 2 0.25 2 0.25 0.5 0 1 2 0.25 2 1 1 1 1 0.5 
+false
+false
+*****
+170
+Chinchou
+http://www.serebii.net/xy/pokemon/170.png
+water
+electric
+X -- Azure Bay - Fish
+Y -- Azure Bay - Fish
+1 0.5 0.5 1 2 0.5 1 1 2 0.5 1 1 1 1 1 1 0.25 1 
+false
+false
+*****
+171
+Lanturn
+http://www.serebii.net/xy/pokemon/171.png
+water
+electric
+X -- Azure Bay - Fish
+Y -- Azure Bay - Fish
+1 0.5 0.5 1 2 0.5 1 1 2 0.5 1 1 1 1 1 1 0.25 1 
+false
+false
+*****
+172
+Pichu
+http://www.serebii.net/xy/pokemon/172.png
+electric
+
+X -- Breed Pikachu/Raichu
+Y -- Breed Pikachu/Raichu
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+173
+Cleffa
+http://www.serebii.net/xy/pokemon/173.png
+fairy
+
+X -- Breed Clefairy
+Y -- Breed Clefairy
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+174
+Igglybuff
+http://www.serebii.net/xy/pokemon/174.png
+normal
+fairy
+X -- Breed Jigglypuff/Wigglytuff
+Y -- Breed Jigglypuff/Wigglytuff
+1 1 1 1 1 1 1 2 1 1 1 0.5 1 0 0 0.5 2 1 
+false
+false
+*****
+175
+Togepi
+http://www.serebii.net/xy/pokemon/175.png
+fairy
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+176
+Togetic
+http://www.serebii.net/xy/pokemon/176.png
+fairy
+flying
+X -- Evolve Togepi
+Y -- Evolve Togepi
+1 1 1 2 0.5 2 0.25 2 0 1 1 0.25 2 1 0 0.5 2 1 
+false
+false
+*****
+177
+Natu
+http://www.serebii.net/xy/pokemon/177.png
+psychic
+flying
+X -- Breed Xatu
+Y -- Breed Xatu
+1 1 1 2 0.5 2 0.25 1 0 1 0.5 1 2 2 1 2 1 1 
+false
+false
+*****
+178
+Xatu
+http://www.serebii.net/xy/pokemon/178.png
+psychic
+flying
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 2 0.5 2 0.25 1 0 1 0.5 1 2 2 1 2 1 1 
+false
+false
+*****
+179
+Mareep
+http://www.serebii.net/xy/pokemon/179.png
+electric
+
+X -- Route 12
+Y -- Route 12
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+180
+Flaaffy
+http://www.serebii.net/xy/pokemon/180.png
+electric
+
+X -- Evolve Mareep
+Y -- Evolve Mareep
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+181
+Ampharos
+http://www.serebii.net/xy/pokemon/181.png
+electric
+
+X -- Evolve Flaaffy
+Y -- Evolve Flaaffy
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+182
+Bellossom
+http://www.serebii.net/xy/pokemon/182.png
+grass
+
+X -- Evolve Gloom
+Y -- Evolve Gloom
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+183
+Marill
+http://www.serebii.net/xy/pokemon/183.png
+water
+fairy
+X -- Route 3 - Surf
+Y -- Route 3 - Surf
+1 0.5 0.5 2 2 0.5 0.5 2 1 1 1 0.5 1 1 0 0.5 1 1 
+false
+false
+*****
+184
+Azumarill
+http://www.serebii.net/xy/pokemon/184.png
+water
+fairy
+X -- Route 22, Friend Safari
+Y -- Route 22, Friend Safari
+1 0.5 0.5 2 2 0.5 0.5 2 1 1 1 0.5 1 1 0 0.5 1 1 
+false
+false
+*****
+185
+Sudowoodo
+http://www.serebii.net/xy/pokemon/185.png
+rock
+
+X -- Route 20
+Y -- Route 20
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+186
+Politoed
+http://www.serebii.net/xy/pokemon/186.png
+water
+
+X -- Route 19
+Y -- Route 19
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+187
+Hoppip
+http://www.serebii.net/xy/pokemon/187.png
+grass
+flying
+X -- Route 7
+Y -- Route 7
+1 2 0.5 1 0.25 4 0.5 2 0 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+188
+Skiploom
+http://www.serebii.net/xy/pokemon/188.png
+grass
+flying
+X -- Evolve Hoppip
+Y -- Evolve Hoppip
+1 2 0.5 1 0.25 4 0.5 2 0 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+189
+Jumpluff
+http://www.serebii.net/xy/pokemon/189.png
+grass
+flying
+X -- Evolve Skiploom
+Y -- Evolve Skiploom
+1 2 0.5 1 0.25 4 0.5 2 0 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+190
+Aipom
+http://www.serebii.net/xy/pokemon/190.png
+normal
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+191
+Sunkern
+http://www.serebii.net/xy/pokemon/191.png
+grass
+
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+192
+Sunflora
+http://www.serebii.net/xy/pokemon/192.png
+grass
+
+X -- Evolve Sunkern
+Y -- Evolve Sunkern
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+193
+Yanma
+http://www.serebii.net/xy/pokemon/193.png
+bug
+flying
+X -- Route 10
+Y -- Route 10
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+194
+Wooper
+http://www.serebii.net/xy/pokemon/194.png
+water
+ground
+X -- Breed Quagsire, Friend Safari
+Y -- Breed Quagsire, Friend Safari
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+195
+Quagsire
+http://www.serebii.net/xy/pokemon/195.png
+water
+ground
+X -- Route 14, Route 19, Friend Safari
+Y -- Route 14, Route 19, Friend Safari
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+196
+Espeon
+http://www.serebii.net/xy/pokemon/196.png
+psychic
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+197
+Umbreon
+http://www.serebii.net/xy/pokemon/197.png
+dark
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+198
+Murkrow
+http://www.serebii.net/xy/pokemon/198.png
+dark
+flying
+X -- Route 15, Route 16
+Y -- Route 15, Route 16
+1 1 1 2 0.5 2 1 1 0 1 0 1 2 0.5 1 0.5 1 2 
+false
+false
+*****
+199
+Slowking
+http://www.serebii.net/xy/pokemon/199.png
+water
+psychic
+X -- Evolve Slowpoke
+Y -- Evolve Slowpoke
+1 0.5 0.5 2 2 0.5 0.5 1 1 1 0.5 2 1 2 1 2 0.5 1 
+false
+false
+*****
+200
+Misdreavus
+http://www.serebii.net/xy/pokemon/200.png
+ghost
+
+X -- 
+Y -- 
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+201
+Unown
+http://www.serebii.net/xy/pokemon/201.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+202
+Wobbuffet
+http://www.serebii.net/xy/pokemon/202.png
+psychic
+
+X -- Reflection Cave, Friend Safari
+Y -- Reflection Cave, Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+203
+Girafarig
+http://www.serebii.net/xy/pokemon/203.png
+normal
+psychic
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 1 1 1 1 0.5 2 1 0 1 2 1 1 
+false
+false
+*****
+204
+Pineco
+http://www.serebii.net/xy/pokemon/204.png
+bug
+
+X -- Breed Forretress
+Y -- Breed Forretress
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+205
+Forretress
+http://www.serebii.net/xy/pokemon/205.png
+bug
+steel
+X -- Friend Safari
+Y -- Friend Safari
+0.5 4 1 1 0.25 0.5 1 0 1 1 0.5 0.5 1 1 0.5 1 0.5 0.5 
+false
+false
+*****
+206
+Dunsparce
+http://www.serebii.net/xy/pokemon/206.png
+normal
+
+X -- Route 3, Route 22, Friend Safari
+Y -- Route 3, Route 22, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+207
+Gligar
+http://www.serebii.net/xy/pokemon/207.png
+ground
+flying
+X -- Route 19
+Y -- Route 19
+1 1 2 0 1 4 0.5 0.5 0 1 1 0.5 1 1 1 1 1 1 
+false
+false
+*****
+208
+Steelix
+http://www.serebii.net/xy/pokemon/208.png
+steel
+ground
+X -- Evolve Onix
+Y -- Evolve Onix
+0.5 2 2 0 1 1 2 0 2 0.5 0.5 0.5 0.25 1 0.5 1 0.5 0.5 
+false
+false
+*****
+209
+Snubbull
+http://www.serebii.net/xy/pokemon/209.png
+fairy
+
+X -- Route 10, Friend Safari
+Y -- Route 10, Friend Safari
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+210
+Granbull
+http://www.serebii.net/xy/pokemon/210.png
+fairy
+
+X -- Evolve Snubbull
+Y -- Evolve Snubbull
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+211
+Qwilfish
+http://www.serebii.net/xy/pokemon/211.png
+water
+poison
+X -- Route 8 - Fish
+Y -- Route 8 - Fish
+1 0.5 0.5 2 1 0.5 0.5 0.5 2 1 2 0.5 1 1 1 1 0.5 0.5 
+false
+false
+*****
+212
+Scizor
+http://www.serebii.net/xy/pokemon/212.png
+bug
+steel
+X -- Evolve Scyther
+Y -- Evolve Scyther
+0.5 4 1 1 0.25 0.5 1 0 1 1 0.5 0.5 1 1 0.5 1 0.5 0.5 
+false
+false
+*****
+213
+Shuckle
+http://www.serebii.net/xy/pokemon/213.png
+bug
+rock
+X -- Route 16, Route 18, Terminus Cave, Victory Road, Friend Safari
+Y -- Route 16, Route 18, Terminus Cave, Victory Road, Friend Safari
+0.5 1 2 1 1 1 1 0.5 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+214
+Heracross
+http://www.serebii.net/xy/pokemon/214.png
+bug
+fighting
+X -- Trade from Y, Friend Safari
+Y -- Route 12, Friend Safari
+1 2 1 1 0.5 1 0.5 1 0.5 4 2 0.5 1 1 1 0.5 1 2 
+false
+false
+*****
+215
+Sneasel
+http://www.serebii.net/xy/pokemon/215.png
+dark
+ice
+X -- Route 17, Friend Safari
+Y -- Route 17, Friend Safari
+1 2 1 1 1 0.5 4 1 1 1 0 2 2 0.5 1 0.5 2 2 
+false
+false
+*****
+216
+Teddiursa
+http://www.serebii.net/xy/pokemon/216.png
+normal
+
+X -- Breed Ursaring, Friend Safari
+Y -- Breed Ursaring, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+217
+Ursaring
+http://www.serebii.net/xy/pokemon/217.png
+normal
+
+X -- Route 21, Victory Road
+Y -- Route 21, Victory Road
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+218
+Slugma
+http://www.serebii.net/xy/pokemon/218.png
+fire
+
+X -- Route 13, Friend Safari
+Y -- Route 13, Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+219
+Magcargo
+http://www.serebii.net/xy/pokemon/219.png
+fire
+rock
+X -- Evolve Slugma, Friend Safari
+Y -- Evolve Slugma, Friend Safari
+0.5 0.25 4 1 1 0.5 2 0.5 4 0.5 1 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+220
+Swinub
+http://www.serebii.net/xy/pokemon/220.png
+ice
+ground
+X -- Breed Piloswine/Mamoswine
+Y -- Breed Piloswine/Mamoswine
+1 2 2 0 2 1 2 0.5 1 1 1 1 1 1 1 1 2 1 
+false
+false
+*****
+221
+Piloswine
+http://www.serebii.net/xy/pokemon/221.png
+ice
+ground
+X -- Frost Cavern, Friend Safari
+Y -- Frost Cavern, Friend Safari
+1 2 2 0 2 1 2 0.5 1 1 1 1 1 1 1 1 2 1 
+false
+false
+*****
+222
+Corsola
+http://www.serebii.net/xy/pokemon/222.png
+water
+rock
+X -- Route 12 - Fish, Friend Safari
+Y -- Route 12 - Fish, Friend Safari
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+223
+Remoraid
+http://www.serebii.net/xy/pokemon/223.png
+water
+
+X -- Route 12, Azure Bay - Fish
+Y -- Route 12, Azure Bay - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+224
+Octillery
+http://www.serebii.net/xy/pokemon/224.png
+water
+
+X -- Route 12, Azure Bay - Fish, Friend Safari
+Y -- Route 12, Azure Bay - Fish, Friend Safari
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+225
+Delibird
+http://www.serebii.net/xy/pokemon/225.png
+ice
+flying
+X -- Route 17, Friend Safari
+Y -- Route 17, Friend Safari
+1 2 1 2 0.5 1 1 1 0 1 1 0.5 4 1 1 1 2 1 
+false
+false
+*****
+226
+Mantine
+http://www.serebii.net/xy/pokemon/226.png
+water
+flying
+X -- Evolve Mantyke
+Y -- Evolve Mantyke
+1 0.5 0.5 4 1 1 0.5 1 0 1 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+227
+Skarmory
+http://www.serebii.net/xy/pokemon/227.png
+steel
+flying
+X -- Victory Road, Friend Safari
+Y -- Victory Road, Friend Safari
+0.5 2 1 2 0.25 1 1 0 0 0.5 0.5 0.25 1 1 0.5 1 0.5 0.5 
+false
+false
+*****
+228
+Houndour
+http://www.serebii.net/xy/pokemon/228.png
+dark
+fire
+X -- Route 10
+Y -- Trade from X
+1 0.5 2 1 0.5 0.5 2 1 2 1 0 1 2 0.5 1 0.5 0.5 1 
+false
+false
+*****
+229
+Houndoom
+http://www.serebii.net/xy/pokemon/229.png
+dark
+fire
+X -- Evolve Houndour
+Y -- Trade from X
+1 0.5 2 1 0.5 0.5 2 1 2 1 0 1 2 0.5 1 0.5 0.5 1 
+false
+false
+*****
+230
+Kingdra
+http://www.serebii.net/xy/pokemon/230.png
+water
+dragon
+X -- Evolve Seadra
+Y -- Evolve Seadra
+1 0.25 0.25 1 1 1 1 1 1 1 1 1 1 1 2 1 0.5 2 
+false
+false
+*****
+231
+Phanpy
+http://www.serebii.net/xy/pokemon/231.png
+ground
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+232
+Donphan
+http://www.serebii.net/xy/pokemon/232.png
+ground
+
+X -- Evolve Phanpy
+Y -- Evolve Phanpy
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+233
+Porygon2
+http://www.serebii.net/xy/pokemon/233.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+234
+Stantler
+http://www.serebii.net/xy/pokemon/234.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+235
+Smeargle
+http://www.serebii.net/xy/pokemon/235.png
+normal
+
+X -- Route 7, Friend Safari
+Y -- Route 7, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+236
+Tyrogue
+http://www.serebii.net/xy/pokemon/236.png
+fighting
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+237
+Hitmontop
+http://www.serebii.net/xy/pokemon/237.png
+fighting
+
+X -- Evolve Tyrogue
+Y -- Evolve Tyrogue
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+238
+Smoochum
+http://www.serebii.net/xy/pokemon/238.png
+ice
+psychic
+X -- Frost Cavern
+Y -- Frost Cavern
+1 2 1 1 1 0.5 1 1 1 1 0.5 2 2 2 1 2 2 1 
+false
+false
+*****
+239
+Elekid
+http://www.serebii.net/xy/pokemon/239.png
+electric
+
+X -- Breed Electabuzz
+Y -- Breed Electabuzz
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+240
+Magby
+http://www.serebii.net/xy/pokemon/240.png
+fire
+
+X -- Breed Magmar
+Y -- Breed Magmar
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+241
+Miltank
+http://www.serebii.net/xy/pokemon/241.png
+normal
+
+X -- Route 12
+Y -- Route 12
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+242
+Blissey
+http://www.serebii.net/xy/pokemon/242.png
+normal
+
+X -- Evolve Chansey
+Y -- Evolve Chansey
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+243
+Raikou
+http://www.serebii.net/xy/pokemon/243.png
+electric
+
+X -- 
+Y -- 
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+244
+Entei
+http://www.serebii.net/xy/pokemon/244.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+245
+Suicune
+http://www.serebii.net/xy/pokemon/245.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+246
+Larvitar
+http://www.serebii.net/xy/pokemon/246.png
+rock
+ground
+X -- Trade from Y
+Y -- Terminus Cave
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+247
+Pupitar
+http://www.serebii.net/xy/pokemon/247.png
+rock
+ground
+X -- Trade from Y, Friend Safari
+Y -- Route 18, Terminus Cave, Friend Safari
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+248
+Tyranitar
+http://www.serebii.net/xy/pokemon/248.png
+rock
+dark
+X -- Trade from Y
+Y -- Evolve Pupitar
+0.5 0.5 2 1 2 1 4 0.5 2 0.5 0 2 1 0.5 1 0.5 2 2 
+false
+false
+*****
+249
+Lugia
+http://www.serebii.net/xy/pokemon/249.png
+psychic
+flying
+X -- 
+Y -- 
+1 1 1 2 0.5 2 0.25 1 0 1 0.5 1 2 2 1 2 1 1 
+false
+false
+*****
+250
+Ho-Oh
+http://www.serebii.net/xy/pokemon/250.png
+fire
+flying
+X -- 
+Y -- 
+1 0.5 2 2 0.25 1 0.5 1 0 1 1 0.25 4 1 1 1 0.5 0.5 
+false
+false
+*****
+251
+Celebi
+http://www.serebii.net/xy/pokemon/251.png
+psychic
+grass
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 0.5 2 0.5 2 0.5 4 1 2 1 2 1 1 
+false
+false
+*****
+252
+Treecko
+http://www.serebii.net/xy/pokemon/252.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+253
+Grovyle
+http://www.serebii.net/xy/pokemon/253.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+254
+Sceptile
+http://www.serebii.net/xy/pokemon/254.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+255
+Torchic
+http://www.serebii.net/xy/pokemon/255.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+256
+Combusken
+http://www.serebii.net/xy/pokemon/256.png
+fire
+fighting
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 2 2 0.25 1 1 1 0.5 0.5 1 
+false
+false
+*****
+257
+Blaziken
+http://www.serebii.net/xy/pokemon/257.png
+fire
+fighting
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 2 2 0.25 1 1 1 0.5 0.5 1 
+false
+false
+*****
+258
+Mudkip
+http://www.serebii.net/xy/pokemon/258.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+259
+Marshtomp
+http://www.serebii.net/xy/pokemon/259.png
+water
+ground
+X -- 
+Y -- 
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+260
+Swampert
+http://www.serebii.net/xy/pokemon/260.png
+water
+ground
+X -- 
+Y -- 
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+261
+Poochyena
+http://www.serebii.net/xy/pokemon/261.png
+dark
+
+X -- Breed Mightyena
+Y -- Trade from X
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+262
+Mightyena
+http://www.serebii.net/xy/pokemon/262.png
+dark
+
+X -- Route 15, Friend Safari
+Y -- Trade from X, Friend Safari
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+263
+Zigzagoon
+http://www.serebii.net/xy/pokemon/263.png
+normal
+
+X -- Route 2
+Y -- Route 2
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+264
+Linoone
+http://www.serebii.net/xy/pokemon/264.png
+normal
+
+X -- Evolve Zigzagoon
+Y -- Evolve Zigzagoon
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+265
+Wurmple
+http://www.serebii.net/xy/pokemon/265.png
+bug
+
+X -- Breed Beautifly/Dustox
+Y -- Breed Beautifly/Dustox
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+266
+Silcoon
+http://www.serebii.net/xy/pokemon/266.png
+bug
+
+X -- Evolve Wurmple
+Y -- Evolve Wurmple
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+267
+Beautifly
+http://www.serebii.net/xy/pokemon/267.png
+bug
+flying
+X -- Friend Safari
+Y -- Friend Safari
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+268
+Cascoon
+http://www.serebii.net/xy/pokemon/268.png
+bug
+
+X -- Friend Safari
+Y -- Friend Safari
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+269
+Dustox
+http://www.serebii.net/xy/pokemon/269.png
+bug
+poison
+X -- Evolve Cascoon
+Y -- Evolve Cascoon
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+270
+Lotad
+http://www.serebii.net/xy/pokemon/270.png
+water
+grass
+X -- Breed Lombre
+Y -- Breed Lombre
+1 1 0.25 1 1 1 1 2 0.5 2 1 2 1 1 1 1 0.5 1 
+false
+false
+*****
+271
+Lombre
+http://www.serebii.net/xy/pokemon/271.png
+water
+grass
+X -- Route 15, Route 16, Route 21, Pokémon Village
+Y -- Route 15, Route 16, Route 21, Pokémon Village
+1 1 0.25 1 1 1 1 2 0.5 2 1 2 1 1 1 1 0.5 1 
+false
+false
+*****
+272
+Ludicolo
+http://www.serebii.net/xy/pokemon/272.png
+water
+grass
+X -- Evolve Lombre
+Y -- Evolve Lombre
+1 1 0.25 1 1 1 1 2 0.5 2 1 2 1 1 1 1 0.5 1 
+false
+false
+*****
+273
+Seedot
+http://www.serebii.net/xy/pokemon/273.png
+grass
+
+X -- Breed Nuzleaf/Shiftry
+Y -- Breed Nuzleaf/Shiftry
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+274
+Nuzleaf
+http://www.serebii.net/xy/pokemon/274.png
+grass
+dark
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 2 2 0.5 2 0 4 1 0.5 1 0.5 1 2 
+false
+false
+*****
+275
+Shiftry
+http://www.serebii.net/xy/pokemon/275.png
+grass
+dark
+X -- Evolve Nuzleaf
+Y -- Evolve Nuzleaf
+1 2 0.5 0.5 0.5 2 2 2 0.5 2 0 4 1 0.5 1 0.5 1 2 
+false
+false
+*****
+276
+Taillow
+http://www.serebii.net/xy/pokemon/276.png
+normal
+flying
+X -- Route 8
+Y -- Route 8
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+277
+Swellow
+http://www.serebii.net/xy/pokemon/277.png
+normal
+flying
+X -- Evolve Taillow
+Y -- Evolve Taillow
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+278
+Wingull
+http://www.serebii.net/xy/pokemon/278.png
+water
+flying
+X -- Route 8, Route 12, Azure Bay
+Y -- Route 8, Route 12, Azure Bay
+1 0.5 0.5 4 1 1 0.5 1 0 1 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+279
+Pelipper
+http://www.serebii.net/xy/pokemon/279.png
+water
+flying
+X -- Evolve Wingull
+Y -- Evolve Wingull
+1 0.5 0.5 4 1 1 0.5 1 0 1 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+280
+Ralts
+http://www.serebii.net/xy/pokemon/280.png
+psychic
+fairy
+X -- Route 4
+Y -- Route 4
+1 1 1 1 1 1 0.25 2 1 1 0.5 1 1 2 0 1 2 1 
+false
+false
+*****
+281
+Kirlia
+http://www.serebii.net/xy/pokemon/281.png
+psychic
+fairy
+X -- Evolve Ralts, Friend Safari
+Y -- Evolve Ralts, Friend Safari
+1 1 1 1 1 1 0.25 2 1 1 0.5 1 1 2 0 1 2 1 
+false
+false
+*****
+282
+Gardevoir
+http://www.serebii.net/xy/pokemon/282.png
+psychic
+fairy
+X -- Evolve Kirlia
+Y -- Evolve Kirlia
+1 1 1 1 1 1 0.25 2 1 1 0.5 1 1 2 0 1 2 1 
+false
+false
+*****
+283
+Surskit
+http://www.serebii.net/xy/pokemon/283.png
+bug
+water
+X -- Breed Masquerain
+Y -- Breed Masquerain
+1 1 0.5 2 1 0.5 0.5 1 0.5 2 1 1 2 1 1 1 0.5 1 
+false
+false
+*****
+284
+Masquerain
+http://www.serebii.net/xy/pokemon/284.png
+bug
+flying
+X -- Route 3, Friend Safari
+Y -- Route 3, Friend Safari
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+285
+Shroomish
+http://www.serebii.net/xy/pokemon/285.png
+grass
+
+X -- Breed Breloom
+Y -- Breed Breloom
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+286
+Breloom
+http://www.serebii.net/xy/pokemon/286.png
+grass
+fighting
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 4 2 1 0.5 1 1 0.5 1 2 
+false
+false
+*****
+287
+Slakoth
+http://www.serebii.net/xy/pokemon/287.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+288
+Vigoroth
+http://www.serebii.net/xy/pokemon/288.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+289
+Slaking
+http://www.serebii.net/xy/pokemon/289.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+290
+Nincada
+http://www.serebii.net/xy/pokemon/290.png
+bug
+ground
+X -- Route 6, Friend Safari
+Y -- Route 6, Friend Safari
+1 2 2 0 1 2 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 
+false
+false
+*****
+291
+Ninjask
+http://www.serebii.net/xy/pokemon/291.png
+bug
+flying
+X -- Evolve Nincada
+Y -- Evolve Nincada
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+292
+Shedinja
+http://www.serebii.net/xy/pokemon/292.png
+bug
+ghost
+X -- Evolve Nincada
+Y -- Evolve Nincada
+0 2 1 1 0.5 1 0 0.5 0.5 2 1 0.5 2 2 1 2 1 1 
+false
+false
+*****
+293
+Whismur
+http://www.serebii.net/xy/pokemon/293.png
+normal
+
+X -- Connecting Cave
+Y -- Connecting Cave
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+294
+Loudred
+http://www.serebii.net/xy/pokemon/294.png
+normal
+
+X -- Evolve Whismur, Friend Safari
+Y -- Evolve Whismur, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+295
+Exploud
+http://www.serebii.net/xy/pokemon/295.png
+normal
+
+X -- Evolve Loudred
+Y -- Evolve Loudred
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+296
+Makuhita
+http://www.serebii.net/xy/pokemon/296.png
+fighting
+
+X -- Breed Hariyama
+Y -- Breed Hariyama
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+297
+Hariyama
+http://www.serebii.net/xy/pokemon/297.png
+fighting
+
+X -- Route 11, Friend Safari
+Y -- Route 11, Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+298
+Azurill
+http://www.serebii.net/xy/pokemon/298.png
+normal
+fairy
+X -- Route 3, Route 22
+Y -- Route 3, Route 22
+1 1 1 1 1 1 1 2 1 1 1 0.5 1 0 0 0.5 2 1 
+false
+false
+*****
+299
+Nosepass
+http://www.serebii.net/xy/pokemon/299.png
+rock
+
+X -- Route 10, Friend Safari
+Y -- Route 10, Friend Safari
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+300
+Skitty
+http://www.serebii.net/xy/pokemon/300.png
+normal
+
+X -- Route 4
+Y -- Route 4
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+301
+Delcatty
+http://www.serebii.net/xy/pokemon/301.png
+normal
+
+X -- Evolve Skitty
+Y -- Evolve Skitty
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+302
+Sableye
+http://www.serebii.net/xy/pokemon/302.png
+dark
+ghost
+X -- Reflection Cave, Friend Safari
+Y -- Reflection Cave, Friend Safari
+0 1 1 1 1 1 0 0.5 1 1 0 1 1 1 1 1 1 2 
+false
+false
+*****
+303
+Mawile
+http://www.serebii.net/xy/pokemon/303.png
+steel
+fairy
+X -- Glittering Cave, Friend Safari
+Y -- Glittering Cave, Friend Safari
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.5 0.25 0.5 1 0 0.5 1 0.5 
+false
+false
+*****
+304
+Aron
+http://www.serebii.net/xy/pokemon/304.png
+steel
+rock
+X -- Terminus Cave
+Y -- Trade from X
+0.25 1 2 1 1 0.5 4 0 4 0.25 0.5 0.5 0.5 1 0.5 1 1 0.5 
+false
+false
+*****
+305
+Lairon
+http://www.serebii.net/xy/pokemon/305.png
+steel
+rock
+X -- Route 18
+Y -- Trade from X
+0.25 1 2 1 1 0.5 4 0 4 0.25 0.5 0.5 0.5 1 0.5 1 1 0.5 
+false
+false
+*****
+306
+Aggron
+http://www.serebii.net/xy/pokemon/306.png
+steel
+rock
+X -- Evolve Lairon
+Y -- Trade from X
+0.25 1 2 1 1 0.5 4 0 4 0.25 0.5 0.5 0.5 1 0.5 1 1 0.5 
+false
+false
+*****
+307
+Meditite
+http://www.serebii.net/xy/pokemon/307.png
+fighting
+psychic
+X -- Connecting Cave, Friend Safari
+Y -- Connecting Cave, Friend Safari
+1 1 1 1 1 1 0.5 1 1 2 1 1 0.5 2 1 1 1 2 
+false
+false
+*****
+308
+Medicham
+http://www.serebii.net/xy/pokemon/308.png
+fighting
+psychic
+X -- Evolve Meditite
+Y -- Evolve Meditite
+1 1 1 1 1 1 0.5 1 1 2 1 1 0.5 2 1 1 1 2 
+false
+false
+*****
+309
+Electrike
+http://www.serebii.net/xy/pokemon/309.png
+electric
+
+X -- Trade from Y
+Y -- Route 10
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+310
+Manectric
+http://www.serebii.net/xy/pokemon/310.png
+electric
+
+X -- Trade from Y, Friend Safari
+Y -- Evolve Electrike, Friend Safari
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+311
+Plusle
+http://www.serebii.net/xy/pokemon/311.png
+electric
+
+X -- Route 5
+Y -- Route 5
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+312
+Minun
+http://www.serebii.net/xy/pokemon/312.png
+electric
+
+X -- Route 5
+Y -- Route 5
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+313
+Volbeat
+http://www.serebii.net/xy/pokemon/313.png
+bug
+
+X -- Route 7, Friend Safari
+Y -- Route 7, Friend Safari
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+314
+Illumise
+http://www.serebii.net/xy/pokemon/314.png
+bug
+
+X -- Route 7, Friend Safari
+Y -- Route 7, Friend Safari
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+315
+Roselia
+http://www.serebii.net/xy/pokemon/315.png
+grass
+poison
+X -- Route 7
+Y -- Route 7
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+316
+Gulpin
+http://www.serebii.net/xy/pokemon/316.png
+poison
+
+X -- Route 5
+Y -- Route 5
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+317
+Swalot
+http://www.serebii.net/xy/pokemon/317.png
+poison
+
+X -- Evolve Gulpin, Friend Safari
+Y -- Evolve Gulpin, Friend Safari
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+318
+Carvanha
+http://www.serebii.net/xy/pokemon/318.png
+water
+dark
+X -- Route 22
+Y -- Route 22
+1 0.5 0.5 2 2 0.5 2 1 1 1 0 2 1 0.5 1 0.5 0.5 2 
+false
+false
+*****
+319
+Sharpedo
+http://www.serebii.net/xy/pokemon/319.png
+water
+dark
+X -- Route 22
+Y -- Route 22
+1 0.5 0.5 2 2 0.5 2 1 1 1 0 2 1 0.5 1 0.5 0.5 2 
+false
+false
+*****
+320
+Wailmer
+http://www.serebii.net/xy/pokemon/320.png
+water
+
+X -- Route 8, Ambrette Town, Cyllage City
+Y -- Route 8, Ambrette Town, Cyllage City
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+321
+Wailord
+http://www.serebii.net/xy/pokemon/321.png
+water
+
+X -- Evolve Wailmer
+Y -- Evolve Wailmer
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+322
+Numel
+http://www.serebii.net/xy/pokemon/322.png
+fire
+ground
+X -- Breed Camerupt
+Y -- Breed Camerupt
+1 0.5 4 0 1 1 1 0.5 2 1 1 0.5 1 1 1 1 0.5 0.5 
+false
+false
+*****
+323
+Camerupt
+http://www.serebii.net/xy/pokemon/323.png
+fire
+ground
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 4 0 1 1 1 0.5 2 1 1 0.5 1 1 1 1 0.5 0.5 
+false
+false
+*****
+324
+Torkoal
+http://www.serebii.net/xy/pokemon/324.png
+fire
+
+X -- Route 18
+Y -- Route 18
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+325
+Spoink
+http://www.serebii.net/xy/pokemon/325.png
+psychic
+
+X -- Route 8
+Y -- Route 8
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+326
+Grumpig
+http://www.serebii.net/xy/pokemon/326.png
+psychic
+
+X -- Evolve Spoink, Friend Safari
+Y -- Evolve Spoint, Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+327
+Spinda
+http://www.serebii.net/xy/pokemon/327.png
+normal
+
+X -- Route 21, Friend Safari
+Y -- Route 21, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+328
+Trapinch
+http://www.serebii.net/xy/pokemon/328.png
+ground
+
+X -- Route 13, Friend Safari
+Y -- Route 13, Friend Safari
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+329
+Vibrava
+http://www.serebii.net/xy/pokemon/329.png
+ground
+dragon
+X -- Evolve Trapinch
+Y -- Evolve Trapinch
+1 0.5 1 0 1 4 1 0.5 1 1 1 1 0.5 1 2 1 1 2 
+false
+false
+*****
+330
+Flygon
+http://www.serebii.net/xy/pokemon/330.png
+ground
+dragon
+X -- Evolve Vibrava
+Y -- Evolve Vibrava
+1 0.5 1 0 1 4 1 0.5 1 1 1 1 0.5 1 2 1 1 2 
+false
+false
+*****
+331
+Cacnea
+http://www.serebii.net/xy/pokemon/331.png
+grass
+
+X -- Breed Cacnea
+Y -- Breed Cacnea
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+332
+Cacturne
+http://www.serebii.net/xy/pokemon/332.png
+grass
+dark
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 2 2 0.5 2 0 4 1 0.5 1 0.5 1 2 
+false
+false
+*****
+333
+Swablu
+http://www.serebii.net/xy/pokemon/333.png
+normal
+flying
+X -- Route 21
+Y -- Route 21
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+334
+Altaria
+http://www.serebii.net/xy/pokemon/334.png
+dragon
+flying
+X -- Route 21
+Y -- Route 21
+1 0.5 0.5 1 0.25 4 0.5 1 0 1 1 0.5 2 1 2 1 1 2 
+false
+false
+*****
+335
+Zangoose
+http://www.serebii.net/xy/pokemon/335.png
+normal
+
+X -- Route 8
+Y -- Route 8
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+336
+Seviper
+http://www.serebii.net/xy/pokemon/336.png
+poison
+
+X -- Route 8, Friend Safari
+Y -- Route 8, Friend Safari
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+337
+Lunatone
+http://www.serebii.net/xy/pokemon/337.png
+rock
+psychic
+X -- Route 8, Glittering Cave
+Y -- Route 8, Glittering Cave
+0.5 0.5 2 1 2 1 1 0.5 2 0.5 0.5 2 1 2 1 2 2 1 
+false
+false
+*****
+338
+Solrock
+http://www.serebii.net/xy/pokemon/338.png
+rock
+psychic
+X -- Route 8, Glittering Cave
+Y -- Route 8, Glittering Cave
+0.5 0.5 2 1 2 1 1 0.5 2 0.5 0.5 2 1 2 1 2 2 1 
+false
+false
+*****
+339
+Barboach
+http://www.serebii.net/xy/pokemon/339.png
+water
+ground
+X -- Route 14, Route 19
+Y -- Route 14, Route 19
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+340
+Whiscash
+http://www.serebii.net/xy/pokemon/340.png
+water
+ground
+X -- Route 14, Route 19
+Y -- Route 14, Route 19
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+341
+Corphish
+http://www.serebii.net/xy/pokemon/341.png
+water
+
+X -- Route 3
+Y -- Route 3
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+342
+Crawdaunt
+http://www.serebii.net/xy/pokemon/342.png
+water
+dark
+X -- Route 3, Friend Safari
+Y -- Route 3, Friend Safari
+1 0.5 0.5 2 2 0.5 2 1 1 1 0 2 1 0.5 1 0.5 0.5 2 
+false
+false
+*****
+343
+Baltoy
+http://www.serebii.net/xy/pokemon/343.png
+ground
+psychic
+X -- 
+Y -- 
+1 1 2 0 2 2 0.5 0.5 1 1 0.5 2 0.5 2 1 2 1 1 
+false
+false
+*****
+344
+Claydol
+http://www.serebii.net/xy/pokemon/344.png
+ground
+psychic
+X -- 
+Y -- 
+1 1 2 0 2 2 0.5 0.5 1 1 0.5 2 0.5 2 1 2 1 1 
+false
+false
+*****
+345
+Lileep
+http://www.serebii.net/xy/pokemon/345.png
+rock
+grass
+X -- Revive Root Fossil
+Y -- Revive Root Fossil
+0.5 1 1 0.5 1 2 2 1 1 1 1 2 1 1 1 1 2 1 
+false
+false
+*****
+346
+Cradily
+http://www.serebii.net/xy/pokemon/346.png
+rock
+grass
+X -- Evolve Lileep
+Y -- Evolve Lileep
+0.5 1 1 0.5 1 2 2 1 1 1 1 2 1 1 1 1 2 1 
+false
+false
+*****
+347
+Anorith
+http://www.serebii.net/xy/pokemon/347.png
+rock
+bug
+X -- Revive Claw Fossil
+Y -- Revive Claw Fossil
+0.5 1 2 1 1 1 1 0.5 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+348
+Armaldo
+http://www.serebii.net/xy/pokemon/348.png
+rock
+bug
+X -- Evolve Anorith
+Y -- Evolve Anorith
+0.5 1 2 1 1 1 1 0.5 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+349
+Feebas
+http://www.serebii.net/xy/pokemon/349.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+350
+Milotic
+http://www.serebii.net/xy/pokemon/350.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+351
+Castform
+http://www.serebii.net/xy/pokemon/351.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+352
+Kecleon
+http://www.serebii.net/xy/pokemon/352.png
+normal
+
+X -- Route 6, Friend Safari
+Y -- Route 6, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+353
+Shuppet
+http://www.serebii.net/xy/pokemon/353.png
+ghost
+
+X -- Breed Banette, Friend Safari
+Y -- Breed Banette, Friend Safari
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+354
+Banette
+http://www.serebii.net/xy/pokemon/354.png
+ghost
+
+X -- Pokémon Village (Thursdays)
+Y -- Pokémon Village (Thursdays)
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+355
+Duskull
+http://www.serebii.net/xy/pokemon/355.png
+ghost
+
+X -- Breed Dusclops
+Y -- Breed Dusclops
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+356
+Dusclops
+http://www.serebii.net/xy/pokemon/356.png
+ghost
+
+X -- Friend Safari
+Y -- Friend Safari
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+357
+Tropius
+http://www.serebii.net/xy/pokemon/357.png
+grass
+flying
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 1 0.25 4 0.5 2 0 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+358
+Chimecho
+http://www.serebii.net/xy/pokemon/358.png
+psychic
+
+X -- Evolve Chingling
+Y -- Evolve Chingling
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+359
+Absol
+http://www.serebii.net/xy/pokemon/359.png
+dark
+
+X -- Route 8, Friend Safari
+Y -- Route 8, Friend Safari
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+360
+Wynaut
+http://www.serebii.net/xy/pokemon/360.png
+psychic
+
+X -- Breed Wobbuffet
+Y -- Breed Wobbuffet
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+361
+Snorunt
+http://www.serebii.net/xy/pokemon/361.png
+ice
+
+X -- Friend Safari
+Y -- Friend Safari
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+362
+Glalie
+http://www.serebii.net/xy/pokemon/362.png
+ice
+
+X -- Evolve Snorunt
+Y -- Evolve Snorunt
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+363
+Spheal
+http://www.serebii.net/xy/pokemon/363.png
+ice
+water
+X -- Friend Safari
+Y -- Friend Safari
+1 1 0.5 2 2 0.25 2 1 1 1 1 1 2 1 1 1 1 1 
+false
+false
+*****
+364
+Sealeo
+http://www.serebii.net/xy/pokemon/364.png
+ice
+water
+X -- Evolve Spheal
+Y -- Evolve Spheal
+1 1 0.5 2 2 0.25 2 1 1 1 1 1 2 1 1 1 1 1 
+false
+false
+*****
+365
+Walrein
+http://www.serebii.net/xy/pokemon/365.png
+ice
+water
+X -- Evolve Sealeo
+Y -- Evolve Sealeo
+1 1 0.5 2 2 0.25 2 1 1 1 1 1 2 1 1 1 1 1 
+false
+false
+*****
+366
+Clamperl
+http://www.serebii.net/xy/pokemon/366.png
+water
+
+X -- Route 12 - Fish
+Y -- Route 12 - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+367
+Huntail
+http://www.serebii.net/xy/pokemon/367.png
+water
+
+X -- Route 12 - Fish
+Y -- Evolve Clamperl
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+368
+Gorebyss
+http://www.serebii.net/xy/pokemon/368.png
+water
+
+X -- Evolve Clamperl
+Y -- Route 12 - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+369
+Relicanth
+http://www.serebii.net/xy/pokemon/369.png
+water
+rock
+X -- Ambrette Town, Cyllage City - Fish
+Y -- Ambrette Town, Cyllage City - Fish
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+370
+Luvdisc
+http://www.serebii.net/xy/pokemon/370.png
+water
+
+X -- Route 8, 12, Azure Bay, Cyllage City - Fish
+Y -- Route 8, 12, Ambrette Town, Azure Bay, Cyllage City - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+371
+Bagon
+http://www.serebii.net/xy/pokemon/371.png
+dragon
+
+X -- Route 8
+Y -- Route 8
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+372
+Shelgon
+http://www.serebii.net/xy/pokemon/372.png
+dragon
+
+X -- Evolve Bagon, Friend Safari
+Y -- Evolve Bagon, Friend Safari
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+373
+Salamence
+http://www.serebii.net/xy/pokemon/373.png
+dragon
+flying
+X -- Evolve Shelgon
+Y -- Evolve Shelgon
+1 0.5 0.5 1 0.25 4 0.5 1 0 1 1 0.5 2 1 2 1 1 2 
+false
+false
+*****
+374
+Beldum
+http://www.serebii.net/xy/pokemon/374.png
+steel
+psychic
+X -- Breed Metang
+Y -- Breed Metang
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.25 1 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+375
+Metang
+http://www.serebii.net/xy/pokemon/375.png
+steel
+psychic
+X -- Friend Safari
+Y -- Friend Safari
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.25 1 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+376
+Metagross
+http://www.serebii.net/xy/pokemon/376.png
+steel
+psychic
+X -- Evolve Metang
+Y -- Evolve Metang
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.25 1 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+377
+Regirock
+http://www.serebii.net/xy/pokemon/377.png
+rock
+
+X -- 
+Y -- 
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+378
+Regice
+http://www.serebii.net/xy/pokemon/378.png
+ice
+
+X -- 
+Y -- 
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+379
+Registeel
+http://www.serebii.net/xy/pokemon/379.png
+steel
+
+X -- 
+Y -- 
+0.5 2 1 1 0.5 0.5 2 0 2 0.5 0.5 0.5 0.5 1 0.5 1 0.5 0.5 
+false
+false
+*****
+380
+Latias
+http://www.serebii.net/xy/pokemon/380.png
+dragon
+psychic
+X -- 
+Y -- 
+1 0.5 0.5 0.5 0.5 2 0.5 1 1 1 0.5 2 1 2 2 2 1 2 
+false
+false
+*****
+381
+Latios
+http://www.serebii.net/xy/pokemon/381.png
+dragon
+psychic
+X -- 
+Y -- 
+1 0.5 0.5 0.5 0.5 2 0.5 1 1 1 0.5 2 1 2 2 2 1 2 
+false
+false
+*****
+382
+Kyogre
+http://www.serebii.net/xy/pokemon/382.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+383
+Groudon
+http://www.serebii.net/xy/pokemon/383.png
+ground
+
+X -- 
+Y -- 
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+384
+Rayquaza
+http://www.serebii.net/xy/pokemon/384.png
+dragon
+flying
+X -- 
+Y -- 
+1 0.5 0.5 1 0.25 4 0.5 1 0 1 1 0.5 2 1 2 1 1 2 
+false
+false
+*****
+385
+Jirachi
+http://www.serebii.net/xy/pokemon/385.png
+steel
+psychic
+X -- 
+Y -- 
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.25 1 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+386
+Deoxys
+http://www.serebii.net/xy/pokemon/386.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+387
+Turtwig
+http://www.serebii.net/xy/pokemon/387.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+388
+Grotle
+http://www.serebii.net/xy/pokemon/388.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+389
+Torterra
+http://www.serebii.net/xy/pokemon/389.png
+grass
+ground
+X -- 
+Y -- 
+1 2 1 0 1 4 1 1 0.5 2 1 2 0.5 1 1 1 1 1 
+false
+false
+*****
+390
+Chimchar
+http://www.serebii.net/xy/pokemon/390.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+391
+Monferno
+http://www.serebii.net/xy/pokemon/391.png
+fire
+fighting
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 2 2 0.25 1 1 1 0.5 0.5 1 
+false
+false
+*****
+392
+Infernape
+http://www.serebii.net/xy/pokemon/392.png
+fire
+fighting
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 2 2 0.25 1 1 1 0.5 0.5 1 
+false
+false
+*****
+393
+Piplup
+http://www.serebii.net/xy/pokemon/393.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+394
+Prinplup
+http://www.serebii.net/xy/pokemon/394.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+395
+Empoleon
+http://www.serebii.net/xy/pokemon/395.png
+water
+steel
+X -- 
+Y -- 
+0.5 1 0.5 2 1 0.25 2 0 2 0.5 0.5 0.5 0.5 1 0.5 1 0.25 0.5 
+false
+false
+*****
+396
+Starly
+http://www.serebii.net/xy/pokemon/396.png
+normal
+flying
+X -- Route 11
+Y -- Route 11
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+397
+Staravia
+http://www.serebii.net/xy/pokemon/397.png
+normal
+flying
+X -- Route 11
+Y -- Route 11
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+398
+Staraptor
+http://www.serebii.net/xy/pokemon/398.png
+normal
+flying
+X -- Evolve Staravia
+Y -- Evolve Staravia
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+399
+Bidoof
+http://www.serebii.net/xy/pokemon/399.png
+normal
+
+X -- Route 3, Route 22
+Y -- Route 3, Route 22
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+400
+Bibarel
+http://www.serebii.net/xy/pokemon/400.png
+normal
+water
+X -- Route 22, Friend Safari
+Y -- Route 22, Friend Safari
+1 0.5 0.5 2 2 0.5 2 1 1 1 1 1 1 0 1 1 0.5 1 
+false
+false
+*****
+401
+Kricketot
+http://www.serebii.net/xy/pokemon/401.png
+bug
+
+X -- 
+Y -- 
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+402
+Kricketune
+http://www.serebii.net/xy/pokemon/402.png
+bug
+
+X -- 
+Y -- 
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+403
+Shinx
+http://www.serebii.net/xy/pokemon/403.png
+electric
+
+X -- Breed Luxio
+Y -- Breed Luxio
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+404
+Luxio
+http://www.serebii.net/xy/pokemon/404.png
+electric
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+405
+Luxray
+http://www.serebii.net/xy/pokemon/405.png
+electric
+
+X -- Evolve Luxio
+Y -- Evolve Luxio
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+406
+Budew
+http://www.serebii.net/xy/pokemon/406.png
+grass
+poison
+X -- Route 4
+Y -- Route 4
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+407
+Roserade
+http://www.serebii.net/xy/pokemon/407.png
+grass
+poison
+X -- Evolve Roselia
+Y -- Evolve Roselia
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+408
+Cranidos
+http://www.serebii.net/xy/pokemon/408.png
+rock
+
+X -- Revive Skull Fossil
+Y -- Revive Skull Fossil
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+409
+Rampardos
+http://www.serebii.net/xy/pokemon/409.png
+rock
+
+X -- Evolve Cranidos
+Y -- Evolve Cranidos
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+410
+Shieldon
+http://www.serebii.net/xy/pokemon/410.png
+rock
+steel
+X -- Revive Armor Fossil
+Y -- Revive Armor Fossil
+0.25 1 2 1 1 0.5 4 0 4 0.25 0.5 0.5 0.5 1 0.5 1 1 0.5 
+false
+false
+*****
+411
+Bastiodon
+http://www.serebii.net/xy/pokemon/411.png
+rock
+steel
+X -- Evolve Shieldon
+Y -- Evolve Shieldon
+0.25 1 2 1 1 0.5 4 0 4 0.25 0.5 0.5 0.5 1 0.5 1 1 0.5 
+false
+false
+*****
+412
+Burmy
+http://www.serebii.net/xy/pokemon/412.png
+bug
+
+X -- Route 3
+Y -- Route 3
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+413
+Wormadam
+http://www.serebii.net/xy/pokemon/413.png
+bug
+grass
+X -- Evolve Burmy
+Y -- Evolve Burmy
+1 4 0.5 0.5 0.25 2 0.5 2 0.25 4 1 2 2 1 1 1 1 1 
+false
+false
+*****
+414
+Mothim
+http://www.serebii.net/xy/pokemon/414.png
+bug
+flying
+X -- Evolve Burmy
+Y -- Evolve Burmy
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+415
+Combee
+http://www.serebii.net/xy/pokemon/415.png
+bug
+flying
+X -- Route 4, Friend Safari
+Y -- Route 4, Friend Safari
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+416
+Vespiquen
+http://www.serebii.net/xy/pokemon/416.png
+bug
+flying
+X -- Evolve Combee
+Y -- Evolve Combee
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+417
+Pachirisu
+http://www.serebii.net/xy/pokemon/417.png
+electric
+
+X -- Route 12, Friend Safari
+Y -- Route 12, Friend Safari
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+418
+Buizel
+http://www.serebii.net/xy/pokemon/418.png
+water
+
+X -- Breed Floatzel
+Y -- Breed Floatzel
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+419
+Floatzel
+http://www.serebii.net/xy/pokemon/419.png
+water
+
+X -- Route 15, Route 16, Route 21, Friend Safari
+Y -- Route 15, Route 16, Route 21, Friend Safari
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+420
+Cherubi
+http://www.serebii.net/xy/pokemon/420.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+421
+Cherrim
+http://www.serebii.net/xy/pokemon/421.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+422
+Shellos
+http://www.serebii.net/xy/pokemon/422.png
+water
+
+X -- Breed Gastrodon
+Y -- Breed Gastrodon
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+423
+Gastrodon
+http://www.serebii.net/xy/pokemon/423.png
+water
+ground
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+424
+Ambipom
+http://www.serebii.net/xy/pokemon/424.png
+normal
+
+X -- Evolve Aipom
+Y -- Evolve Aipom
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+425
+Drifloon
+http://www.serebii.net/xy/pokemon/425.png
+ghost
+flying
+X -- Route 8
+Y -- Route 8
+0 1 1 2 0.5 2 0 0.5 0 1 1 0.25 2 2 1 2 1 1 
+false
+false
+*****
+426
+Drifblim
+http://www.serebii.net/xy/pokemon/426.png
+ghost
+flying
+X -- Evolve Drifloon, Friend Safari
+Y -- Evolve Drifloon, Friend Safari
+0 1 1 2 0.5 2 0 0.5 0 1 1 0.25 2 2 1 2 1 1 
+false
+false
+*****
+427
+Buneary
+http://www.serebii.net/xy/pokemon/427.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+428
+Lopunny
+http://www.serebii.net/xy/pokemon/428.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+429
+Mismagius
+http://www.serebii.net/xy/pokemon/429.png
+ghost
+
+X -- 
+Y -- 
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+430
+Honchkrow
+http://www.serebii.net/xy/pokemon/430.png
+dark
+flying
+X -- Evolve Honchkrow
+Y -- Evolve Honchkrow
+1 1 1 2 0.5 2 1 1 0 1 0 1 2 0.5 1 0.5 1 2 
+false
+false
+*****
+431
+Glameow
+http://www.serebii.net/xy/pokemon/431.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+432
+Purugly
+http://www.serebii.net/xy/pokemon/432.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+433
+Chingling
+http://www.serebii.net/xy/pokemon/433.png
+psychic
+
+X -- Route 11, Reflection Cave
+Y -- Route 11, Reflection Cave
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+434
+Stunky
+http://www.serebii.net/xy/pokemon/434.png
+poison
+dark
+X -- Route 11
+Y -- Route 11
+1 1 1 1 0.5 1 1 0.5 2 1 0 1 1 0.5 1 0.5 1 1 
+false
+false
+*****
+435
+Skuntank
+http://www.serebii.net/xy/pokemon/435.png
+poison
+dark
+X -- Evolve Stunky
+Y -- Evolve Stunky
+1 1 1 1 0.5 1 1 0.5 2 1 0 1 1 0.5 1 0.5 1 1 
+false
+false
+*****
+436
+Bronzor
+http://www.serebii.net/xy/pokemon/436.png
+steel
+psychic
+X -- Breed Bronzor
+Y -- Breed Bronzor
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.25 1 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+437
+Bronzong
+http://www.serebii.net/xy/pokemon/437.png
+steel
+psychic
+X -- Friend Safari
+Y -- Friend Safari
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.25 1 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+438
+Bonsly
+http://www.serebii.net/xy/pokemon/438.png
+rock
+
+X -- Breed Sudowoodo
+Y -- Breed Sudowoodo
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+439
+Mime
+http://www.serebii.net/xy/pokemon/439.png
+psychic
+fairy
+X -- Reflection Cave
+Y -- Reflection Cave
+1 1 1 1 1 1 0.25 2 1 1 0.5 1 1 2 0 1 2 1 
+false
+false
+*****
+440
+Happiny
+http://www.serebii.net/xy/pokemon/440.png
+normal
+
+X -- Breed Chansey
+Y -- Breed Chansey
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+441
+Chatot
+http://www.serebii.net/xy/pokemon/441.png
+normal
+flying
+X -- Route 12
+Y -- Route 12
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+442
+Spiritomb
+http://www.serebii.net/xy/pokemon/442.png
+ghost
+dark
+X -- Friend Safari
+Y -- Friend Safari
+0 1 1 1 1 1 0 0.5 1 1 0 1 1 1 1 1 1 2 
+false
+false
+*****
+443
+Gible
+http://www.serebii.net/xy/pokemon/443.png
+dragon
+ground
+X -- Route 13
+Y -- Route 13
+1 0.5 1 0 1 4 1 0.5 1 1 1 1 0.5 1 2 1 1 2 
+false
+false
+*****
+444
+Gabite
+http://www.serebii.net/xy/pokemon/444.png
+dragon
+ground
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 1 0 1 4 1 0.5 1 1 1 1 0.5 1 2 1 1 2 
+false
+false
+*****
+445
+Garchomp
+http://www.serebii.net/xy/pokemon/445.png
+dragon
+ground
+X -- Evolve Gabite
+Y -- Evolve Gabite
+1 0.5 1 0 1 4 1 0.5 1 1 1 1 0.5 1 2 1 1 2 
+false
+false
+*****
+446
+Munchlax
+http://www.serebii.net/xy/pokemon/446.png
+normal
+
+X -- Breed Snorlax
+Y -- Breed Snorlax
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+447
+Riolu
+http://www.serebii.net/xy/pokemon/447.png
+fighting
+
+X -- Route 22, Friend Safari
+Y -- Route 22, Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+448
+Lucario
+http://www.serebii.net/xy/pokemon/448.png
+fighting
+steel
+X -- Evolve Riolu
+Y -- Evolve Riolu
+0.5 2 1 1 0.5 0.5 2 0 2 1 1 0.25 0.25 1 0.5 0.5 0.5 1 
+false
+false
+*****
+449
+Hippopotas
+http://www.serebii.net/xy/pokemon/449.png
+ground
+
+X -- Route 9
+Y -- Route 9
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+450
+Hippowdon
+http://www.serebii.net/xy/pokemon/450.png
+ground
+
+X -- Evolve Hippopotas
+Y -- Evolve Hippopotas
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+451
+Skorupi
+http://www.serebii.net/xy/pokemon/451.png
+poison
+bug
+X -- Route 14, Route 15, Route 16, Route 19
+Y -- Route 14, Route 15, Route 16,  Route 19
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+452
+Drapion
+http://www.serebii.net/xy/pokemon/452.png
+poison
+dark
+X -- Route 19
+Y -- Route 19
+1 1 1 1 0.5 1 1 0.5 2 1 0 1 1 0.5 1 0.5 1 1 
+false
+false
+*****
+453
+Croagunk
+http://www.serebii.net/xy/pokemon/453.png
+poison
+fighting
+X -- Route 7
+Y -- Route 7
+1 1 1 1 0.5 1 0.5 0.5 2 2 4 0.25 0.5 1 1 0.5 1 1 
+false
+false
+*****
+454
+Toxicroak
+http://www.serebii.net/xy/pokemon/454.png
+poison
+fighting
+X -- Evolve Croagunk, Friend Safari
+Y -- Evolve Croagunk, Friend Safari
+1 1 1 1 0.5 1 0.5 0.5 2 2 4 0.25 0.5 1 1 0.5 1 1 
+false
+false
+*****
+455
+Carnivine
+http://www.serebii.net/xy/pokemon/455.png
+grass
+
+X -- Route 14, Route 19
+Y -- Route 14, Route 19
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+456
+Finneon
+http://www.serebii.net/xy/pokemon/456.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+457
+Lumineon
+http://www.serebii.net/xy/pokemon/457.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+458
+Mantyke
+http://www.serebii.net/xy/pokemon/458.png
+water
+flying
+X -- Route 12, Azure Bay
+Y -- Route 12, Azure Bay
+1 0.5 0.5 4 1 1 0.5 1 0 1 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+459
+Snover
+http://www.serebii.net/xy/pokemon/459.png
+grass
+ice
+X -- Route 17, Friend Safari
+Y -- Route 17, Friend Safari
+1 4 0.5 0.5 0.5 1 2 2 0.5 2 1 2 2 1 1 1 2 1 
+false
+false
+*****
+460
+Abomasnow
+http://www.serebii.net/xy/pokemon/460.png
+grass
+ice
+X -- Route 17
+Y -- Route 17
+1 4 0.5 0.5 0.5 1 2 2 0.5 2 1 2 2 1 1 1 2 1 
+false
+false
+*****
+461
+Weavile
+http://www.serebii.net/xy/pokemon/461.png
+dark
+ice
+X -- Evolve Sneasel
+Y -- Evolve Sneasel
+1 2 1 1 1 0.5 4 1 1 1 0 2 2 0.5 1 0.5 2 2 
+false
+false
+*****
+462
+Magnezone
+http://www.serebii.net/xy/pokemon/462.png
+electric
+steel
+X -- Evolve Magneton
+Y -- Evolve Magneton
+0.5 2 1 0.5 0.5 0.5 2 0 4 0.25 0.5 0.5 0.5 1 0.5 1 0.25 0.5 
+false
+false
+*****
+463
+Lickilicky
+http://www.serebii.net/xy/pokemon/463.png
+normal
+
+X -- Evolve Lickitung
+Y -- Evolve Lickitung
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+464
+Rhyperior
+http://www.serebii.net/xy/pokemon/464.png
+ground
+rock
+X -- Evolve Rhydon
+Y -- Evolve Rhydon
+0.5 0.5 4 0 4 2 2 0.25 2 0.5 1 1 0.5 1 1 1 2 1 
+false
+false
+*****
+465
+Tangrowth
+http://www.serebii.net/xy/pokemon/465.png
+grass
+
+X -- Evolve Tangela
+Y -- Evolve Tangela
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+466
+Electivire
+http://www.serebii.net/xy/pokemon/466.png
+electric
+
+X -- Evolve Electabuzz
+Y -- Evolve Electabuzz
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+467
+Magmortar
+http://www.serebii.net/xy/pokemon/467.png
+fire
+
+X -- Evolve Magmar
+Y -- Evolve Magmar
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+468
+Togekiss
+http://www.serebii.net/xy/pokemon/468.png
+fairy
+flying
+X -- Evolve Togetic
+Y -- Evolve Togetic
+1 1 1 2 0.5 2 0.25 2 0 1 1 0.25 2 1 0 0.5 2 1 
+false
+false
+*****
+469
+Yanmega
+http://www.serebii.net/xy/pokemon/469.png
+bug
+flying
+X -- Evolve Yanma
+Y -- Evolve Yanma
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+470
+Leafeon
+http://www.serebii.net/xy/pokemon/470.png
+grass
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+471
+Glaceon
+http://www.serebii.net/xy/pokemon/471.png
+ice
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+472
+Gliscor
+http://www.serebii.net/xy/pokemon/472.png
+ground
+flying
+X -- Evolve Gligar
+Y -- Evolve Gligar
+1 1 2 0 1 4 0.5 0.5 0 1 1 0.5 1 1 1 1 1 1 
+false
+false
+*****
+473
+Mamoswine
+http://www.serebii.net/xy/pokemon/473.png
+ice
+ground
+X -- Evolve Piloswine
+Y -- Evolve Piloswine
+1 2 2 0 2 1 2 0.5 1 1 1 1 1 1 1 1 2 1 
+false
+false
+*****
+474
+Porygon-Z
+http://www.serebii.net/xy/pokemon/474.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+475
+Gallade
+http://www.serebii.net/xy/pokemon/475.png
+psychic
+fighting
+X -- Evolve Kirlia
+Y -- Evolve Kirlia
+1 1 1 1 1 1 0.5 1 1 2 1 1 0.5 2 1 1 1 2 
+false
+false
+*****
+476
+Probopass
+http://www.serebii.net/xy/pokemon/476.png
+rock
+steel
+X -- Evolve Nosepass
+Y -- Evolve Nosepass
+0.25 1 2 1 1 0.5 4 0 4 0.25 0.5 0.5 0.5 1 0.5 1 1 0.5 
+false
+false
+*****
+477
+Dusknoir
+http://www.serebii.net/xy/pokemon/477.png
+ghost
+
+X -- Evolve Dusclops
+Y -- Evolve Dusclops
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+478
+Froslass
+http://www.serebii.net/xy/pokemon/478.png
+ice
+ghost
+X -- Evolve Snorunt
+Y -- Evolve Snorunt
+0 2 1 1 1 0.5 0 0.5 1 1 1 0.5 2 2 1 2 2 1 
+false
+false
+*****
+479
+Rotom
+http://www.serebii.net/xy/pokemon/479.png
+electric
+ghost
+X -- Lost Hotel (Tuesdays)
+Y -- Lost Hotel (Tuesdays)
+0 1 1 0.5 1 1 0 0.5 2 0.5 1 0.5 1 2 1 2 0.5 1 
+false
+false
+*****
+480
+Uxie
+http://www.serebii.net/xy/pokemon/480.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+481
+Mesprit
+http://www.serebii.net/xy/pokemon/481.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+482
+Azelf
+http://www.serebii.net/xy/pokemon/482.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+483
+Dialga
+http://www.serebii.net/xy/pokemon/483.png
+steel
+dragon
+X -- 
+Y -- 
+0.5 1 0.5 0.5 0.25 1 2 0 2 0.5 0.5 0.5 0.5 1 1 1 0.5 1 
+false
+false
+*****
+484
+Palkia
+http://www.serebii.net/xy/pokemon/484.png
+water
+dragon
+X -- 
+Y -- 
+1 0.25 0.25 1 1 1 1 1 1 1 1 1 1 1 2 1 0.5 2 
+false
+false
+*****
+485
+Heatran
+http://www.serebii.net/xy/pokemon/485.png
+fire
+steel
+X -- 
+Y -- 
+0.5 1 2 1 0.25 0.25 2 0 4 0.5 0.5 0.25 1 1 0.5 1 0.25 0.25 
+false
+false
+*****
+486
+Regigigas
+http://www.serebii.net/xy/pokemon/486.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+487
+Giratina
+http://www.serebii.net/xy/pokemon/487.png
+ghost
+dragon
+X -- 
+Y -- 
+0 0.5 0.5 0.5 0.5 2 0 0.5 1 1 1 0.5 1 2 2 2 1 2 
+false
+false
+*****
+488
+Cresselia
+http://www.serebii.net/xy/pokemon/488.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+489
+Phione
+http://www.serebii.net/xy/pokemon/489.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+490
+Manaphy
+http://www.serebii.net/xy/pokemon/490.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+491
+Darkrai
+http://www.serebii.net/xy/pokemon/491.png
+dark
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+492
+Shaymin
+http://www.serebii.net/xy/pokemon/492.png
+grass
+grass
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+493
+Arceus
+http://www.serebii.net/xy/pokemon/493.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+494
+Victini
+http://www.serebii.net/xy/pokemon/494.png
+psychic
+fire
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 0.5 1 2 1 0.5 1 2 2 1 2 0.5 0.5 
+false
+false
+*****
+495
+Snivy
+http://www.serebii.net/xy/pokemon/495.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+496
+Servine
+http://www.serebii.net/xy/pokemon/496.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+497
+Serperior
+http://www.serebii.net/xy/pokemon/497.png
+grass
+
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+498
+Tepig
+http://www.serebii.net/xy/pokemon/498.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+499
+Pignite
+http://www.serebii.net/xy/pokemon/499.png
+fire
+fighting
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 2 2 0.25 1 1 1 0.5 0.5 1 
+false
+false
+*****
+500
+Emboar
+http://www.serebii.net/xy/pokemon/500.png
+fire
+fighting
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 2 2 0.25 1 1 1 0.5 0.5 1 
+false
+false
+*****
+501
+Oshawott
+http://www.serebii.net/xy/pokemon/501.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+502
+Dewott
+http://www.serebii.net/xy/pokemon/502.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+503
+Samurott
+http://www.serebii.net/xy/pokemon/503.png
+water
+
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+504
+Patrat
+http://www.serebii.net/xy/pokemon/504.png
+normal
+
+X -- Breed Watchog
+Y -- Breed Watchog
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+505
+Watchog
+http://www.serebii.net/xy/pokemon/505.png
+normal
+
+X -- Route 15
+Y -- Route 15
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+506
+Lillipup
+http://www.serebii.net/xy/pokemon/506.png
+normal
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+507
+Herdier
+http://www.serebii.net/xy/pokemon/507.png
+normal
+
+X -- Evolve Lillipup
+Y -- Evolve Lillipup
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+508
+Stoutland
+http://www.serebii.net/xy/pokemon/508.png
+normal
+
+X -- Evolve Herdier
+Y -- Evolve Herdier
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+509
+Purrloin
+http://www.serebii.net/xy/pokemon/509.png
+dark
+
+X -- Trade from Y
+Y -- Breed Liepard
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+510
+Liepard
+http://www.serebii.net/xy/pokemon/510.png
+dark
+
+X -- Trade from Y, Friend Safari
+Y -- Route 15, Friend Safari
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+511
+Pansage
+http://www.serebii.net/xy/pokemon/511.png
+grass
+
+X -- Santalune Forest, Friend Safari
+Y -- Santalune Forest, Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+512
+Simisage
+http://www.serebii.net/xy/pokemon/512.png
+grass
+
+X -- Evolve Pansage
+Y -- Evolve Pansage
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+513
+Pansear
+http://www.serebii.net/xy/pokemon/513.png
+fire
+
+X -- Santalune Forest, Friend Safari
+Y -- Santalune Forest, Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+514
+Simisear
+http://www.serebii.net/xy/pokemon/514.png
+fire
+
+X -- Evolve Pansear
+Y -- Evolve Pansear
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+515
+Panpour
+http://www.serebii.net/xy/pokemon/515.png
+water
+
+X -- Santalune Forest, Friend Safari
+Y -- Santalune Forest, Friend Safari
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+516
+Simipour
+http://www.serebii.net/xy/pokemon/516.png
+water
+
+X -- Evolve Panpour
+Y -- Evolve Panpour
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+517
+Munna
+http://www.serebii.net/xy/pokemon/517.png
+psychic
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+518
+Musharna
+http://www.serebii.net/xy/pokemon/518.png
+psychic
+
+X -- Evolve Munna
+Y -- Evolve Munna
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+519
+Pidove
+http://www.serebii.net/xy/pokemon/519.png
+normal
+flying
+X -- Breed Tranquill
+Y -- Breed Tranquill
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+520
+Tranquill
+http://www.serebii.net/xy/pokemon/520.png
+normal
+flying
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+521
+Unfezant
+http://www.serebii.net/xy/pokemon/521.png
+normal
+flying
+X -- Evolve Tranquill
+Y -- Evolve Tranquill
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+522
+Blitzle
+http://www.serebii.net/xy/pokemon/522.png
+electric
+
+X -- Breed Zebstrika
+Y -- Breed Zebstrika
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+523
+Zebstrika
+http://www.serebii.net/xy/pokemon/523.png
+electric
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+524
+Roggenrola
+http://www.serebii.net/xy/pokemon/524.png
+rock
+
+X -- Reflection Cave
+Y -- Reflection Cave
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+525
+Boldore
+http://www.serebii.net/xy/pokemon/525.png
+rock
+
+X -- Evolve Roggenrola, Friend Safari
+Y -- Evolve Roggenrola, Friend Safari
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+526
+Gigalith
+http://www.serebii.net/xy/pokemon/526.png
+rock
+
+X -- Evolve Boldore
+Y -- Evolve Boldore
+0.5 0.5 2 1 2 1 2 0.5 2 0.5 1 1 1 1 1 1 2 1 
+false
+false
+*****
+527
+Woobat
+http://www.serebii.net/xy/pokemon/527.png
+psychic
+flying
+X -- Glittering Cave, Reflection Cave, Friend Safari
+Y -- Glittering Cave, Reflection Cave, Friend Safari
+1 1 1 2 0.5 2 0.25 1 0 1 0.5 1 2 2 1 2 1 1 
+false
+false
+*****
+528
+Swoobat
+http://www.serebii.net/xy/pokemon/528.png
+psychic
+flying
+X -- Evolve Woobat
+Y -- Evolve Woobat
+1 1 1 2 0.5 2 0.25 1 0 1 0.5 1 2 2 1 2 1 1 
+false
+false
+*****
+529
+Drilbur
+http://www.serebii.net/xy/pokemon/529.png
+ground
+
+X -- Breed Excadrill
+Y -- Breed Excadrill
+1 1 2 0 2 2 1 0.5 1 1 1 1 0.5 1 1 1 1 1 
+false
+false
+*****
+530
+Excadrill
+http://www.serebii.net/xy/pokemon/530.png
+ground
+steel
+X -- Friend Safari
+Y -- Friend Safari
+0.5 2 2 0 1 1 2 0 2 0.5 0.5 0.5 0.25 1 0.5 1 0.5 0.5 
+false
+false
+*****
+531
+Audino
+http://www.serebii.net/xy/pokemon/531.png
+normal
+
+X -- Route 6, Friend Safari
+Y -- Route 6, Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+532
+Timburr
+http://www.serebii.net/xy/pokemon/532.png
+fighting
+
+X -- Breed Gurdurr/Conkeldurr
+Y -- Breed Gurdurr/Conkeldurr
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+533
+Gurdurr
+http://www.serebii.net/xy/pokemon/533.png
+fighting
+
+X -- Route 18, Victory Road
+Y -- Route 18, Victory Road
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+534
+Conkeldurr
+http://www.serebii.net/xy/pokemon/534.png
+fighting
+
+X -- Evolve Gurdurr
+Y -- Evolve Gurdurr
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+535
+Tympole
+http://www.serebii.net/xy/pokemon/535.png
+water
+
+X -- Breed Paliptoad
+Y -- Breed Paliptoad
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+536
+Palpitoad
+http://www.serebii.net/xy/pokemon/536.png
+water
+ground
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+537
+Seismitoad
+http://www.serebii.net/xy/pokemon/537.png
+water
+ground
+X -- Evolve Palpitoad
+Y -- Evolve Palpitoad
+1 0.5 1 0 4 1 1 0.5 1 1 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+538
+Throh
+http://www.serebii.net/xy/pokemon/538.png
+fighting
+
+X -- Trade from Y, Friend Safari
+Y -- Route 11, Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+539
+Sawk
+http://www.serebii.net/xy/pokemon/539.png
+fighting
+
+X -- Route 11, Friend Safari
+Y -- Trade from X, Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+540
+Sewaddle
+http://www.serebii.net/xy/pokemon/540.png
+bug
+grass
+X -- Breed Swadloon
+Y -- Breed Swadloon
+1 4 0.5 0.5 0.25 2 0.5 2 0.25 4 1 2 2 1 1 1 1 1 
+false
+false
+*****
+541
+Swadloon
+http://www.serebii.net/xy/pokemon/541.png
+bug
+grass
+X -- Friend Safari
+Y -- Friend Safari
+1 4 0.5 0.5 0.25 2 0.5 2 0.25 4 1 2 2 1 1 1 1 1 
+false
+false
+*****
+542
+Leavanny
+http://www.serebii.net/xy/pokemon/542.png
+bug
+grass
+X -- Evolve Swadloon
+Y -- Evolve Swadloon
+1 4 0.5 0.5 0.25 2 0.5 2 0.25 4 1 2 2 1 1 1 1 1 
+false
+false
+*****
+543
+Venipede
+http://www.serebii.net/xy/pokemon/543.png
+bug
+poison
+X -- Route 6
+Y -- Route 6
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+544
+Whirlipede
+http://www.serebii.net/xy/pokemon/544.png
+bug
+poison
+X -- Evolve Venipede, Friend Safari
+Y -- Evolve Venipede, Friend Safari
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+545
+Scolipede
+http://www.serebii.net/xy/pokemon/545.png
+bug
+poison
+X -- Evolve Whirlipede
+Y -- Evolve Whirlipede
+1 2 1 1 0.25 1 0.25 0.5 1 2 2 0.5 2 1 1 1 1 0.5 
+false
+false
+*****
+546
+Cottonee
+http://www.serebii.net/xy/pokemon/546.png
+grass
+fairy
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 0.5 4 0.5 2 1 1 1 1 0 0.5 2 1 
+false
+false
+*****
+547
+Whimsicott
+http://www.serebii.net/xy/pokemon/547.png
+grass
+fairy
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 0.5 4 0.5 2 1 1 1 1 0 0.5 2 1 
+false
+false
+*****
+548
+Petilil
+http://www.serebii.net/xy/pokemon/548.png
+grass
+
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+549
+Lilligant
+http://www.serebii.net/xy/pokemon/549.png
+grass
+
+X -- Evolve Petilil
+Y -- Evolve Petilil
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+550
+Basculin
+http://www.serebii.net/xy/pokemon/550.png
+water
+
+X -- Route 15, Route 16, Route 21, Pokémon Village
+Y -- Route 15, Route 16, Route 21, Pokémon Village
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+551
+Sandile
+http://www.serebii.net/xy/pokemon/551.png
+ground
+dark
+X -- Route 9, Friend Safari
+Y -- Route 9, Friend Safari
+1 1 2 0 2 2 2 0.5 1 1 0 2 0.5 0.5 1 0.5 1 2 
+false
+false
+*****
+552
+Krokorok
+http://www.serebii.net/xy/pokemon/552.png
+ground
+dark
+X -- Evolve Sandile
+Y -- Evolve Sandile
+1 1 2 0 2 2 2 0.5 1 1 0 2 0.5 0.5 1 0.5 1 2 
+false
+false
+*****
+553
+Krookodile
+http://www.serebii.net/xy/pokemon/553.png
+ground
+dark
+X -- Evolve Krokorok
+Y -- Evolve Krokorok
+1 1 2 0 2 2 2 0.5 1 1 0 2 0.5 0.5 1 0.5 1 2 
+false
+false
+*****
+554
+Darumaka
+http://www.serebii.net/xy/pokemon/554.png
+fire
+
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+555
+Darmanitan
+http://www.serebii.net/xy/pokemon/555.png
+fire
+fire
+X -- 
+Y -- 
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+556
+Maractus
+http://www.serebii.net/xy/pokemon/556.png
+grass
+
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+557
+Dwebble
+http://www.serebii.net/xy/pokemon/557.png
+bug
+rock
+X -- Route 8, Route 12, Ambrette Town, Cyllage City, Glittering Cave - Rock Smash, Friend Safari
+Y -- Route 8, Route 12, Ambrette Town, Cyllage City, Glittering Cave - Rock Smash, Friend Safari
+0.5 1 2 1 1 1 1 0.5 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+558
+Crustle
+http://www.serebii.net/xy/pokemon/558.png
+bug
+rock
+X -- Evolve Dwebble
+Y -- Evolve Dwebble
+0.5 1 2 1 1 1 1 0.5 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+559
+Scraggy
+http://www.serebii.net/xy/pokemon/559.png
+dark
+fighting
+X -- Route 5
+Y -- Route 5
+1 1 1 1 1 1 2 1 1 2 0 1 0.5 0.5 1 0.25 1 4 
+false
+false
+*****
+560
+Scrafty
+http://www.serebii.net/xy/pokemon/560.png
+dark
+fighting
+X -- Evolve Scraggy
+Y -- Evolve Scraggy
+1 1 1 1 1 1 2 1 1 2 0 1 0.5 0.5 1 0.25 1 4 
+false
+false
+*****
+561
+Sigilyph
+http://www.serebii.net/xy/pokemon/561.png
+psychic
+flying
+X -- Route 10, Friend Safari
+Y -- Route 10, Friend Safari
+1 1 1 2 0.5 2 0.25 1 0 1 0.5 1 2 2 1 2 1 1 
+false
+false
+*****
+562
+Yamask
+http://www.serebii.net/xy/pokemon/562.png
+ghost
+
+X -- 
+Y -- 
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+563
+Cofagrigus
+http://www.serebii.net/xy/pokemon/563.png
+ghost
+
+X -- 
+Y -- 
+0 1 1 1 1 1 0 0.5 1 1 1 0.5 1 2 1 2 1 1 
+false
+false
+*****
+564
+Tirtouga
+http://www.serebii.net/xy/pokemon/564.png
+water
+rock
+X -- Revive Cover Fossil
+Y -- Revive Cover Fossil
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+565
+Carracosta
+http://www.serebii.net/xy/pokemon/565.png
+water
+rock
+X -- Evolve Tirtouga
+Y -- Evolve Tirtouga
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+566
+Archen
+http://www.serebii.net/xy/pokemon/566.png
+rock
+flying
+X -- Revive Plume Fossil
+Y -- Revive Plume Fossil
+0.5 0.5 2 2 1 2 1 0.5 0 0.5 1 0.5 2 1 1 1 2 1 
+false
+false
+*****
+567
+Archeops
+http://www.serebii.net/xy/pokemon/567.png
+rock
+flying
+X -- Evolve Archen
+Y -- Revive Archen
+0.5 0.5 2 2 1 2 1 0.5 0 0.5 1 0.5 2 1 1 1 2 1 
+false
+false
+*****
+568
+Trubbish
+http://www.serebii.net/xy/pokemon/568.png
+poison
+
+X -- Breed Garbodor
+Y -- Breed Garbodor
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+569
+Garbodor
+http://www.serebii.net/xy/pokemon/569.png
+poison
+
+X -- Lost Hotel, Pokémon Village, Friend Safari
+Y -- Lost Hotel, Pokémon Village, Friend Safari
+1 1 1 1 0.5 1 0.5 0.5 2 1 2 0.5 1 1 1 1 1 0.5 
+false
+false
+*****
+570
+Zorua
+http://www.serebii.net/xy/pokemon/570.png
+dark
+
+X -- Breed Zoroark
+Y -- Breed Zoroark
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+571
+Zoroark
+http://www.serebii.net/xy/pokemon/571.png
+dark
+
+X -- Route 20, Pokémon Village
+Y -- Route 20, Pokémon Village
+1 1 1 1 1 1 2 1 1 1 0 2 1 0.5 1 0.5 1 2 
+false
+false
+*****
+572
+Minccino
+http://www.serebii.net/xy/pokemon/572.png
+normal
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+573
+Cinccino
+http://www.serebii.net/xy/pokemon/573.png
+normal
+
+X -- Evolve Minccino
+Y -- Evolve Minccino
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+574
+Gothita
+http://www.serebii.net/xy/pokemon/574.png
+psychic
+
+X -- Breed Gothorita/Gothitelle
+Y -- Breed Gothorita/Gothitelle
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+575
+Gothorita
+http://www.serebii.net/xy/pokemon/575.png
+psychic
+
+X -- Route 20, Pokémon Village, Friend Safari
+Y -- Route 20, Pokémon Village, Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+576
+Gothitelle
+http://www.serebii.net/xy/pokemon/576.png
+psychic
+
+X -- Evolve Gothorita
+Y -- Evolve Gothorita
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+577
+Solosis
+http://www.serebii.net/xy/pokemon/577.png
+psychic
+
+X -- Reflection Cave
+Y -- Reflection Cave
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+578
+Duosion
+http://www.serebii.net/xy/pokemon/578.png
+psychic
+
+X -- Evolve Solosis, Friend Safari
+Y -- Evolve Solosis, Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+579
+Reuniclus
+http://www.serebii.net/xy/pokemon/579.png
+psychic
+
+X -- Evolve Duosion
+Y -- Evolve Duosion
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+580
+Ducklett
+http://www.serebii.net/xy/pokemon/580.png
+water
+flying
+X -- Route 7
+Y -- Route 7
+1 0.5 0.5 4 1 1 0.5 1 0 1 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+581
+Swanna
+http://www.serebii.net/xy/pokemon/581.png
+water
+flying
+X -- Evolve Ducklett, Friend Safari
+Y -- Evolve Ducklett, Friend Safari
+1 0.5 0.5 4 1 1 0.5 1 0 1 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+582
+Vanillite
+http://www.serebii.net/xy/pokemon/582.png
+ice
+
+X -- Frost Cavern
+Y -- Frost Cavern
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+583
+Vanillish
+http://www.serebii.net/xy/pokemon/583.png
+ice
+
+X -- Evolve Vanillite
+Y -- Evolve Vanillite
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+584
+Vanilluxe
+http://www.serebii.net/xy/pokemon/584.png
+ice
+
+X -- Evolve Vanillish
+Y -- Evolve Vanillish
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+585
+Deerling
+http://www.serebii.net/xy/pokemon/585.png
+normal
+grass
+X -- Breed Sawsbuck
+Y -- Breed Sawsbuck
+1 2 0.5 0.5 0.5 2 2 2 0.5 2 1 2 1 0 1 1 1 1 
+false
+false
+*****
+586
+Sawsbuck
+http://www.serebii.net/xy/pokemon/586.png
+normal
+grass
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 2 2 0.5 2 1 2 1 0 1 1 1 1 
+false
+false
+*****
+587
+Emolga
+http://www.serebii.net/xy/pokemon/587.png
+electric
+flying
+X -- Route 10, Friend Safari
+Y -- Route 10, Friend Safari
+1 1 1 1 0.5 2 0.5 1 0 0.5 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+588
+Karrablast
+http://www.serebii.net/xy/pokemon/588.png
+bug
+
+X -- Route 14, Route 19
+Y -- Route 14, Route 19
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+589
+Escavalier
+http://www.serebii.net/xy/pokemon/589.png
+bug
+steel
+X -- Evolve Karrablast
+Y -- Evolve Karrablast
+0.5 4 1 1 0.25 0.5 1 0 1 1 0.5 0.5 1 1 0.5 1 0.5 0.5 
+false
+false
+*****
+590
+Foongus
+http://www.serebii.net/xy/pokemon/590.png
+grass
+poison
+X -- Route 15, Route 16, Route 20, Victory Road, Pokémon Village
+Y -- Route 15, Route 16, Route 20, Victory Road, Pokémon Village
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+591
+Amoonguss
+http://www.serebii.net/xy/pokemon/591.png
+grass
+poison
+X -- Victory Road, Route 20, Pokémon Village
+Y -- Victory Road, Route 20, Pokémon Village
+1 2 0.5 0.5 0.25 2 0.5 1 1 2 2 1 1 1 1 1 1 0.5 
+false
+false
+*****
+592
+Frillish
+http://www.serebii.net/xy/pokemon/592.png
+water
+ghost
+X -- 
+Y -- 
+0 0.5 0.5 2 2 0.5 0 0.5 1 1 1 0.5 1 2 1 2 0.5 1 
+false
+false
+*****
+593
+Jellicent
+http://www.serebii.net/xy/pokemon/593.png
+water
+ghost
+X -- 
+Y -- 
+0 0.5 0.5 2 2 0.5 0 0.5 1 1 1 0.5 1 2 1 2 0.5 1 
+false
+false
+*****
+594
+Alomomola
+http://www.serebii.net/xy/pokemon/594.png
+water
+
+X -- Azure Bay - Fish
+Y -- Azure Bay - Fish
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+595
+Joltik
+http://www.serebii.net/xy/pokemon/595.png
+bug
+electric
+X -- Friend Safari
+Y -- Friend Safari
+1 2 1 0.5 0.5 1 0.5 1 1 1 1 1 2 1 1 1 0.5 1 
+false
+false
+*****
+596
+Galvantula
+http://www.serebii.net/xy/pokemon/596.png
+bug
+electric
+X -- Friend Safari
+Y -- Friend Safari
+1 2 1 0.5 0.5 1 0.5 1 1 1 1 1 2 1 1 1 0.5 1 
+false
+false
+*****
+597
+Ferroseed
+http://www.serebii.net/xy/pokemon/597.png
+grass
+steel
+X -- Glittering Cave, Reflection Cave, Friend Safari
+Y -- Glittering Cave, Reflection Cave, Friend Safari
+0.5 4 0.5 0.5 0.25 1 2 0 1 1 0.5 1 0.5 1 0.5 1 0.5 0.5 
+false
+false
+*****
+598
+Ferrothorn
+http://www.serebii.net/xy/pokemon/598.png
+grass
+steel
+X -- Evolve Ferroseed, Friend Safari
+Y -- Evolve Ferroseed, Friend Safari
+0.5 4 0.5 0.5 0.25 1 2 0 1 1 0.5 1 0.5 1 0.5 1 0.5 0.5 
+false
+false
+*****
+599
+Klink
+http://www.serebii.net/xy/pokemon/599.png
+steel
+
+X -- Breed Klang
+Y -- Breed Klang
+0.5 2 1 1 0.5 0.5 2 0 2 0.5 0.5 0.5 0.5 1 0.5 1 0.5 0.5 
+false
+false
+*****
+600
+Klang
+http://www.serebii.net/xy/pokemon/600.png
+steel
+
+X -- Friend Safari
+Y -- Friend Safari
+0.5 2 1 1 0.5 0.5 2 0 2 0.5 0.5 0.5 0.5 1 0.5 1 0.5 0.5 
+false
+false
+*****
+601
+Klinklang
+http://www.serebii.net/xy/pokemon/601.png
+steel
+
+X -- Evolve Klang
+Y -- Evolve Klang
+0.5 2 1 1 0.5 0.5 2 0 2 0.5 0.5 0.5 0.5 1 0.5 1 0.5 0.5 
+false
+false
+*****
+602
+Tynamo
+http://www.serebii.net/xy/pokemon/602.png
+electric
+
+X -- 
+Y -- 
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+603
+Eelektrik
+http://www.serebii.net/xy/pokemon/603.png
+electric
+
+X -- 
+Y -- 
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+604
+Eelektross
+http://www.serebii.net/xy/pokemon/604.png
+electric
+
+X -- 
+Y -- 
+1 1 1 0.5 1 1 1 1 2 0.5 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+605
+Elgyem
+http://www.serebii.net/xy/pokemon/605.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+606
+Beheeyem
+http://www.serebii.net/xy/pokemon/606.png
+psychic
+
+X -- 
+Y -- 
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+607
+Litwick
+http://www.serebii.net/xy/pokemon/607.png
+ghost
+fire
+X -- Lost Hotel
+Y -- Lost Hotel
+0 0.5 2 1 0.5 0.5 0 0.5 2 1 1 0.25 2 2 1 2 0.5 0.5 
+false
+false
+*****
+608
+Lampent
+http://www.serebii.net/xy/pokemon/608.png
+ghost
+fire
+X -- Friend Safari
+Y -- Friend Safari
+0 0.5 2 1 0.5 0.5 0 0.5 2 1 1 0.25 2 2 1 2 0.5 0.5 
+false
+false
+*****
+609
+Chandelure
+http://www.serebii.net/xy/pokemon/609.png
+ghost
+fire
+X -- Evolve Lampent
+Y -- Evolve Lampent
+0 0.5 2 1 0.5 0.5 0 0.5 2 1 1 0.25 2 2 1 2 0.5 0.5 
+false
+false
+*****
+610
+Axew
+http://www.serebii.net/xy/pokemon/610.png
+dragon
+
+X -- Connecting Cave
+Y -- Connecting Cave
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+611
+Fraxure
+http://www.serebii.net/xy/pokemon/611.png
+dragon
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+612
+Haxorus
+http://www.serebii.net/xy/pokemon/612.png
+dragon
+
+X -- Evolve Fraxure
+Y -- Evolve Fraxure
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+613
+Cubchoo
+http://www.serebii.net/xy/pokemon/613.png
+ice
+
+X -- Frost Cavern
+Y -- Frost Cavern
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+614
+Beartic
+http://www.serebii.net/xy/pokemon/614.png
+ice
+
+X -- Frost Cavern, Friend Safari
+Y -- Frost Cavern, Friend Safari
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+615
+Cryogonal
+http://www.serebii.net/xy/pokemon/615.png
+ice
+
+X -- Frost Cavern
+Y -- Frost Cavern
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+616
+Shelmet
+http://www.serebii.net/xy/pokemon/616.png
+bug
+
+X -- Route 14, Route 19
+Y -- Route 14, Route 19
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+617
+Accelgor
+http://www.serebii.net/xy/pokemon/617.png
+bug
+
+X -- Evolve Shelmet
+Y -- Evolve Shelmet
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+618
+Stunfisk
+http://www.serebii.net/xy/pokemon/618.png
+ground
+electric
+X -- Route 14, Route 19, Friend Safari
+Y -- Route 14, Route 19, Friend Safari
+1 1 2 0 2 2 1 0.5 2 0.5 1 1 0.5 1 1 1 0.5 1 
+false
+false
+*****
+619
+Mienfoo
+http://www.serebii.net/xy/pokemon/619.png
+fighting
+
+X -- Route 8, Friend Safari
+Y -- Route 8, Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+620
+Mienshao
+http://www.serebii.net/xy/pokemon/620.png
+fighting
+
+X -- Evolve Mienfoo
+Y -- Evolve Mienfoo
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+621
+Druddigon
+http://www.serebii.net/xy/pokemon/621.png
+dragon
+
+X -- Victory Road, Friend Safari
+Y -- Victory Road, Friend Safari
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+622
+Golett
+http://www.serebii.net/xy/pokemon/622.png
+ground
+ghost
+X -- Route 10
+Y -- Route 10
+0 1 2 0 2 2 0 0.25 1 1 1 0.5 0.5 2 1 2 1 1 
+false
+false
+*****
+623
+Golurk
+http://www.serebii.net/xy/pokemon/623.png
+ground
+ghost
+X -- Evolve Golett, Friend Safari
+Y -- Evolve Golett, Friend Safari
+0 1 2 0 2 2 0 0.25 1 1 1 0.5 0.5 2 1 2 1 1 
+false
+false
+*****
+624
+Pawniard
+http://www.serebii.net/xy/pokemon/624.png
+dark
+steel
+X -- Route 15, Lost Hotel, Friend Safari
+Y -- Route 15, Lost Hotel, Friend Safari
+0.5 2 1 1 0.5 0.5 4 0 2 0.5 0 1 0.5 0.5 0.5 0.5 0.5 1 
+false
+false
+*****
+625
+Bisharp
+http://www.serebii.net/xy/pokemon/625.png
+dark
+steel
+X -- Evolve Pawniard
+Y -- Evolve Pawniard
+0.5 2 1 1 0.5 0.5 4 0 2 0.5 0 1 0.5 0.5 0.5 0.5 0.5 1 
+false
+false
+*****
+626
+Bouffalant
+http://www.serebii.net/xy/pokemon/626.png
+normal
+
+X -- 
+Y -- 
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+627
+Rufflet
+http://www.serebii.net/xy/pokemon/627.png
+normal
+flying
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+628
+Braviary
+http://www.serebii.net/xy/pokemon/628.png
+normal
+flying
+X -- Evolve Rufflet
+Y -- Evolve Rufflet
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+629
+Vullaby
+http://www.serebii.net/xy/pokemon/629.png
+dark
+flying
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 2 0.5 2 1 1 0 1 0 1 2 0.5 1 0.5 1 2 
+false
+false
+*****
+630
+Mandibuzz
+http://www.serebii.net/xy/pokemon/630.png
+dark
+flying
+X -- Evolve Vullaby
+Y -- Evolve Vullaby
+1 1 1 2 0.5 2 1 1 0 1 0 1 2 0.5 1 0.5 1 2 
+false
+false
+*****
+631
+Heatmor
+http://www.serebii.net/xy/pokemon/631.png
+fire
+
+X -- Route 18
+Y -- Route 18
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+632
+Durant
+http://www.serebii.net/xy/pokemon/632.png
+bug
+steel
+X -- Route 18, Terminus Cave
+Y -- Route 18, Terminus Cave
+0.5 4 1 1 0.25 0.5 1 0 1 1 0.5 0.5 1 1 0.5 1 0.5 0.5 
+false
+false
+*****
+633
+Deino
+http://www.serebii.net/xy/pokemon/633.png
+dark
+dragon
+X -- Breed Zweilous/Hydreigon
+Y -- Breed Zweilous/Hydreigon
+1 0.5 0.5 0.5 0.5 2 2 1 1 1 0 2 1 0.5 2 0.5 1 4 
+false
+false
+*****
+634
+Zweilous
+http://www.serebii.net/xy/pokemon/634.png
+dark
+dragon
+X -- Victory Road
+Y -- Victory Road
+1 0.5 0.5 0.5 0.5 2 2 1 1 1 0 2 1 0.5 2 0.5 1 4 
+false
+false
+*****
+635
+Hydreigon
+http://www.serebii.net/xy/pokemon/635.png
+dark
+dragon
+X -- Victory Road
+Y -- Victory Road
+1 0.5 0.5 0.5 0.5 2 2 1 1 1 0 2 1 0.5 2 0.5 1 4 
+false
+false
+*****
+636
+Larvesta
+http://www.serebii.net/xy/pokemon/636.png
+bug
+fire
+X -- Friend Safari
+Y -- Friend Safari
+1 1 2 1 0.25 0.5 0.5 1 1 2 1 0.5 4 1 1 1 0.5 0.5 
+false
+false
+*****
+637
+Volcarona
+http://www.serebii.net/xy/pokemon/637.png
+bug
+fire
+X -- Evolve Larvesta
+Y -- Evolve Larvesta
+1 1 2 1 0.25 0.5 0.5 1 1 2 1 0.5 4 1 1 1 0.5 0.5 
+false
+false
+*****
+638
+Cobalion
+http://www.serebii.net/xy/pokemon/638.png
+steel
+fighting
+X -- 
+Y -- 
+0.5 2 1 1 0.5 0.5 2 0 2 1 1 0.25 0.25 1 0.5 0.5 0.5 1 
+false
+false
+*****
+639
+Terrakion
+http://www.serebii.net/xy/pokemon/639.png
+rock
+fighting
+X -- 
+Y -- 
+0.5 0.5 2 1 2 1 2 0.5 2 1 2 0.5 0.5 1 1 0.5 2 2 
+false
+false
+*****
+640
+Virizion
+http://www.serebii.net/xy/pokemon/640.png
+grass
+fighting
+X -- 
+Y -- 
+1 2 0.5 0.5 0.5 2 1 2 0.5 4 2 1 0.5 1 1 0.5 1 2 
+false
+false
+*****
+641
+Tornadus
+http://www.serebii.net/xy/pokemon/641.png
+flying
+
+X -- 
+Y -- 
+1 1 1 2 0.5 2 0.5 1 0 1 1 0.5 2 1 1 1 1 1 
+false
+false
+*****
+642
+Thundurus
+http://www.serebii.net/xy/pokemon/642.png
+electric
+flying
+X -- 
+Y -- 
+1 1 1 1 0.5 2 0.5 1 0 0.5 1 0.5 2 1 1 1 0.5 1 
+false
+false
+*****
+643
+Reshiram
+http://www.serebii.net/xy/pokemon/643.png
+dragon
+fire
+X -- 
+Y -- 
+1 0.25 1 0.5 0.25 1 1 1 2 1 1 0.5 2 1 2 1 0.5 1 
+false
+false
+*****
+644
+Zekrom
+http://www.serebii.net/xy/pokemon/644.png
+dragon
+electric
+X -- 
+Y -- 
+1 0.5 0.5 0.25 0.5 2 1 1 2 0.5 1 1 1 1 2 1 0.5 2 
+false
+false
+*****
+645
+Landorus
+http://www.serebii.net/xy/pokemon/645.png
+ground
+flying
+X -- 
+Y -- 
+1 1 2 0 1 4 0.5 0.5 0 1 1 0.5 1 1 1 1 1 1 
+false
+false
+*****
+646
+Kyurem
+http://www.serebii.net/xy/pokemon/646.png
+dragon
+ice
+X -- 
+Y -- 
+1 1 0.5 0.5 0.5 1 2 1 1 1 1 1 2 1 2 1 2 2 
+false
+false
+*****
+647
+Keldeo
+http://www.serebii.net/xy/pokemon/647.png
+water
+fighting
+X -- 
+Y -- 
+1 0.5 0.5 2 2 0.5 1 1 1 2 2 0.5 0.5 1 1 0.5 0.5 2 
+false
+false
+*****
+648
+Meloetta
+http://www.serebii.net/xy/pokemon/648.png
+normal
+psychic
+X -- 
+Y -- 
+1 1 1 1 1 1 1 1 1 1 0.5 2 1 0 1 2 1 1 
+false
+false
+*****
+649
+Genesect
+http://www.serebii.net/xy/pokemon/649.png
+bug
+steel
+X -- 
+Y -- 
+0.5 4 1 1 0.25 0.5 1 0 1 1 0.5 0.5 1 1 0.5 1 0.5 0.5 
+false
+false
+*****
+650
+Chespin
+http://www.serebii.net/xy/pokemon/650.png
+grass
+
+X -- Starter Pokémon
+Y -- Starter Pokémon
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+651
+Quilladin
+http://www.serebii.net/xy/pokemon/651.png
+grass
+
+X -- Friend Safari
+Y -- Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+652
+Chesnaught
+http://www.serebii.net/xy/pokemon/652.png
+grass
+fighting
+X -- Evolve Quilladin
+Y -- Evolve Quilladin
+1 2 0.5 0.5 0.5 2 1 2 0.5 4 2 1 0.5 1 1 0.5 1 2 
+false
+false
+*****
+653
+Fennekin
+http://www.serebii.net/xy/pokemon/653.png
+fire
+
+X -- Starter Pokémon
+Y -- Starter Pokémon
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+654
+Braixen
+http://www.serebii.net/xy/pokemon/654.png
+fire
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 1 1 2 1 1 0.5 2 1 1 1 0.5 0.5 
+false
+false
+*****
+655
+Delphox
+http://www.serebii.net/xy/pokemon/655.png
+fire
+psychic
+X -- Evolve Braixen
+Y -- Evolve Braixen
+1 0.5 2 1 0.5 0.5 0.5 1 2 1 0.5 1 2 2 1 2 0.5 0.5 
+false
+false
+*****
+656
+Froakie
+http://www.serebii.net/xy/pokemon/656.png
+water
+
+X -- Starter Pokémon
+Y -- Starter Pokémon
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+657
+Frogadier
+http://www.serebii.net/xy/pokemon/657.png
+water
+
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+658
+Greninja
+http://www.serebii.net/xy/pokemon/658.png
+water
+dark
+X -- Evolve Frogadier
+Y -- Evolve Frogadier
+1 0.5 0.5 2 2 0.5 2 1 1 1 0 2 1 0.5 1 0.5 0.5 2 
+false
+false
+*****
+659
+Bunnelby
+http://www.serebii.net/xy/pokemon/659.png
+normal
+
+X -- Route 2, Route 3, Route 22
+Y -- Route 2, Route 3, Route 22
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+660
+Diggersby
+http://www.serebii.net/xy/pokemon/660.png
+normal
+ground
+X -- Route 22, Friend Safari
+Y -- Route 22, Friend Safari
+1 1 2 0 2 2 2 0.5 1 1 1 1 0.5 0 1 1 1 1 
+false
+false
+*****
+661
+Fletchling
+http://www.serebii.net/xy/pokemon/661.png
+normal
+flying
+X -- Route 2, Route 3
+Y -- Route 2, Route 3
+1 1 1 2 0.5 2 1 1 0 1 1 0.5 2 0 1 1 1 1 
+false
+false
+*****
+662
+Fletchinder
+http://www.serebii.net/xy/pokemon/662.png
+fire
+flying
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 2 0.25 1 0.5 1 0 1 1 0.25 4 1 1 1 0.5 0.5 
+false
+false
+*****
+663
+Talonflame
+http://www.serebii.net/xy/pokemon/663.png
+fire
+flying
+X -- Evolve Fletchinder
+Y -- Evolve Fletchinder
+1 0.5 2 2 0.25 1 0.5 1 0 1 1 0.25 4 1 1 1 0.5 0.5 
+false
+false
+*****
+664
+Scatterbug
+http://www.serebii.net/xy/pokemon/664.png
+bug
+
+X -- Route 2, Santalune Forest
+Y -- Route 2, Santalune Forest
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+665
+Spewpa
+http://www.serebii.net/xy/pokemon/665.png
+bug
+
+X -- Evolve Scatterbug
+Y -- Evolve Scatterbug
+1 2 1 1 0.5 1 0.5 1 0.5 2 1 1 2 1 1 1 1 1 
+false
+false
+*****
+666
+Vivillon
+http://www.serebii.net/xy/pokemon/666.png
+bug
+flying
+X -- Evolve Spewpa, Friend Safari
+Y -- Evolve Spewpa, Friend Safari
+1 2 1 2 0.25 2 0.25 1 0 2 1 0.5 4 1 1 1 1 1 
+false
+false
+*****
+667
+Litleo
+http://www.serebii.net/xy/pokemon/667.png
+fire
+normal
+X -- Route 22
+Y -- Route 22
+1 0.5 2 1 0.5 0.5 2 1 2 1 1 0.5 2 0 1 1 0.5 0.5 
+false
+false
+*****
+668
+Pyroar
+http://www.serebii.net/xy/pokemon/668.png
+fire
+normal
+X -- Friend Safari
+Y -- Friend Safari
+1 0.5 2 1 0.5 0.5 2 1 2 1 1 0.5 2 0 1 1 0.5 0.5 
+false
+false
+*****
+669
+Flabébé
+http://www.serebii.net/xy/pokemon/669.png
+fairy
+
+X -- Route 4, Route 7
+Y -- Route 4, Route 7
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+670
+Floette
+http://www.serebii.net/xy/pokemon/670.png
+fairy
+
+X -- Friend Safari
+Y -- Friend Safari
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+671
+Florges
+http://www.serebii.net/xy/pokemon/671.png
+fairy
+
+X -- Evolve Floette
+Y -- Evolve Floette
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+672
+Skiddo
+http://www.serebii.net/xy/pokemon/672.png
+grass
+
+X -- Route 5
+Y -- Route 5
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+673
+Gogoat
+http://www.serebii.net/xy/pokemon/673.png
+grass
+
+X -- Evolve Skiddo, Friend Safari
+Y -- Evolve Skiddo, Friend Safari
+1 2 0.5 0.5 0.5 2 1 2 0.5 2 1 2 1 1 1 1 1 1 
+false
+false
+*****
+674
+Pancham
+http://www.serebii.net/xy/pokemon/674.png
+fighting
+
+X -- Route 5, Friend Safari
+Y -- Route 5, Friend Safari
+1 1 1 1 1 1 1 1 1 2 2 0.5 0.5 1 1 0.5 1 2 
+false
+false
+*****
+675
+Pangoro
+http://www.serebii.net/xy/pokemon/675.png
+fighting
+dark
+X -- Evolve Pancham
+Y -- Evolve Pancham
+1 1 1 1 1 1 2 1 1 2 0 1 0.5 0.5 1 0.25 1 4 
+false
+false
+*****
+676
+Furfrou
+http://www.serebii.net/xy/pokemon/676.png
+normal
+
+X -- Route 5
+Y -- Route 5
+1 1 1 1 1 1 2 1 1 1 1 1 1 0 1 1 1 1 
+false
+false
+*****
+677
+Espurr
+http://www.serebii.net/xy/pokemon/677.png
+psychic
+
+X -- Route 6, Friend Safari
+Y -- Route 6, Friend Safari
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+678
+Meowstic
+http://www.serebii.net/xy/pokemon/678.png
+psychic
+
+X -- Evolve Espurr
+Y -- Evolve Espurr
+1 1 1 1 1 1 0.5 1 1 1 0.5 2 1 2 1 2 1 1 
+false
+false
+*****
+679
+Honedge
+http://www.serebii.net/xy/pokemon/679.png
+steel
+ghost
+X -- Route 6
+Y -- Route 6
+0 2 1 1 0.5 0.5 0 0 2 0.5 0.5 0.25 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+680
+Doublade
+http://www.serebii.net/xy/pokemon/680.png
+steel
+ghost
+X -- Evolve Honedge
+Y -- Evolve Honedge
+0 2 1 1 0.5 0.5 0 0 2 0.5 0.5 0.25 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+681
+Aegislash
+http://www.serebii.net/xy/pokemon/681.png
+steel
+ghost
+X -- Evolve Doublade
+Y -- Evolve Doublade
+0 2 1 1 0.5 0.5 0 0 2 0.5 0.5 0.25 0.5 2 0.5 2 0.5 0.5 
+false
+false
+*****
+682
+Spritzee
+http://www.serebii.net/xy/pokemon/682.png
+fairy
+
+X -- Trade from Y, Friend Safari
+Y -- Route 7, Friend Safari
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+683
+Aromatisse
+http://www.serebii.net/xy/pokemon/683.png
+fairy
+
+X -- Trade from Y
+Y -- Evolve Spritzee
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+684
+Swirlix
+http://www.serebii.net/xy/pokemon/684.png
+fairy
+
+X -- Route 7, Friend Safari
+Y -- Trade from X, Friend Safari
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+685
+Slurpuff
+http://www.serebii.net/xy/pokemon/685.png
+fairy
+
+X -- Evolve Swirlix
+Y -- Trade from X
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+686
+Inkay
+http://www.serebii.net/xy/pokemon/686.png
+dark
+psychic
+X -- Route 8, Azure Bay, Friend Safari
+Y -- Route 8, Azure Bay, Friend Safari
+1 1 1 1 1 1 1 1 1 1 0 4 1 1 1 1 1 2 
+false
+false
+*****
+687
+Malamar
+http://www.serebii.net/xy/pokemon/687.png
+dark
+psychic
+X -- Evolve Inkay
+Y -- Evolve Inkay
+1 1 1 1 1 1 1 1 1 1 0 4 1 1 1 1 1 2 
+false
+false
+*****
+688
+Binacle
+http://www.serebii.net/xy/pokemon/688.png
+rock
+water
+X -- Route 8, Route 12, Ambrette Town, Cyllage City - Rock Smash
+Y -- Route 8, Route 12, Ambrette Town, Cyllage City - Rock Smash
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+689
+Barbaracle
+http://www.serebii.net/xy/pokemon/689.png
+rock
+water
+X -- Friend Safari
+Y -- Friend Safari
+0.5 0.25 1 2 4 0.5 2 0.5 2 0.5 1 1 1 1 1 1 1 1 
+false
+false
+*****
+690
+Skrelp
+http://www.serebii.net/xy/pokemon/690.png
+poison
+water
+X -- Trade from Y
+Y -- Route 8, Ambrette Town, Cyllage City - Fish
+1 0.5 0.5 2 1 0.5 0.5 0.5 2 1 2 0.5 1 1 1 1 0.5 0.5 
+false
+false
+*****
+691
+Dragalge
+http://www.serebii.net/xy/pokemon/691.png
+poison
+dragon
+X -- Trade from Y
+Y -- Route 8, Ambrette Town, Cyllage City - Fish
+1 0.5 0.5 0.5 0.25 2 0.5 0.5 2 1 2 0.5 1 1 2 1 1 1 
+false
+false
+*****
+692
+Clauncher
+http://www.serebii.net/xy/pokemon/692.png
+water
+
+X -- Route 8, Ambrette Town, Cyllage City - Fish
+Y -- Trade from X
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+693
+Clawitzer
+http://www.serebii.net/xy/pokemon/693.png
+water
+
+X -- Route 8, Ambrette Town, Cyllage City - Fish
+Y -- Trade from X
+1 0.5 0.5 2 2 0.5 1 1 1 1 1 1 1 1 1 1 0.5 1 
+false
+false
+*****
+694
+Helioptile
+http://www.serebii.net/xy/pokemon/694.png
+electric
+normal
+X -- Route 9, Friend Safari
+Y -- Route 9, Friend Safari
+1 1 1 0.5 1 1 2 1 2 0.5 1 1 1 0 1 1 0.5 1 
+false
+false
+*****
+695
+Heliolisk
+http://www.serebii.net/xy/pokemon/695.png
+electric
+normal
+X -- Evolve Helioptile
+Y -- Evolve Helioptile
+1 1 1 0.5 1 1 2 1 2 0.5 1 1 1 0 1 1 0.5 1 
+false
+false
+*****
+696
+Tyrunt
+http://www.serebii.net/xy/pokemon/696.png
+rock
+dragon
+X -- Revive Jaw Fossil
+Y -- Revive Jaw Fossil
+0.5 0.25 1 0.5 1 2 2 0.5 2 0.5 1 1 1 1 2 1 2 2 
+false
+false
+*****
+697
+Tyrantrum
+http://www.serebii.net/xy/pokemon/697.png
+rock
+dragon
+X -- Evolve Tyrunt
+Y -- Evolve Tyrunt
+0.5 0.25 1 0.5 1 2 2 0.5 2 0.5 1 1 1 1 2 1 2 2 
+false
+false
+*****
+698
+Amaura
+http://www.serebii.net/xy/pokemon/698.png
+rock
+ice
+X -- Revive Sail Fossil
+Y -- Revive Sail Fossil
+0.5 1 2 1 2 0.5 4 0.5 2 0.5 1 1 2 1 1 1 4 1 
+false
+false
+*****
+699
+Aurorus
+http://www.serebii.net/xy/pokemon/699.png
+rock
+ice
+X -- Evolve Amaura
+Y -- Evolve Amaura
+0.5 1 2 1 2 0.5 4 0.5 2 0.5 1 1 2 1 1 1 4 1 
+false
+false
+*****
+700
+Sylveon
+http://www.serebii.net/xy/pokemon/700.png
+fairy
+
+X -- Evolve Eevee
+Y -- Evolve Eevee
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+701
+Hawlucha
+http://www.serebii.net/xy/pokemon/701.png
+fighting
+flying
+X -- Route 10, Friend Safari
+Y -- Route 10, Friend Safari
+1 1 1 2 0.5 2 0.5 1 0 2 2 0.25 1 1 1 0.5 1 2 
+false
+false
+*****
+702
+Dedenne
+http://www.serebii.net/xy/pokemon/702.png
+electric
+fairy
+X -- Route 11, Friend Safari
+Y -- Route 11, Friend Safari
+1 1 1 0.5 1 1 0.5 2 2 0.5 1 0.5 1 1 0 0.5 1 1 
+false
+false
+*****
+703
+Carbink
+http://www.serebii.net/xy/pokemon/703.png
+rock
+fairy
+X -- Reflection Cave
+Y -- Reflection Cave
+0.5 0.5 2 1 2 1 1 1 2 0.5 1 0.5 1 1 0 0.5 4 1 
+false
+false
+*****
+704
+Goomy
+http://www.serebii.net/xy/pokemon/704.png
+dragon
+
+X -- Route 14
+Y -- Route 14
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+705
+Sliggoo
+http://www.serebii.net/xy/pokemon/705.png
+dragon
+
+X -- Route 19, Friend Safari
+Y -- Route 19, Friend Safari
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+706
+Goodra
+http://www.serebii.net/xy/pokemon/706.png
+dragon
+
+X -- Evolve Sliggoo
+Y -- Evolve Sliggoo
+1 0.5 0.5 0.5 0.5 2 1 1 1 1 1 1 1 1 2 1 1 2 
+false
+false
+*****
+707
+Klefki
+http://www.serebii.net/xy/pokemon/707.png
+steel
+fairy
+X -- Route 15, 16, Lost Hotel, Friend Safari
+Y -- Route 15, 16, Lost Hotel, Friend Safari
+0.5 2 1 1 0.5 0.5 1 0 2 0.5 0.5 0.25 0.5 1 0 0.5 1 0.5 
+false
+false
+*****
+708
+Phantump
+http://www.serebii.net/xy/pokemon/708.png
+ghost
+grass
+X -- Route 16, Friend Safari
+Y -- Route 16, Friend Safari
+0 2 0.5 0.5 0.5 2 0 1 0.5 2 1 1 1 2 1 2 1 1 
+false
+false
+*****
+709
+Trevenant
+http://www.serebii.net/xy/pokemon/709.png
+ghost
+grass
+X -- Route 20
+Y -- Route 20
+0 2 0.5 0.5 0.5 2 0 1 0.5 2 1 1 1 2 1 2 1 1 
+false
+false
+*****
+710
+Pumpkaboo
+http://www.serebii.net/xy/pokemon/710.png
+ghost
+grass
+X -- Route 16, Friend Safari
+Y -- Route 16, Friend Safari
+0 2 0.5 0.5 0.5 2 0 1 0.5 2 1 1 1 2 1 2 1 1 
+false
+false
+*****
+711
+Gourgeist
+http://www.serebii.net/xy/pokemon/711.png
+ghost
+grass
+X -- Evolve Pumpkaboo
+Y -- Evolve Pumpkaboo
+0 2 0.5 0.5 0.5 2 0 1 0.5 2 1 1 1 2 1 2 1 1 
+false
+false
+*****
+712
+Bergmite
+http://www.serebii.net/xy/pokemon/712.png
+ice
+
+X -- Frost Cavern, Friend Safari
+Y -- Frost Cavern, Friend Safari
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+713
+Avalugg
+http://www.serebii.net/xy/pokemon/713.png
+ice
+
+X -- Evolve Bergmite
+Y -- Evolve Bergmite
+1 2 1 1 1 0.5 2 1 1 1 1 1 2 1 1 1 2 1 
+false
+false
+*****
+714
+Noibat
+http://www.serebii.net/xy/pokemon/714.png
+flying
+dragon
+X -- Terminus Cave, Victory Road, Friend Safari
+Y -- Terminus Cave, Victory Road, Friend Safari
+1 0.5 0.5 1 0.25 4 0.5 1 0 1 1 0.5 2 1 2 1 1 2 
+false
+false
+*****
+715
+Noivern
+http://www.serebii.net/xy/pokemon/715.png
+flying
+dragon
+X -- Evolve Noibat
+Y -- Evolve Noibat
+1 0.5 0.5 1 0.25 4 0.5 1 0 1 1 0.5 2 1 2 1 1 2 
+false
+false
+*****
+716
+Xerneas
+http://www.serebii.net/xy/pokemon/716.png
+fairy
+
+X -- Team Flare's Lab
+Y -- Trade from X
+1 1 1 1 1 1 0.5 2 1 1 1 0.5 1 1 0 0.5 2 1 
+false
+false
+*****
+717
+Yveltal
+http://www.serebii.net/xy/pokemon/717.png
+dark
+flying
+X -- Trade from Y
+Y -- Team Flare's Lab
+1 1 1 2 0.5 2 1 1 0 1 0 1 2 0.5 1 0.5 1 2 
+false
+false
+*****
+718
+Zygarde
+http://www.serebii.net/xy/pokemon/718.png
+dragon
+ground
+X -- Terminus Cave
+Y -- Terminus Cave
+1 0.5 1 0 1 4 1 0.5 1 1 1 1 0.5 1 2 1 1 2 
+false
+false
+*****
