@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.database.sqlite.SQLiteDatabase;
 import android.view.Menu;
 
+import android.widget.TextView;
 import android.widget.Toast;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -18,15 +19,15 @@ public class MainActivity extends Activity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		ImageButton imgButton = (ImageButton) findViewById(R.id.imageButton);
-		imgButton.setOnClickListener(new View.OnClickListener() 
+		ImageButton searchButton = (ImageButton) findViewById(R.id.imageButton);
+		searchButton.setOnClickListener(new View.OnClickListener() 
 		{
 			@Override
 			public void onClick(View view) {				
 				onSearchRequested();
 			}
 		});
-		
+				
 //		addButtonListener();
 	}
 	

@@ -15,11 +15,15 @@ public final class R {
         public static final int black=0x7f050009;
         public static final int bluedark=0x7f050004;
         public static final int bluelight=0x7f050003;
+        public static final int fairypink=0x7f05000b;
+        public static final int ghost=0x7f05000d;
         public static final int greendark=0x7f050006;
         public static final int greenlight=0x7f050005;
         public static final int grey=0x7f050001;
         public static final int orangedark=0x7f050008;
         public static final int orangelight=0x7f050007;
+        public static final int psychic=0x7f05000e;
+        public static final int steel=0x7f05000c;
         public static final int white=0x7f050000;
         public static final int yellow=0x7f05000a;
     }
@@ -50,20 +54,22 @@ public final class R {
         public static final int ic_launcher=0x7f02000d;
         public static final int ice=0x7f02000e;
         public static final int normal=0x7f02000f;
-        public static final int poison=0x7f020010;
-        public static final int psychic=0x7f020011;
-        public static final int rock=0x7f020012;
-        public static final int search_button=0x7f020013;
-        public static final int selected_image=0x7f020014;
-        public static final int steel=0x7f020015;
-        public static final int unselected_image=0x7f020016;
-        public static final int water=0x7f020017;
+        public static final int pikaload=0x7f020010;
+        public static final int poison=0x7f020011;
+        public static final int psychic=0x7f020012;
+        public static final int rock=0x7f020013;
+        public static final int search_button=0x7f020014;
+        public static final int selected_image=0x7f020015;
+        public static final int steel=0x7f020016;
+        public static final int unselected_image=0x7f020017;
+        public static final int water=0x7f020018;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a0017;
+        public static final int action_settings=0x7f0a0018;
         public static final int imageButton=0x7f0a0000;
         public static final int imageView1=0x7f0a0001;
         public static final int imageView2=0x7f0a0003;
+        public static final int imgLogo=0x7f0a0017;
         public static final int textView1=0x7f0a0002;
         public static final int textView10=0x7f0a000b;
         public static final int textView11=0x7f0a000d;
@@ -88,6 +94,7 @@ public final class R {
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int activity_profile=0x7f030001;
+        public static final int activity_splash=0x7f030002;
     }
     public static final class menu {
         public static final int main=0x7f090000;
@@ -98,6 +105,7 @@ public final class R {
         public static final int app_name=0x7f070000;
         public static final int content=0x7f070002;
         public static final int damage=0x7f070007;
+        public static final int load=0x7f070008;
         public static final int poke=0x7f070005;
         public static final int sample=0x7f070006;
         public static final int search_hint=0x7f070003;

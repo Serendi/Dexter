@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="white">#FFFFFF</color>
-    <color name="grey">#7A7A7A</color>
+    <color name="grey">#C0C0C0</color>
     <color name="background">#0044AA</color>
     <color name="bluelight">#449DEF</color>
     <color name="bluedark">#2F6699</color>
@@ -11,4 +11,8 @@
     <color name="orangedark">#BB6008</color>
     <color name="black">#000000</color>
     <color name="yellow">#FFFF00</color>
+    <color name="fairypink">#FF00FF</color>
+    <color name="steel">#707070</color>
+    <color name="ghost">#990099</color>
+    <color name="psychic">#FF0033</color>
 </resources>

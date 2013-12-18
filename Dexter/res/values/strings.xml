@@ -9,5 +9,6 @@
     <string name="poke">Pokemon</string>
     <string name="sample">Pikachu - 025</string>
     <string name="damage">Damage taken</string>
+    <string name="load">Loading</string>
 
 </resources>

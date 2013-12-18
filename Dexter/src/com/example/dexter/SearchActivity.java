@@ -9,6 +9,7 @@ import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Intent;
 import android.os.Bundle;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class SearchActivity extends Activity
@@ -23,6 +24,8 @@ public class SearchActivity extends Activity
 		//build file/database here if not done already
 		
 		super.onCreate(savedInstanceState);
+		
+		setContentView(R.layout.activity_main);
 		
 		/* create database */
 		try {
@@ -80,6 +83,11 @@ public class SearchActivity extends Activity
 	        if (pokemonFromBDD != null) {
 	            // Update the main activity so that it has the data of the new pokemon searched by
 	        	// the user.
+	        	TextView index = (TextView) findViewById(R.id.textView9);
+	        	index.setText("OSTI");
+	        	
+	        	setContentView(R.layout.activity_main);
+	        	
 	        	Toast.makeText(SearchActivity.this,pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
 	        }
 	      //else say it does not exist

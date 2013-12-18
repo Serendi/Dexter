@@ -252,7 +252,7 @@
         android:layout_marginTop="14dp"
         android:background="@color/yellow"
         android:gravity="center"
-        android:text="TextView" />
+        android:text="Steel" />
 
     <TextView
         android:id="@+id/textView20"
@@ -261,8 +261,8 @@
         android:layout_alignBaseline="@+id/textView19"
         android:layout_alignBottom="@+id/textView19"
         android:layout_alignLeft="@+id/textView16"
-        android:background="@color/yellow"
+        android:background="@color/fairypink"
         android:gravity="center"
-        android:text="TextView" />
+        android:text="Fairy" />
 
 </RelativeLayout>

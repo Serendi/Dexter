@@ -13,21 +13,30 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+        <!-- Splash screen (added from splash screen tutorial) -->
         <activity
-            android:name="com.example.dexter.MainActivity"
-            android:label="@string/app_name" >
+            android:name="com.example.dexter.SplashScreen"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
-            <meta-data
+        </activity> <!-- Main activity, nothing changed so far -->
+	
+		<!-- Main activity (from tutorial) -->
+		<activity
+            android:name="com.example.dexter.MainActivity"
+            android:label="@string/app_name" >
+            
+		    <meta-data
                 android:name="android.app.default_searchable"
                 android:value=".SearchActivity" /> <!-- Makes this applicable to whole application -->
-
-        </activity> <!-- Main activity, nothing changed so far -->
-
+        </activity>
+		
         <activity android:name="com.example.dexter.SearchActivity" >
 
             <intent-filter>
@@ -38,6 +47,7 @@
                 android:name="android.app.searchable"
                 android:resource="@xml/searchable" />
         </activity>
+        
         <activity
             android:name="com.example.dexter.ProfileActivity"
             android:label="@string/title_activity_profile" >
