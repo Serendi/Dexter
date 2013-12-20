@@ -83,7 +83,7 @@
         android:layout_below="@+id/imageView1"
         android:layout_marginLeft="15dp"
 		android:gravity="center"
-        android:background="@color/grey"
+        android:background="@color/normal"
         android:text="Normal: x4" />
 
     <TextView
@@ -94,7 +94,7 @@
         android:layout_alignBottom="@+id/textView4"
         android:layout_toRightOf="@+id/imageView2"
         android:gravity="center"
-        android:background="@color/bluelight"
+        android:background="@color/water"
         android:text="Water: x4" />
 
     <TextView
@@ -104,7 +104,7 @@
         android:layout_alignBottom="@+id/textView8"
         android:layout_alignLeft="@+id/textView5"
         android:gravity="center"
-        android:background="@color/bluelight"
+        android:background="@color/fight"
         android:text="Fight: x4" />
 
     <TextView
@@ -114,7 +114,7 @@
         android:layout_alignBaseline="@+id/textView8"
         android:layout_alignBottom="@+id/textView8"
         android:layout_alignRight="@+id/imageView1"
-        android:background="@color/bluelight"
+        android:background="@color/ice"
         android:gravity="center"
         android:text="Ice x4" />
 
@@ -124,7 +124,7 @@
         android:layout_height="wrap_content"
         android:layout_alignRight="@+id/imageView1"
         android:layout_below="@+id/imageView1"
-        android:background="@color/orangedark"
+        android:background="@color/fire"
         android:gravity="center"
         android:text="Fire: x4" />
     
@@ -136,7 +136,7 @@
         android:layout_alignBottom="@+id/textView9"
         android:layout_alignLeft="@+id/textView6"
         android:gravity="center"
-        android:background="@color/bluelight"
+        android:background="@color/poison"
         android:text="Poison: x4" />
 
     <TextView
@@ -146,7 +146,7 @@
         android:layout_alignLeft="@+id/textView3"
         android:layout_below="@+id/textView3"
         android:layout_marginTop="14dp"
-        android:background="@color/bluelight"
+        android:background="@color/grass"
         android:gravity="center"
         android:text="Grass: x4" />
 
@@ -156,7 +156,7 @@
         android:layout_height="wrap_content"
         android:layout_alignRight="@+id/imageButton"
         android:layout_below="@+id/textView2"
-        android:background="@color/yellow"
+        android:background="@color/electric"
         android:gravity="center"
         android:text="Electr: x4" />
 
@@ -166,7 +166,7 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/textView8"
         android:layout_centerVertical="true"
-        android:background="@color/yellow"
+        android:background="@color/ground"
         android:gravity="center"
         android:text="Ground: x4" />
 
@@ -177,7 +177,7 @@
         android:layout_alignBaseline="@+id/textView11"
         android:layout_alignBottom="@+id/textView11"
         android:layout_alignLeft="@+id/textView7"
-        android:background="@color/yellow"
+        android:background="@color/flying"
         android:gravity="center"
         android:text="Flying: x4" />
 
@@ -187,7 +187,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/textView12"
         android:layout_alignLeft="@+id/textView9"
-        android:background="@color/yellow"
+        android:background="@color/psychic"
         android:gravity="center"
         android:text="Psych: x4" />
 
@@ -197,7 +197,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/textView13"
         android:layout_alignLeft="@+id/textView10"
-        android:background="@color/yellow"
+        android:background="@color/bug"
         android:gravity="center"
         android:text="Bug: x4" />
 
@@ -208,7 +208,7 @@
         android:layout_alignLeft="@+id/textView11"
         android:layout_below="@+id/textView11"
         android:layout_marginTop="14dp"
-        android:background="@color/yellow"
+        android:background="@color/rock"
         android:gravity="center"
         android:text="Rock: x4" />
 
@@ -218,7 +218,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/textView15"
         android:layout_alignLeft="@+id/textView12"
-        android:background="@color/yellow"
+        android:background="@color/ghost"
         android:gravity="center"
         android:text="Ghost: x4" />
 
@@ -228,7 +228,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/textView16"
         android:layout_toRightOf="@+id/imageView2"
-        android:background="@color/yellow"
+        android:background="@color/dragon"
         android:gravity="center"
         android:text="Dragon: x4" />
 
@@ -239,7 +239,7 @@
         android:layout_alignBaseline="@+id/textView17"
         android:layout_alignBottom="@+id/textView17"
         android:layout_alignLeft="@+id/textView14"
-        android:background="@color/yellow"
+        android:background="@color/dark"
         android:gravity="center"
         android:text="Dark: x4" />
 
@@ -250,9 +250,9 @@
         android:layout_alignLeft="@+id/textView15"
         android:layout_below="@+id/textView15"
         android:layout_marginTop="14dp"
-        android:background="@color/yellow"
+        android:background="@color/steel"
         android:gravity="center"
-        android:text="Steel" />
+        android:text="Steel: x4" />
 
     <TextView
         android:id="@+id/textView20"
@@ -261,8 +261,8 @@
         android:layout_alignBaseline="@+id/textView19"
         android:layout_alignBottom="@+id/textView19"
         android:layout_alignLeft="@+id/textView16"
-        android:background="@color/fairypink"
+        android:background="@color/fairy"
         android:gravity="center"
-        android:text="Fairy" />
+        android:text="Fairy: x4" />
 
 </RelativeLayout>

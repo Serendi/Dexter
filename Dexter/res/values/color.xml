@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="white">#FFFFFF</color>
-    <color name="grey">#C0C0C0</color>
+
     <color name="background">#0044AA</color>
-    <color name="bluelight">#449DEF</color>
-    <color name="bluedark">#2F6699</color>
-    <color name="greenlight">#70C656</color>
-    <color name="greendark">#53933F</color>
-    <color name="orangelight">#F3AE1B</color>
-    <color name="orangedark">#BB6008</color>
-    <color name="black">#000000</color>
-    <color name="yellow">#FFFF00</color>
-    <color name="fairypink">#FF00FF</color>
-    <color name="steel">#707070</color>
-    <color name="ghost">#990099</color>
-    <color name="psychic">#FF0033</color>
+    
+    <color name="normal">#C0C0C0</color>
+    <color name="fire">#FF5A00</color>
+    <color name="water">#449DEF</color>
+    <color name="electric">#FFFF00</color>    
+    <color name="grass">#53933F</color>
+    <color name="ice">#AFF1F7</color>
+    <color name="fight">#FF0B0B</color>
+    <color name="poison">#C80BFF</color>    
+    <color name="ground">#8E6B23</color>
+    <color name="flying">#F5D1FF</color>
+    <color name="psychic">#FF6FAC</color>
+    <color name="bug">#A2FF00</color>
+    <color name="rock">#855E42</color>
+    <color name="ghost">#8400E1</color>
+    <color name="dragon">#7D1EFF</color>
+    <color name="dark">#7A7470</color>
+	<color name="steel">#BCC6CC</color>	
+    <color name="fairy">#FFADD9</color>
+    
+
+
+    
+    
+    
 </resources>

@@ -9,6 +9,8 @@ import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -27,6 +29,15 @@ public class SearchActivity extends Activity
 		super.onCreate(savedInstanceState);
 		
 		setContentView(R.layout.activity_main);
+		
+		ImageButton searchButton = (ImageButton) findViewById(R.id.imageButton);
+		searchButton.setOnClickListener(new View.OnClickListener() 
+		{
+			@Override
+			public void onClick(View view) {				
+				onSearchRequested();
+			}
+		});
 		
 		/* create database */
 		// This is the part we gotta move/remove
@@ -85,8 +96,259 @@ public class SearchActivity extends Activity
 	        if (pokemonFromBDD != null) {
 	            // Update the main activity so that it has the data of the new pokemon searched by
 	        	// the user.
-	        	TextView index = (TextView) findViewById(R.id.textView9);
-	        	index.setText("" + "OSTI"); //appears but gets overwritten by a new screen****************
+	        	TextView index = (TextView) findViewById(R.id.textView3);
+	        	
+	        	int i = 0;
+	        	String damage = "";
+	        	char currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Normal type.
+	        	 */
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Normal: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Fire type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView4);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Fire: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Water type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView5);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Water: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Electric type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView6);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Electric: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Grass type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView8);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Grass: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Ice type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView7);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Ice: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Fight type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView9);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Fight: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Poison type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView10);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Poison: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Ground type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView11);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Ground: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Flying type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView12);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Flying: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Psychic type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView13);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Psychic: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Bug type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView14);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Bug: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Rock type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView15);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Rock: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Ghost type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView16);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Ghost: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Dragon type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView17);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Dragon: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Dark type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView18);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Dark: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Steel type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView19);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Steel: x" + damage);
+	        	damage = "";
+	        	i++;
+	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	
+	        	/*
+	        	 * Setting text for Fairy type.
+	        	 */
+	        	index = (TextView) findViewById(R.id.textView20);
+	        	while (currentChar != ' ') {
+	        		damage += currentChar;
+	        		i++;
+	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
+	        	}	        	
+	        	index.setText("" + "Fairy: x" + damage);
 	        	
 	        	//setContentView(R.layout.activity_main);**************************************************unnecessary?
 	        	
@@ -122,8 +384,8 @@ public class SearchActivity extends Activity
 //	        pokemonBDD.close();
 //	        in.close();
 	        
-	        Intent toMain = new Intent(SearchActivity.this, MainActivity.class); 
-	        startActivity(toMain);
+//	        Intent toMain = new Intent(SearchActivity.this, SearchActivity.class); 
+//	        startActivity(toMain);
 		}
 //        } catch (IOException e) {
 			// TODO Auto-generated catch block

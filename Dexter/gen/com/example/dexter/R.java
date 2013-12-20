@@ -11,21 +11,25 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
-        public static final int background=0x7f050002;
-        public static final int black=0x7f050009;
-        public static final int bluedark=0x7f050004;
-        public static final int bluelight=0x7f050003;
-        public static final int fairypink=0x7f05000b;
-        public static final int ghost=0x7f05000d;
-        public static final int greendark=0x7f050006;
-        public static final int greenlight=0x7f050005;
-        public static final int grey=0x7f050001;
-        public static final int orangedark=0x7f050008;
-        public static final int orangelight=0x7f050007;
-        public static final int psychic=0x7f05000e;
-        public static final int steel=0x7f05000c;
-        public static final int white=0x7f050000;
-        public static final int yellow=0x7f05000a;
+        public static final int background=0x7f050000;
+        public static final int bug=0x7f05000c;
+        public static final int dark=0x7f050010;
+        public static final int dragon=0x7f05000f;
+        public static final int electric=0x7f050004;
+        public static final int fairy=0x7f050012;
+        public static final int fight=0x7f050007;
+        public static final int fire=0x7f050002;
+        public static final int flying=0x7f05000a;
+        public static final int ghost=0x7f05000e;
+        public static final int grass=0x7f050005;
+        public static final int ground=0x7f050009;
+        public static final int ice=0x7f050006;
+        public static final int normal=0x7f050001;
+        public static final int poison=0x7f050008;
+        public static final int psychic=0x7f05000b;
+        public static final int rock=0x7f05000d;
+        public static final int steel=0x7f050011;
+        public static final int water=0x7f050003;
     }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
