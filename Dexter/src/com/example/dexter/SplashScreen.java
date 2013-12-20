@@ -62,7 +62,7 @@ public class SplashScreen extends Activity {
         	//We'll eventually move this code to the DatabaseHelper class and simply create
         	//a helper.
         	
-        	DatabaseHelper dbHelper = DatabaseHelper.getHelper(getApplicationContext());
+        	//DatabaseHelper dbHelper = DatabaseHelper.getHelper(getApplicationContext());*******************
         	
         	try {
         	in = getApplicationContext().getAssets().open("pokemon_database.txt");
@@ -71,6 +71,10 @@ public class SplashScreen extends Activity {
 		
 	        //Create a Pokemon instance
 	        PokemonBDD pokemonBDD = new PokemonBDD(getApplicationContext());
+	        
+	        //open database to write
+	        pokemonBDD.open();
+	        
 	        int i=0;
 	        while ((line = reader.readLine()) != null) {
 		        //Create a pokemon
@@ -96,8 +100,7 @@ public class SplashScreen extends Activity {
 		        		//favorite
 		   				line = reader.readLine());
 		
-		        //open database to write
-		        pokemonBDD.open();
+
 		        //insert pokemon in
 		        pokemonBDD.insertPokemon(pokemon);
 //		        i++;

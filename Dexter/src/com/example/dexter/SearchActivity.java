@@ -21,6 +21,7 @@ public class SearchActivity extends Activity
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{
+		
 		//build file/database here if not done already
 		
 		super.onCreate(savedInstanceState);
@@ -29,46 +30,46 @@ public class SearchActivity extends Activity
 		
 		/* create database */
 		// This is the part we gotta move/remove
-		try {
-			in = this.getAssets().open("pokemon_database.txt");
-			reader = new BufferedReader(new InputStreamReader(in));
-			line = reader.readLine();
-		
-	        //Create a Pokemon instance
-	        PokemonBDD pokemonBDD = new PokemonBDD(this);
-	        int i=0;
-	        while ((line = reader.readLine()) != null) {
-		        //Create a pokemon
-		        Pokemon pokemon = new Pokemon(
-		        		//pID
-		        		line,
-		        		//name
-		        		line = reader.readLine(),
-		        		//imgSrc
-		        		line = reader.readLine(),
-		        		//type1
-		        		line = reader.readLine(),
-		        		//type2
-		        		line = reader.readLine(),
-		        		//locX
-		        		line = reader.readLine(),
-		        		//locY
-		   				line = reader.readLine(),
-		        		//dmg_taken
-		   				line = reader.readLine(),
-		        		//own
-		   				line = reader.readLine(),
-		        		//favorite
-		   				line = reader.readLine());
-		
-		        //open database to write
-		        pokemonBDD.open();
-		        //insert pokemon in
-		        pokemonBDD.insertPokemon(pokemon);
-//		        i++;
-		        line = reader.readLine();
-//		        Toast.makeText(this, i, Toast.LENGTH_SHORT).show();
-	        }
+//		try {
+//			in = this.getAssets().open("pokemon_database.txt");
+//			reader = new BufferedReader(new InputStreamReader(in));
+//			line = reader.readLine();
+//		
+//	        //Create a Pokemon instance
+//	        PokemonBDD pokemonBDD = new PokemonBDD(this);
+//	        int i=0;
+//	        while ((line = reader.readLine()) != null) {
+//		        //Create a pokemon
+//		        Pokemon pokemon = new Pokemon(
+//		        		//pID
+//		        		line,
+//		        		//name
+//		        		line = reader.readLine(),
+//		        		//imgSrc
+//		        		line = reader.readLine(),
+//		        		//type1
+//		        		line = reader.readLine(),
+//		        		//type2
+//		        		line = reader.readLine(),
+//		        		//locX
+//		        		line = reader.readLine(),
+//		        		//locY
+//		   				line = reader.readLine(),
+//		        		//dmg_taken
+//		   				line = reader.readLine(),
+//		        		//own
+//		   				line = reader.readLine(),
+//		        		//favorite
+//		   				line = reader.readLine());
+//		
+//		        //open database to write
+//		        pokemonBDD.open();
+//		        //insert pokemon in
+//		        pokemonBDD.insertPokemon(pokemon);
+////		        i++;
+//		        line = reader.readLine();
+////		        Toast.makeText(this, i, Toast.LENGTH_SHORT).show();
+//	        }
 		
 		
 		Intent intent = getIntent();
@@ -78,7 +79,7 @@ public class SearchActivity extends Activity
 			// Search DB for query here
 			/* to verify pokemon has been correctly created, extract the pokemon from BDD
 	        with the name of pokemon that we just created */
-	        Pokemon pokemonFromBDD = pokemonBDD.getPokemonByName(query);
+	        Pokemon pokemonFromBDD = PokemonBDD.getPokemonByName(query);
 			
 	      //if a pokemon is returned:
 	        if (pokemonFromBDD != null) {
@@ -117,16 +118,16 @@ public class SearchActivity extends Activity
 //	            //we display a message indicating the pokemon exists in BDD
 //	            Toast.makeText(this, "This pokemon exists inside the BDD", Toast.LENGTH_LONG).show();
 //	        }
-	
-	        pokemonBDD.close();
-	        in.close();
+//	
+//	        pokemonBDD.close();
+//	        in.close();
 	        
 	        Intent toMain = new Intent(SearchActivity.this, MainActivity.class); 
 	        startActivity(toMain);
 		}
-        } catch (IOException e) {
+//        } catch (IOException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//			e.printStackTrace();
+//		}
 	}
 }

@@ -33,7 +33,7 @@ public class PokemonBDD {
     private static final String COL_FAVORITE = "Favorite";
     private static final int NUM_COL_FAVORITE = 10;
 
-    private SQLiteDatabase bdd;
+    private static SQLiteDatabase bdd;
 
     private MyBaseSQLite myBaseSQLite;
 
@@ -97,7 +97,7 @@ public class PokemonBDD {
         return bdd.delete(TABLE_POKEMON, COL_ID + " = " + id, null);
     }
 
-    public Pokemon getPokemonByName(String name) {
+    public static Pokemon getPokemonByName(String name) {
         //get back in a Cursor the values corresponding to the pokemon contained in the BDD
         Cursor c =  bdd.query(TABLE_POKEMON,
                 new String[] {COL_ID, COL_PID, COL_NAME, COL_IMG_SRC, COL_TYPE1, COL_TYPE2, COL_LOCX, COL_LOCY, COL_DMG_TAKEN, COL_OWN, COL_FAVORITE},
@@ -106,7 +106,7 @@ public class PokemonBDD {
     }
 
     /* Convert a cursor in a pokemon */
-    private Pokemon cursorToPokemon(Cursor c) {
+    private static Pokemon cursorToPokemon(Cursor c) {
         //if no element has been returned in request, return null
         if (c.getCount() == 0) return null;
 
