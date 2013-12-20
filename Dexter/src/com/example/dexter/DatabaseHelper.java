@@ -17,7 +17,7 @@ public class DatabaseHelper extends SQLiteOpenHelper
 	// DB instance
 	private static DatabaseHelper instance;
 	
-    public DatabaseHelper(Context context)
+    private DatabaseHelper(Context context)
 	{
 		super(context, DATABASE_NAME, null, DATABASE_VERSION);
 		// TODO Auto-generated constructor stub
@@ -26,6 +26,7 @@ public class DatabaseHelper extends SQLiteOpenHelper
 //        for(int i =0; i < 100000; i++) {
 //        	System.out.println("a");
 //        }
+		System.out.println("In constructor");
 	}
 
     public static synchronized DatabaseHelper getHelper(Context context)
@@ -33,12 +34,14 @@ public class DatabaseHelper extends SQLiteOpenHelper
         if (instance == null)
             instance = new DatabaseHelper(context);
 
+        System.out.println("In getHelper");
         return instance;
     }
 
 	@Override
 	public void onCreate(SQLiteDatabase db)
 	{
+		System.out.println("In onCreate");
 		// TODO Auto-generated method stub
 		//we will actually create the db here
 		//not sure if we physically call this method or if it gets called automatically

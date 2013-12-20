@@ -62,7 +62,7 @@ public class SplashScreen extends Activity {
         	//We'll eventually move this code to the DatabaseHelper class and simply create
         	//a helper.
         	
-        	DatabaseHelper dbHelper = new DatabaseHelper(getApplicationContext());
+        	DatabaseHelper dbHelper = DatabaseHelper.getHelper(getApplicationContext());
         	
         	try {
         	in = getApplicationContext().getAssets().open("pokemon_database.txt");
@@ -103,13 +103,15 @@ public class SplashScreen extends Activity {
 //		        i++;
 		        line = reader.readLine();
 //		        Toast.makeText(this, i, Toast.LENGTH_SHORT).show();
+		        
+//	        	dbHelper.onCreate(pokemonBDD);
 	        }
         	}
         	catch(IOException e) {
         		
         	}
- 
-            return null;
+
+        	return null;
         }
  
         @Override

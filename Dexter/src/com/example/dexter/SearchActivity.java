@@ -28,6 +28,7 @@ public class SearchActivity extends Activity
 		setContentView(R.layout.activity_main);
 		
 		/* create database */
+		// This is the part we gotta move/remove
 		try {
 			in = this.getAssets().open("pokemon_database.txt");
 			reader = new BufferedReader(new InputStreamReader(in));
@@ -84,9 +85,9 @@ public class SearchActivity extends Activity
 	            // Update the main activity so that it has the data of the new pokemon searched by
 	        	// the user.
 	        	TextView index = (TextView) findViewById(R.id.textView9);
-	        	index.setText("OSTI");
+	        	index.setText("" + "OSTI"); //appears but gets overwritten by a new screen****************
 	        	
-	        	setContentView(R.layout.activity_main);
+	        	//setContentView(R.layout.activity_main);**************************************************unnecessary?
 	        	
 	        	Toast.makeText(SearchActivity.this,pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
 	        }
