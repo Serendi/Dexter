@@ -11,6 +11,16 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageButton;
 
+/**
+ * 
+ * @author Ivelin Bratanov
+ * 
+ * The Main Activity class which displays
+ * all the data related to the currently
+ * searched Pokemon.
+ *
+ */
+
 public class MainActivity extends Activity
 {
 	@Override

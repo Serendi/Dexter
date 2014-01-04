@@ -1,7 +1,8 @@
 package com.example.dexter;
 
 /**
- * Create Pokemon for SQLite for Android
+ * Pokemon object contains all the data
+ * related to a specific Pokemon.
  */
 
 public class Pokemon {
@@ -60,7 +61,7 @@ public class Pokemon {
     public String getFavorite() {return this.favorite; }
 
     /**
-     * returns a string of the whole Pokemon data
+     * Returns a string containing all of the Pokemon data.
      */
     public String toString() {
         return
