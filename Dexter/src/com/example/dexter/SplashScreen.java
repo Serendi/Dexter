@@ -10,6 +10,7 @@ import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
+import android.webkit.WebView;
 
 /**
  * PROVIDE LINK TO THE TUTORIAL WHICH WAS USED
@@ -44,6 +45,8 @@ public class SplashScreen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
+//        WebView view = (WebView) findViewById(R.id.webview);
+//        view.loadUrl("file:///android_asset/splash-screen/splash.html");
  
         /** 
          * Displays the splash screen while the data is loaded from
