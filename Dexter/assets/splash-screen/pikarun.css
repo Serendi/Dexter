@@ -1,0 +1,17 @@
+#pika{
+    height:85px;
+    width:120px;
+  
+    position:absolute;
+    top:200px;
+    left:100px;
+}
+#beach{
+    height:375px;
+    width:600px;
+    
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index:-1;
+}
