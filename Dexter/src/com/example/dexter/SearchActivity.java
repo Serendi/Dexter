@@ -8,8 +8,11 @@ import java.io.InputStreamReader;
 import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.view.View;
+import android.webkit.WebView;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -26,11 +29,11 @@ import android.widget.Toast;
  * the search button. 
  */
 
-public class SearchActivity extends Activity
+public class SearchActivity extends Activity //Fragment
 {
 	
 	@Override
-	protected void onCreate(Bundle savedInstanceState)
+	public void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
 		
@@ -58,6 +61,7 @@ public class SearchActivity extends Activity
 		if (Intent.ACTION_SEARCH.equals(intent.getAction()))
 		{
 			String query = intent.getStringExtra(SearchManager.QUERY);
+			query = query.toLowerCase();
 
 	        // Create and retrieve a Pokemon instance by querying the database.
 			Pokemon pokemonFromBDD = PokemonBDD.getPokemonByName(query);
@@ -90,7 +94,7 @@ public class SearchActivity extends Activity
 	        		i++; // Increment index and read the next character.
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}
-	        	index.setText("Normal: x" + damage); // Update the TextView, changing the contained text.
+	        	index.setText("Normal x" + damage); // Update the TextView, changing the contained text.
 	        	damage = ""; // Reset the damage String for the next type.
 	        	i++; // Skip the space character.
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i); // Reads the next character.
@@ -104,7 +108,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Fire: x" + damage);
+	        	index.setText("Fire x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -118,7 +122,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Water: x" + damage);
+	        	index.setText("Water x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -132,7 +136,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Electric: x" + damage);
+	        	index.setText("Electr x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -146,7 +150,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Grass: x" + damage);
+	        	index.setText("Grass x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -160,7 +164,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Ice: x" + damage);
+	        	index.setText("Ice x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -174,7 +178,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Fight: x" + damage);
+	        	index.setText("Fight x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -188,7 +192,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Poison: x" + damage);
+	        	index.setText("Poisn x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -202,7 +206,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Ground: x" + damage);
+	        	index.setText("Ground x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -216,7 +220,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Flying: x" + damage);
+	        	index.setText("Flying x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -230,7 +234,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Psychic: x" + damage);
+	        	index.setText("Psych x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -244,7 +248,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Bug: x" + damage);
+	        	index.setText("Bug x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -258,7 +262,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Rock: x" + damage);
+	        	index.setText("Rock x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -272,7 +276,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Ghost: x" + damage);
+	        	index.setText("Ghost x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -286,7 +290,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Dragon: x" + damage);
+	        	index.setText("Dragon x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -300,7 +304,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Dark: x" + damage);
+	        	index.setText("Dark x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -314,7 +318,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Steel: x" + damage);
+	        	index.setText("Steel x" + damage);
 	        	damage = "";
 	        	i++;
 	        	currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
@@ -328,7 +332,7 @@ public class SearchActivity extends Activity
 	        		i++;
 	        		currentChar = pokemonFromBDD.getDmgTaken().charAt(i);
 	        	}	        	
-	        	index.setText("Fairy: x" + damage);
+	        	index.setText("Fairy x" + damage);
 	        	
 	        	/*
 	        	 * BUG FIXED:
@@ -337,7 +341,24 @@ public class SearchActivity extends Activity
 	        	 * overwritten by the layout described in the activity_main XML file.
 	        	 */
 	        	
-	        	Toast.makeText(SearchActivity.this,pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
+	        	index = (TextView) findViewById(R.id.textView1);
+	        	String name = pokemonFromBDD.getName();
+	        	name = name.substring(0, 1).toUpperCase() + name.substring(1);
+	        	String number = pokemonFromBDD.getPID();
+	        	index.setText(name + " - " + number);
+	        	
+	        	index = (TextView) findViewById(R.id.type01);
+	        	String type = pokemonFromBDD.getType1();
+	        	index.setText(type);
+	        	index.setBackgroundColor(223);
+	        	//Resources.getIdentifier(type, null, null));//R.color.getField(type));
+	        	type = type.toLowerCase();
+	        	
+	            WebView view = (WebView) findViewById(R.id.webview);
+	            view.loadUrl("file:///android_asset/xy-gifs/" + query +".png"); //.gif?
+	            //view.setScrollY(20);
+	        	
+	        	Toast.makeText(SearchActivity.this, pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
 	        }
 	        // Else inform the user that the query does not correspond to a Pokemon in the Database, via a Toast.
 	        else {

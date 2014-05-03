@@ -10,8 +10,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:src="@drawable/a025"
+        android:src="@drawable/mew"
 		android:background="@android:color/transparent"
-		android:contentDescription="@string/poke" />
+		android:contentDescription="@string/poke" /> <!-- a025 -->
 
 </RelativeLayout>

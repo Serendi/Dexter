@@ -3,8 +3,10 @@ package com.example.dexter;
 import android.os.Bundle;
 import android.app.Activity;
 import android.database.sqlite.SQLiteDatabase;
+import android.support.v4.app.FragmentActivity;
 import android.view.Menu;
 
+import android.webkit.WebView;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.view.View;
@@ -21,13 +23,16 @@ import android.widget.ImageButton;
  *
  */
 
-public class MainActivity extends Activity
+public class MainActivity extends Activity //FragmentActivity
 {
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		
+        WebView view = (WebView) findViewById(R.id.webview);
+        view.loadUrl("file:///android_asset/xy-gifs/pikachu.png"); //.gif?
 		
 		ImageButton searchButton = (ImageButton) findViewById(R.id.imageButton);
 		searchButton.setOnClickListener(new View.OnClickListener() 
