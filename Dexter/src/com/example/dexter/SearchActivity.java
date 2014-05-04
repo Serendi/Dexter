@@ -355,7 +355,7 @@ public class SearchActivity extends Activity //Fragment
 	        	type = type.toLowerCase();
 	        	
 	            WebView view = (WebView) findViewById(R.id.webview);
-	            view.loadUrl("file:///android_asset/xy-gifs/" + query +".png"); //.gif?
+	            view.loadUrl("file:///android_asset/xy-gifs/" + "pokemon.html");//+ query +".png"); //.gif?
 	            //view.setScrollY(20);
 	        	
 	        	Toast.makeText(SearchActivity.this, pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
