@@ -93,17 +93,6 @@
             android:orientation="horizontal" >
 
             <TextView
-                android:id="@+id/type01"
-                android:layout_width="70dp"
-                android:layout_height="wrap_content"
-                android:layout_alignLeft="@+id/textView1"
-                android:layout_below="@+id/textView1"
-                android:background="@color/ice"
-                android:gravity="center"
-                android:text="Ice"
-                android:textSize="13sp" />
-
-            <TextView
                 android:id="@+id/type02"
                 android:layout_width="70dp"
                 android:layout_height="wrap_content"
@@ -114,6 +103,16 @@
                 android:gravity="center"
                 android:text="Ice"
                 android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/type01"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:background="@color/ice"
+                android:gravity="center"
+                android:text="Ice"
+                android:textSize="13sp" />
+
         </LinearLayout>
     </LinearLayout>
 

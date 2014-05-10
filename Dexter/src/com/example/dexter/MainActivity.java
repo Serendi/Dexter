@@ -33,7 +33,7 @@ public class MainActivity extends Activity //FragmentActivity
 		
         WebView view = (WebView) findViewById(R.id.webview);
         view.loadUrl("file:///android_asset/xy-gifs/pikachu.png"); //.gif?
-		
+        
 		ImageButton searchButton = (ImageButton) findViewById(R.id.imageButton);
 		searchButton.setOnClickListener(new View.OnClickListener() 
 		{

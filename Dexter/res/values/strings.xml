@@ -10,5 +10,7 @@
     <string name="sample">Pikachu - 025</string>
     <string name="damage">Damage taken</string>
     <string name="load">Loading</string>
+    
+    <string name="pokewebview_1">Abc</string>
 
 </resources>

@@ -354,10 +354,15 @@ public class SearchActivity extends Activity //Fragment
 	        	//Resources.getIdentifier(type, null, null));//R.color.getField(type));
 	        	type = type.toLowerCase();
 	        	
-	            WebView view = (WebView) findViewById(R.id.webview);
-	            view.loadUrl("file:///android_asset/xy-gifs/" + "pokemon.html");//+ query +".png"); //.gif?
-	            //view.setScrollY(20);
-	        	
+	            WebView webview = (WebView) findViewById(R.id.webview);
+	     	    webview.getSettings().setJavaScriptEnabled(true);
+	            //webview.loadUrl("file:///android_asset/xy-gifs/" + "pokemon.html");//+ query +".png"); //.gif?
+	     	    String customHtml = "<html><body><h1>Hello, WebView</h1></body></html>";
+	     	    webview.loadData(customHtml, "text/html", "UTF-8");
+	     	    
+	     	    //String htmlpage = "<html><body><img src='file:///android_asset/xy-gifs/machamp.png'/></body></html>";
+	        	//webview.loadData(htmlpage, "text/html", null);
+	            
 	        	Toast.makeText(SearchActivity.this, pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
 	        }
 	        // Else inform the user that the query does not correspond to a Pokemon in the Database, via a Toast.

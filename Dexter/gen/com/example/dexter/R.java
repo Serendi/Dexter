@@ -69,7 +69,7 @@ public final class R {
         public static final int water=0x7f020018;
     }
     public static final class id {
-        public static final int TextView01=0x7f0a0007;
+        public static final int TextView01=0x7f0a0006;
         public static final int action_settings=0x7f0a0022;
         public static final int damage1=0x7f0a0008;
         public static final int damage2=0x7f0a000e;
@@ -101,8 +101,8 @@ public final class R {
         public static final int textView7=0x7f0a000c;
         public static final int textView8=0x7f0a0010;
         public static final int textView9=0x7f0a000b;
-        public static final int type01=0x7f0a0005;
-        public static final int type02=0x7f0a0006;
+        public static final int type01=0x7f0a0007;
+        public static final int type02=0x7f0a0005;
         public static final int webview=0x7f0a0001;
     }
     public static final class layout {
@@ -121,6 +121,7 @@ public final class R {
         public static final int damage=0x7f070007;
         public static final int load=0x7f070008;
         public static final int poke=0x7f070005;
+        public static final int pokewebview_1=0x7f070009;
         public static final int sample=0x7f070006;
         public static final int search_hint=0x7f070003;
         public static final int title_activity_profile=0x7f070004;
