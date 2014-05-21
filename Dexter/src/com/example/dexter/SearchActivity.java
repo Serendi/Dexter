@@ -11,6 +11,7 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.view.MotionEvent;
 import android.view.View;
 import android.webkit.WebView;
 import android.widget.ImageButton;
@@ -355,15 +356,28 @@ public class SearchActivity extends Activity //Fragment
 	        	type = type.toLowerCase();
 	        	
 	            WebView webview = (WebView) findViewById(R.id.webview);
-	     	    webview.getSettings().setJavaScriptEnabled(true);
 	            //webview.loadUrl("file:///android_asset/xy-gifs/" + "pokemon.html");//+ query +".png"); //.gif?
-	     	    String customHtml = "<html><body><h1>Hello, WebView</h1></body></html>";
-	     	    webview.loadData(customHtml, "text/html", "UTF-8");
+	     	    	     	    
+	     	    String htmlpage = "<html><body style=\"background:#000000\"><div style=\"height:150px; width:150px; background:#000000 url(\'file:///android_asset/xy-gifs/" + query + ".png" + "\') no-repeat center center;\"></div></body></html>";
+
+	     	    // Below doesn't work.
+	     	    // webview.loadData(htmlpage, "text/html", "UTF-8");
+	     	    webview.loadDataWithBaseURL("", htmlpage, "text/html","utf-8", "");  	     	    
 	     	    
-	     	    //String htmlpage = "<html><body><img src='file:///android_asset/xy-gifs/machamp.png'/></body></html>";
-	        	//webview.loadData(htmlpage, "text/html", null);
-	            
-	        	Toast.makeText(SearchActivity.this, pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
+	     	    // Only hides the scrollbar, doesn't disable the scrolling:
+	     	    webview.setVerticalScrollBarEnabled(false);
+	     	    webview.setHorizontalScrollBarEnabled(false);
+
+	     	    // Actually disable the horizontal and vertical scrolling:
+	     	    webview.setOnTouchListener(new View.OnTouchListener() {
+					@Override
+					public boolean onTouch(View v, MotionEvent event) {
+						// TODO Auto-generated method stub
+	     	    		return (event.getAction() == MotionEvent.ACTION_MOVE);
+					}
+	     	    });
+	     	    
+	     	    Toast.makeText(SearchActivity.this, pokemonFromBDD.toString(), Toast.LENGTH_LONG).show();
 	        }
 	        // Else inform the user that the query does not correspond to a Pokemon in the Database, via a Toast.
 	        else {
