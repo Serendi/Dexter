@@ -80,8 +80,8 @@ public final class R {
         public static final int imageButton=0x7f0a0000;
         public static final int imageView1=0x7f0a0020;
         public static final int imgLogo=0x7f0a0021;
+        public static final int name_and_number=0x7f0a0003;
         public static final int pokemon_types=0x7f0a0002;
-        public static final int textView1=0x7f0a0003;
         public static final int textView10=0x7f0a000f;
         public static final int textView11=0x7f0a0011;
         public static final int textView12=0x7f0a0012;

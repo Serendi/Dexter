@@ -60,24 +60,21 @@
     <!-- android:focusableInTouchMode="false" -->
     <!-- android:layout_centerVertical="true" -->
     <!-- android:contentDescription="@string/poke" /> <!- change this eventually -->
- -->
+
 
     <LinearLayout
         android:id="@+id/pokemon_types"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/webview"
         android:layout_below="@+id/imageButton"
-        android:layout_weight="1"
         android:orientation="vertical" >
 
         <TextView
-            android:id="@+id/textView1"
-            android:layout_width="wrap_content"
+            android:id="@+id/name_and_number"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_alignBottom="@+id/imageButton"
-            android:layout_toLeftOf="@+id/imageButton"
+            android:gravity="center"
             android:contentDescription="@string/poke"
             android:text="@string/sample"
             android:textAppearance="?android:attr/textAppearanceMedium" />
@@ -85,34 +82,36 @@
         <LinearLayout
             android:id="@+id/pokemon_types"
             android:layout_width="fill_parent"
-            android:layout_height="25dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
             android:layout_alignParentRight="true"
             android:layout_below="@+id/textView2"
-            android:layout_weight="1"
             android:orientation="horizontal" >
-
-            <TextView
-                android:id="@+id/type02"
-                android:layout_width="70dp"
-                android:layout_height="wrap_content"
-                android:layout_alignBaseline="@+id/TextView01"
-                android:layout_alignBottom="@+id/TextView01"
-                android:layout_alignRight="@+id/imageButton"
-                android:background="@color/ice"
-                android:gravity="center"
-                android:text="Ice"
-                android:textSize="13sp" />
 
             <TextView
                 android:id="@+id/type01"
                 android:layout_width="70dp"
                 android:layout_height="wrap_content"
-                android:background="@color/ice"
+                android:layout_alignBaseline="@+id/TextView01"
+                android:layout_alignBottom="@+id/TextView01"
+                android:layout_alignRight="@+id/imageButton"
+                android:layout_marginLeft="6dp"
                 android:gravity="center"
                 android:text="Ice"
+                android:background="@color/ice"
                 android:textSize="13sp" />
 
+            <TextView
+                android:id="@+id/type02"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+	            android:layout_marginLeft="8dp"
+                android:layout_marginRight="6dp"
+                android:gravity="center"
+                android:text="Ice"
+                android:background="@color/ice"
+                android:textSize="13sp" />
+            
         </LinearLayout>
     </LinearLayout>
 

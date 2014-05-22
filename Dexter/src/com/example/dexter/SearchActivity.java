@@ -342,16 +342,21 @@ public class SearchActivity extends Activity //Fragment
 	        	 * overwritten by the layout described in the activity_main XML file.
 	        	 */
 	        	
-	        	index = (TextView) findViewById(R.id.textView1);
+	        	index = (TextView) findViewById(R.id.name_and_number);
 	        	String name = pokemonFromBDD.getName();
 	        	name = name.substring(0, 1).toUpperCase() + name.substring(1);
 	        	String number = pokemonFromBDD.getPID();
 	        	index.setText(name + " - " + number);
 	        	
+	        	// Update the UI with the new pokemon's type
 	        	index = (TextView) findViewById(R.id.type01);
 	        	String type = pokemonFromBDD.getType1();
 	        	index.setText(type);
-	        	index.setBackgroundColor(223);
+	        	index.setBackgroundColor(667);
+	        	index = (TextView) findViewById(R.id.type02);
+	        	type = pokemonFromBDD.getType2();
+	        	index.setText(type);
+	        	index.setBackgroundColor(getColorValue(type));
 	        	//Resources.getIdentifier(type, null, null));//R.color.getField(type));
 	        	type = type.toLowerCase();
 	        	
@@ -364,7 +369,7 @@ public class SearchActivity extends Activity //Fragment
 	     	    // webview.loadData(htmlpage, "text/html", "UTF-8");
 	     	    webview.loadDataWithBaseURL("", htmlpage, "text/html","utf-8", "");  	     	    
 	     	    
-	     	    // Only hides the scrollbar, doesn't disable the scrolling:
+	     	    // Only hides the scroll bar, doesn't disable the scrolling:
 	     	    webview.setVerticalScrollBarEnabled(false);
 	     	    webview.setHorizontalScrollBarEnabled(false);
 
@@ -385,4 +390,18 @@ public class SearchActivity extends Activity //Fragment
 	        }
 		}
 	}
+	
+	public int getColorValue(String color) 
+	{
+		return 1;
+//		String name = "";
+//		switch (color) {
+//		case keyName1:
+//		    name = getString(R.string.keyName1);
+//		    break;
+//		case keyName2:
+//		    name = ...
+//		    ...
+//		}
+	}	
 }
