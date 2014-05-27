@@ -352,12 +352,11 @@ public class SearchActivity extends Activity //Fragment
 	        	index = (TextView) findViewById(R.id.type01);
 	        	String type = pokemonFromBDD.getType1();
 	        	index.setText(type);
-	        	index.setBackgroundColor(667);
+	        	index.setBackgroundColor(getColorValue(type));
 	        	index = (TextView) findViewById(R.id.type02);
 	        	type = pokemonFromBDD.getType2();
 	        	index.setText(type);
 	        	index.setBackgroundColor(getColorValue(type));
-	        	//Resources.getIdentifier(type, null, null));//R.color.getField(type));
 	        	type = type.toLowerCase();
 	        	
 	            WebView webview = (WebView) findViewById(R.id.webview);
@@ -393,15 +392,46 @@ public class SearchActivity extends Activity //Fragment
 	
 	public int getColorValue(String color) 
 	{
-		return 1;
-//		String name = "";
-//		switch (color) {
-//		case keyName1:
-//		    name = getString(R.string.keyName1);
-//		    break;
-//		case keyName2:
-//		    name = ...
-//		    ...
-//		}
+		if (color.equals("")) {
+			return R.color.background;
+		} else if (color.equals("normal")) {
+			return R.color.normal;
+		} else if (color.equals("fire")) {
+			return R.color.fire;
+		} else if (color.equals("water")) {
+			return R.color.water;
+		} else if (color.equals("electric")) {
+			return R.color.electric;
+		} else if (color.equals("grass")) {
+			return R.color.grass;
+		} else if (color.equals("ice")) {
+			return R.color.ice;
+		} else if (color.equals("fight")) {
+			return R.color.fight;
+		} else if (color.equals("poison")) {
+			return R.color.poison;
+		} else if (color.equals("ground")) {
+			return R.color.ground;
+		} else if (color.equals("flying")) {
+			return R.color.flying;
+		} else if (color.equals("psychic")) {
+			return R.color.psychic;
+		} else if (color.equals("bug")) {
+			return R.color.bug;
+		} else if (color.equals("rock")) {
+			return R.color.rock;
+		} else if (color.equals("ghost")) {
+			return R.color.ghost;
+		} else if (color.equals("dragon")) {
+			return R.color.dragon;
+		} else if (color.equals("dark")) {
+			return R.color.dark;
+		} else if (color.equals("steel")) {
+			return R.color.steel;
+		} else if (color.equals("fairy")) {
+			return R.color.fire;
+		} else {
+			return R.color.background;
+		}
 	}	
 }
