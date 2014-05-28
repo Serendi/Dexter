@@ -351,13 +351,17 @@ public class SearchActivity extends Activity //Fragment
 	        	// Update the UI with the new pokemon's type
 	        	index = (TextView) findViewById(R.id.type01);
 	        	String type = pokemonFromBDD.getType1();
-	        	index.setText(type);
 	        	index.setBackgroundColor(getColorValue(type));
+	        	type = type.substring(0, 1).toUpperCase() + type.substring(1);
+	        	index.setText(type);
 	        	index = (TextView) findViewById(R.id.type02);
 	        	type = pokemonFromBDD.getType2();
-	        	index.setText(type);
 	        	index.setBackgroundColor(getColorValue(type));
-	        	type = type.toLowerCase();
+	        	if (type.length() > 0) {
+	        		type = type.substring(0, 1).toUpperCase() + type.substring(1);
+	        	}
+	        	index.setText(type);
+
 	        	
 	            WebView webview = (WebView) findViewById(R.id.webview);
 	            //webview.loadUrl("file:///android_asset/xy-gifs/" + "pokemon.html");//+ query +".png"); //.gif?
@@ -392,46 +396,47 @@ public class SearchActivity extends Activity //Fragment
 	
 	public int getColorValue(String color) 
 	{
+		Resources colors = getResources();
 		if (color.equals("")) {
-			return R.color.background;
+			return colors.getColor(R.color.background);
 		} else if (color.equals("normal")) {
-			return R.color.normal;
+			return colors.getColor(R.color.normal);
 		} else if (color.equals("fire")) {
-			return R.color.fire;
+			return colors.getColor(R.color.fire);
 		} else if (color.equals("water")) {
-			return R.color.water;
+			return colors.getColor(R.color.water);
 		} else if (color.equals("electric")) {
-			return R.color.electric;
+			return colors.getColor(R.color.electric);
 		} else if (color.equals("grass")) {
-			return R.color.grass;
+			return colors.getColor(R.color.grass);
 		} else if (color.equals("ice")) {
-			return R.color.ice;
+			return colors.getColor(R.color.ice);
 		} else if (color.equals("fight")) {
-			return R.color.fight;
+			return colors.getColor(R.color.fight);
 		} else if (color.equals("poison")) {
-			return R.color.poison;
+			return colors.getColor(R.color.poison);
 		} else if (color.equals("ground")) {
-			return R.color.ground;
+			return colors.getColor(R.color.ground);
 		} else if (color.equals("flying")) {
-			return R.color.flying;
+			return colors.getColor(R.color.flying);
 		} else if (color.equals("psychic")) {
-			return R.color.psychic;
+			return colors.getColor(R.color.psychic);
 		} else if (color.equals("bug")) {
-			return R.color.bug;
+			return colors.getColor(R.color.bug);
 		} else if (color.equals("rock")) {
-			return R.color.rock;
+			return colors.getColor(R.color.rock);
 		} else if (color.equals("ghost")) {
-			return R.color.ghost;
+			return colors.getColor(R.color.ghost);
 		} else if (color.equals("dragon")) {
-			return R.color.dragon;
+			return colors.getColor(R.color.dragon);
 		} else if (color.equals("dark")) {
-			return R.color.dark;
+			return colors.getColor(R.color.dark);
 		} else if (color.equals("steel")) {
-			return R.color.steel;
+			return colors.getColor(R.color.steel);
 		} else if (color.equals("fairy")) {
-			return R.color.fire;
+			return colors.getColor(R.color.fairy);
 		} else {
-			return R.color.background;
+			return colors.getColor(R.color.background);
 		}
 	}	
 }

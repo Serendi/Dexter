@@ -2,6 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/background"
     tools:context=".MainActivity" >
 
     <ImageButton
@@ -61,13 +62,12 @@
     <!-- android:layout_centerVertical="true" -->
     <!-- android:contentDescription="@string/poke" /> <!- change this eventually -->
 
-
     <LinearLayout
-        android:id="@+id/pokemon_types"
+        android:id="@+id/pokemon_types_wrapper"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:layout_toRightOf="@+id/webview"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/imageButton"
+        android:layout_toRightOf="@+id/webview"
         android:orientation="vertical" >
 
         <TextView
@@ -83,18 +83,13 @@
             android:id="@+id/pokemon_types"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentRight="true"
-            android:layout_below="@+id/textView2"
+            android:gravity="center"
             android:orientation="horizontal" >
 
             <TextView
                 android:id="@+id/type01"
                 android:layout_width="70dp"
                 android:layout_height="wrap_content"
-                android:layout_alignBaseline="@+id/TextView01"
-                android:layout_alignBottom="@+id/TextView01"
-                android:layout_alignRight="@+id/imageButton"
                 android:layout_marginLeft="6dp"
                 android:gravity="center"
                 android:text="Ice"

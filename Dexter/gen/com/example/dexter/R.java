@@ -69,7 +69,6 @@ public final class R {
         public static final int water=0x7f020018;
     }
     public static final class id {
-        public static final int TextView01=0x7f0a0006;
         public static final int action_settings=0x7f0a0022;
         public static final int damage1=0x7f0a0008;
         public static final int damage2=0x7f0a000e;
@@ -81,7 +80,8 @@ public final class R {
         public static final int imageView1=0x7f0a0020;
         public static final int imgLogo=0x7f0a0021;
         public static final int name_and_number=0x7f0a0003;
-        public static final int pokemon_types=0x7f0a0002;
+        public static final int pokemon_types=0x7f0a0004;
+        public static final int pokemon_types_wrapper=0x7f0a0002;
         public static final int textView10=0x7f0a000f;
         public static final int textView11=0x7f0a0011;
         public static final int textView12=0x7f0a0012;
@@ -92,7 +92,7 @@ public final class R {
         public static final int textView17=0x7f0a0018;
         public static final int textView18=0x7f0a0019;
         public static final int textView19=0x7f0a001c;
-        public static final int textView2=0x7f0a0004;
+        public static final int textView2=0x7f0a0007;
         public static final int textView20=0x7f0a001d;
         public static final int textView3=0x7f0a0009;
         public static final int textView4=0x7f0a000d;
@@ -101,8 +101,8 @@ public final class R {
         public static final int textView7=0x7f0a000c;
         public static final int textView8=0x7f0a0010;
         public static final int textView9=0x7f0a000b;
-        public static final int type01=0x7f0a0007;
-        public static final int type02=0x7f0a0005;
+        public static final int type01=0x7f0a0005;
+        public static final int type02=0x7f0a0006;
         public static final int webview=0x7f0a0001;
     }
     public static final class layout {
