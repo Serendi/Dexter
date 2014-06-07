@@ -11,6 +11,7 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.view.Menu;
 import android.view.MotionEvent;
 import android.view.View;
 import android.webkit.WebView;
@@ -366,7 +367,7 @@ public class SearchActivity extends Activity //Fragment
 	            WebView webview = (WebView) findViewById(R.id.webview);
 	            //webview.loadUrl("file:///android_asset/xy-gifs/" + "pokemon.html");//+ query +".png"); //.gif?
 	     	    	     	    
-	     	    String htmlpage = "<html><body style=\"background:#000000\"><div style=\"height:150px; width:150px; background:#000000 url(\'file:///android_asset/xy-gifs/" + query + ".png" + "\') no-repeat center center;\"></div></body></html>";
+	     	    String htmlpage = "<html><body style=\"background:#000000\"><div style=\"height:150px; width:150px; background:#000000 url(\'file:///android_asset/img-backups/" + query + ".png" + "\') no-repeat center center;\"></div></body></html>";
 
 	     	    // Below doesn't work.
 	     	    // webview.loadData(htmlpage, "text/html", "UTF-8");
@@ -438,5 +439,12 @@ public class SearchActivity extends Activity //Fragment
 		} else {
 			return colors.getColor(R.color.background);
 		}
-	}	
+	}
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu)
+	{
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
 }
