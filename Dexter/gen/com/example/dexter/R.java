@@ -24,6 +24,8 @@ public final class R {
         public static final int grass=0x7f050005;
         public static final int ground=0x7f050009;
         public static final int ice=0x7f050006;
+        /**  0044AA 
+         */
         public static final int normal=0x7f050001;
         public static final int poison=0x7f050008;
         public static final int psychic=0x7f05000b;
