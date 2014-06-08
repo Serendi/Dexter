@@ -367,7 +367,7 @@ public class SearchActivity extends Activity //Fragment
 	            WebView webview = (WebView) findViewById(R.id.webview);
 	            //webview.loadUrl("file:///android_asset/xy-gifs/" + "pokemon.html");//+ query +".png"); //.gif?
 	     	    	     	    
-	     	    String htmlpage = "<html><body style=\"background:#000000\"><div style=\"height:150px; width:150px; background:#000000 url(\'file:///android_asset/img-backups/" + query + ".png" + "\') no-repeat center center;\"></div></body></html>";
+	     	    String htmlpage = "<html><body style=\"background:#000000\"><div style=\"height:150px; width:150px; background:#000000 url(\'file:///android_asset/xy-gifs/" + query + ".png" + "\') no-repeat center center;\"></div></body></html>";
 
 	     	    // Below doesn't work.
 	     	    // webview.loadData(htmlpage, "text/html", "UTF-8");

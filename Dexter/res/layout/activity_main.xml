@@ -13,7 +13,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginRight="2dp"
         android:layout_marginTop="3dp"
-        android:background="@drawable/search_button"
+        android:background="@drawable/ic_action_search"
         android:contentDescription="@string/content" />
 
     <!-- <ImageView -->
@@ -122,6 +122,7 @@
         android:layout_below="@+id/webview"
         android:gravity="center"
         android:text="@string/damage"
+        android:textColor="@color/normal"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <LinearLayout

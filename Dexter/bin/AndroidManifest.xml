@@ -25,7 +25,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
-        </activity> <!-- Main activity, nothing changed so far -->
+        </activity>
 	
 		<!-- Main activity (from tutorial) -->
 		<activity

@@ -55,20 +55,21 @@ public final class R {
         public static final int ghost=0x7f02000a;
         public static final int grass=0x7f02000b;
         public static final int ground=0x7f02000c;
-        public static final int ic_launcher=0x7f02000d;
-        public static final int ice=0x7f02000e;
-        public static final int normal=0x7f02000f;
-        public static final int pikaload=0x7f020010;
-        public static final int poison=0x7f020011;
-        public static final int psychic=0x7f020012;
-        public static final int rock=0x7f020013;
-        public static final int search_button=0x7f020014;
+        public static final int ic_action_search=0x7f02000d;
+        public static final int ic_launcher=0x7f02000e;
+        public static final int ice=0x7f02000f;
+        public static final int normal=0x7f020010;
+        public static final int pikaload=0x7f020011;
+        public static final int poison=0x7f020012;
+        public static final int psychic=0x7f020013;
+        public static final int rock=0x7f020014;
         public static final int selected_image=0x7f020015;
         public static final int steel=0x7f020016;
         public static final int unselected_image=0x7f020017;
         public static final int water=0x7f020018;
     }
     public static final class id {
+        public static final int action_search=0x7f0a0023;
         public static final int action_settings=0x7f0a0022;
         public static final int damage1=0x7f0a0008;
         public static final int damage2=0x7f0a000e;
@@ -115,16 +116,17 @@ public final class R {
         public static final int profile=0x7f090001;
     }
     public static final class string {
+        public static final int action_search=0x7f070002;
         public static final int action_settings=0x7f070001;
         public static final int app_name=0x7f070000;
-        public static final int content=0x7f070002;
-        public static final int damage=0x7f070007;
-        public static final int load=0x7f070008;
-        public static final int poke=0x7f070005;
-        public static final int pokewebview_1=0x7f070009;
-        public static final int sample=0x7f070006;
-        public static final int search_hint=0x7f070003;
-        public static final int title_activity_profile=0x7f070004;
+        public static final int content=0x7f070003;
+        public static final int damage=0x7f070008;
+        public static final int load=0x7f070009;
+        public static final int poke=0x7f070006;
+        public static final int pokewebview_1=0x7f07000a;
+        public static final int sample=0x7f070007;
+        public static final int search_hint=0x7f070004;
+        public static final int title_activity_profile=0x7f070005;
     }
     public static final class style {
         /** 
