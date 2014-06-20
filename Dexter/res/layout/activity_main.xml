@@ -25,13 +25,6 @@
     <!-- android:background="@android:color/transparent" -->
     <!-- android:contentDescription="@string/poke" -->
     <!-- android:src="@drawable/a025" /> -->
-
-    <WebView
-        android:id="@+id/webview"
-        android:layout_width="160dp"
-        android:layout_height="160dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true" />
     <!-- android:layout_width="wrap_content" -->
     <!-- android:layout_height="wrap_content" -->
     <!-- change this eventually -->
@@ -377,5 +370,12 @@
             android:layout_marginLeft="4dp"
             android:layout_weight="20" />
     </LinearLayout>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_below="@+id/pokemon_types_wrapper"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
